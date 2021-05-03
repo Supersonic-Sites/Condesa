@@ -13,11 +13,13 @@
 /*Typography */
 @font-face {
   font-family: 'MostraOne';
-  src: url('/fonts/MostraOne.ttf')  format('truetype')
+  src: url('/fonts/MostraOne.ttf')  format('truetype');
+  font-display: swap;
 }
 @font-face {
   font-family: 'Arno Pro Light Display';
-  src: url('/fonts/Arno-Pro-Light-Display.ttf')  format('truetype')
+  src: url('/fonts/Arno-Pro-Light-Display.ttf')  format('truetype');
+  font-display: swap;
 }
 h1 {
   font-family: 'MostraOne' serif !important;
