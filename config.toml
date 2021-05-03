@@ -1,0 +1,91 @@
+baseURL = "/"
+title = "Condesa Jewelry Expertise"
+description = "Condesa is where the ancient wisdom of the pieces and the new knowledge blends into manifested art.  A temple to the outstanding art of jewerly."
+languageCode = "en-ca"
+DefaultContentLanguage = "en"
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
+
+[sitemap]
+changefreq = "monthly"
+filename = "sitemap.xml"
+
+[build]
+writeStats = true
+enableRobotsTXT = true
+
+[menu]
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = "1"
+
+[[menu.main]]
+name = "About"
+url = "about/"
+weight = "2"
+
+[[menu.main]]
+name = "Gallery"
+url = "gallery/"
+weight = "3"
+
+[[menu.main]]
+name = "Custom Design"
+url = "custom-design/"
+weight = "4"
+
+[[menu.main]]
+name = "Repair"
+url = "repair/"
+weight = "5"
+
+[[menu.main]]
+name = "Contact"
+url = "contact/"
+weight = "6"
+
+[[menu.main]]
+name = "Appointment"
+url = "https://cloud.condesajewelryexpertise.com/index.php/apps/appointments/pub/HGOi8D8pDwd2sIDNqNE4vQ%3D%3D/form"
+weight = "7"
+
+[params]
+gtm = "GTM-5M5WMC9"
+servicename = "Condesa Jewelry Expertise"
+googlemap = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2604.262221444169!2d-123.10284768425656!3d49.25247558083132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548673fa54bbb0eb%3A0xa164c989d7a2a75a!2sCondesa%20Jewelry%20Expertise!5e0!3m2!1sen!2sca!4v1620058043646!5m2!1sen!2sca"
+sitename = "Condesa Jewelry Expertise"
+usebasin = "https://usebasin.com/f/9e27fcf84caf"
+videoOn = false
+description = "Condesa is where the ancient wisdom of the pieces and the new knowledge blends into manifested art.  A temple to the outstanding art of jewerly."
+
+[params.schema]
+ogimage = "https://ik.imagekit.io/supersonicsites/Condesa/Condesa_Jewelry_Expertise_0_kF3Podx.jpg"
+logofooter = "#"
+city = "Rigaud"
+logo = "https://ik.imagekit.io/supersonicsites/Condesa/Condessa_Logo_Official_6oJAqxLeXE.png"
+reservation = true
+phone = "(604) 874-1879"
+priceRange = "$$$"
+region = "QC"
+country = "Canada"
+postalcode = "J0P 1P0"
+type = "JewelryStore"
+openinghour = "Mo-Sa: 10-6"
+email = "info@condesajewelryexpertise.com"
+address1 = "3622 Main Street"
+address2 = "Vancouver, BC"
+address_toggle = true
+
+[params.social]
+facebook = "https://www.facebook.com/condesajewelryexpertise/"
+twitter = "#"
+pinterest = "#"
+instagram = "https://www.instagram.com/condesa.jewelry.expertise/"
+linkedin = "#"
+
+[[params.hours]]
+hours = "Mon to Sat: 10AM to 6PM"
+
+[[params.hours]]
+hours = "Sun: CLOSED"

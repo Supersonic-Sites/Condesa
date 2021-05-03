@@ -1,0 +1,25 @@
+<!-- Main Script -->
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+{{ $script := resources.Get "js/aos.js" | minify}}
+<script src="{{ $script.Permalink }}"></script>
+
+{{ $script := resources.Get "js/lazysizes.min.js" }}
+<script src="{{ $script.Permalink }}" async></script>
+
+{{ if $.Site.Params.VideoOn}}
+{{ $script := resources.Get "js/video.js" | minify}}
+<script src="{{ $script.Permalink }}" defer></script>
+{{ end }}
+<script type="text/javascript" src="https://unpkg.com/imagekit-javascript/dist/imagekit.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.2/dist/alpine.min.js" async></script>
+
+
+<script defer>
+    AOS.init();
+</script>
+<script defer>
+    var imagekit = new ImageKit({
+    urlEndpoint: "https://ik.imagekit.io/supersonicsites"
+});  
+</script>
