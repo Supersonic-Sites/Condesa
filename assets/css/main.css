@@ -5,7 +5,7 @@
 @tailwind typography;
 
 #desktop_menu li:last-child a {
-  @apply transition duration-500 py-4 px-10 md:text-lg text-xl rounded-sm shadow-2xl hover:shadow-sm text-center hover:shadow-sm font-bold bg-primary text-white border-2 border-primary hover:border-primary hover:bg-white hover:text-primary;
+  @apply transition duration-500 py-4 px-10 md:text-xl text-xl rounded-sm shadow-2xl hover:shadow-sm text-center hover:shadow-sm font-bold bg-primary text-white border-2 border-primary hover:border-primary hover:bg-white hover:text-primary;
 }
 #desktop_menu li:last-child {
   border: none;

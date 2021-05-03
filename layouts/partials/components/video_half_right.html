@@ -12,14 +12,14 @@
               class="font-bold text-black capitalize text-3xl md:text-4xl lg:text-5xl my-4 md:my-0 md:mb-6">
               {{ .title }}
             </h2>
-            <p class="text-lg text-black">{{ .desc | safeHTML }}</p>
+            <p class="text-xl text-black">{{ .desc | safeHTML }}</p>
           </div>
           {{ else }}
           <h2
           class="font-bold text-white capitalize text-3xl md:text-4xl lg:text-5xl my-4 md:my-0 md:mb-6">
           {{ .title }}
           </h2>
-          <p class="text-lg text-white">{{ .desc | safeHTML }}</p>
+          <p class="text-xl text-white">{{ .desc | safeHTML }}</p>
           </div>
           {{ end }}
         {{ if .cta_select }}
