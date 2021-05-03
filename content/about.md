@@ -119,8 +119,8 @@ components:
   - type: divider
     bg_color: white
   - type: cta
-    bg_color: lila
-    title: Do you have question?
+    bg_color: primary
+    title: Do you have questions?
     cta: Drop us a line
     cta_link: contact/
 ---
