@@ -41,7 +41,8 @@ components:
         aos: fade-up
         icon: "#rings-wedding"
         title: Bridal
-        desc: Let’s create that special piece for that special day!
+        desc: Let’s create that personal, unique look that says “I love you” for that
+          special day!
         cta_select: true
       - cta: Our Process
         cta_link: "#process"
