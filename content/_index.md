@@ -8,31 +8,28 @@ components:
     img: Condesa/Condesa_Jewelry_Expertise_0_kF3Podx.jpg
     cta_link: contact/
     cta: Schedule An Appointment
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc faucibus
-      sit amet tellus ut hendrerit. Fusce ut lorem diam. Nulla pharetra arcu sed
-      ante iaculis imperdiet. Etiam ex ex, dictum non vulputate non, ullamcorper
-      eu lectus. Sed lacinia at lorem quis luctus. Quisque auctor gravida massa,
-      ac rhoncus nisi aliquet at. Duis viverra erat nulla, a placerat nunc
-      malesuada eu. "
+    desc: "Whether designing and creating custom jewelry or repairing a precious
+      memento or heirloom, Condesa delivers beautiful results every time. Let’s
+      create your unique masterpiece together. "
     cta2_link: contact/
-    title: Condesa Jewelry Expertise
+    title: Process Brilliant Ideas Into Wearable Beauty
     cta2_select: true
     type: hero
-    pre_title: Lorem Ipsum
+    pre_title: At Condesa, we
   - type: divider
     bg_color: white
   - type: heading_full
     bg_color: white
-    title_size: big
-    title: Lorem Ipsum
+    title_size: medium
+    title: "Discover a wealth of experience. Realize your vision. "
     desc_select: true
-    desc: Quisque porttitor nunc odio, vel congue justo varius quis. Sed eget ante
-      vel odio vehicula ultricies eget porttitor dolor. Ut nec tellus in dolor
-      rhoncus mollis. Nam eleifend tellus et sapien tristique faucibus. Aenean
-      facilisis turpis sit amet nisi porttitor sagittis. Maecenas porta ante
-      nisl, in scelerisque leo blandit ac. Nam ac rhoncus risus.
-    id: none
-    align: center
+    desc: "At Condesa, we want you to feel right at home. Our experts are ready to
+      listen to your vision for your projects and make it happen! Do you have a
+      specific vision in mind for a fabulous piece of custom jewelry? We can do
+      it! Do you want to repair some of grandma’s heirloom pieces? We can do
+      that too! We want your investments to look their best. We take pride in
+      offering a way for your creativity and memories to be transformed into an
+      eternal piece of beauty. "
   - type: divider_half
     bg_color: white
   - type: cards_third_img
@@ -44,8 +41,9 @@ components:
         cta_select: true
         img_alt: Picture of custom designed jewelry
         cta: Learn More
-        desc: Quisque porttitor nunc odio, vel congue justo varius quis. Sed eget ante
-          vel odio vehicula ultricies eget porttitor dolor.
+        desc: Do you have a specific vision in mind down to the precise design, metal,
+          and gemstone? We can realize it for you! Create a stunning and unique
+          custom piece with guidance from our experts.
         aos_select: true
         title: Custom Design
       - img: Condesa/Condesa_Jewelry_Expertise_0_kF3Podx.jpg
@@ -54,8 +52,9 @@ components:
         cta_select: true
         img_alt: Picture of the Condesa Jewerly Expertise Team
         cta: Learn More
-        desc: Quisque porttitor nunc odio, vel congue justo varius quis. Sed eget ante
-          vel odio vehicula ultricies eget porttitor dolor.
+        desc: "Our team of experts is led by a certified gemologist with nearly 30 years
+          of experience. We’re in love with beauty and creating art and can’t
+          wait to help you realize your projects! "
         aos_select: true
         title: About Condesa Jewelry
       - img: Condesa/Stone_Replacement_5_wQY7gDOKE.jpg
@@ -64,8 +63,9 @@ components:
         cta_select: true
         img_alt: "Picture of a repaired and restored jewelry "
         cta: Learn More
-        desc: Quisque porttitor nunc odio, vel congue justo varius quis. Sed eget ante
-          vel odio vehicula ultricies eget porttitor dolor.
+        desc: "Need a precious and sentimental piece repaired? No problem! We can
+          refurbish and repair all jewelry items, be it rings, chains,
+          bracelets, earrings, cufflinks and more! "
         aos_select: true
         title: Jewelry Repair
   - type: divider
