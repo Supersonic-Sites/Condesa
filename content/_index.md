@@ -52,7 +52,7 @@ components:
         img_alt: Picture of the Condesa Jewerly Expertise Team
         cta: Learn More
         desc: "Our team of experts is led by a certified gemologist with nearly 30 years
-          of experience. We’re in love with beauty and can’t wait to help you
+          of experience. We’re in love with beauty and can’t wait to help
           realize your projects! "
         aos_select: true
         title: About Condesa Jewelry
