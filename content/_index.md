@@ -51,8 +51,9 @@ components:
         cta_select: true
         img_alt: Picture of the Condesa Jewerly Expertise Team
         cta: Learn More
-        desc: Quisque porttitor nunc odio, vel congue justo varius quis. Sed eget ante
-          vel odio vehicula ultricies eget porttitor dolor.
+        desc: "Our team of experts is led by a certified gemologist with nearly 30 years
+          of experience. We’re in love with beauty and can’t wait to help you
+          realize your projects! "
         aos_select: true
         title: About Condesa Jewelry
       - img: Condesa/Stone_Replacement_5_wQY7gDOKE.jpg
