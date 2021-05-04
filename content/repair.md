@@ -67,7 +67,8 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Gemstone Replacement
-        desc: Lorem ipsum
+        desc: "Choose from our wonderful collection of gemstones to restore any design
+          to its full beauty. "
         aos_select: true
         aos: fade-up
       - img: Condesa/CUSTOM_1_Landing_aZu7dreie.JPG
