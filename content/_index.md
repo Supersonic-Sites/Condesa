@@ -21,13 +21,15 @@ components:
   - type: heading_full
     bg_color: white
     title_size: medium
-    title: Lorem Ipsum
+    title: "Discover a wealth of experience. Realize your vision. "
     desc_select: true
-    desc: Quisque porttitor nunc odio, vel congue justo varius quis. Sed eget ante
-      vel odio vehicula ultricies eget porttitor dolor. Ut nec tellus in dolor
-      rhoncus mollis. Nam eleifend tellus et sapien tristique faucibus. Aenean
-      facilisis turpis sit amet nisi porttitor sagittis. Maecenas porta ante
-      nisl, in scelerisque leo blandit ac. Nam ac rhoncus risus.
+    desc: "At Condesa, we want you to feel right at home. Our experts are ready to
+      listen to your vision for your projects and make it happen! Do you have a
+      specific vision in mind for a fabulous piece of custom jewelry? We can do
+      it! Do you want to repair some of grandma’s heirloom pieces? We can do
+      that too! We want your investments to look their best. We take pride in
+      offering a way for your creativity and memories to be transformed into an
+      eternal piece of beauty. "
   - type: divider_half
     bg_color: white
   - type: cards_third_img
