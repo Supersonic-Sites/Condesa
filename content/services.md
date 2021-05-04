@@ -33,7 +33,8 @@ components:
         aos: fade-up
         icon: "#paint-brush"
         title: Create Your Own
-        desc: Let's work together on your masterpiece!
+        desc: Bring your brilliant ideas to the table and let's work together on your
+          masterpiece!
         cta_select: true
       - cta: Our Process
         cta_link: "#process"
