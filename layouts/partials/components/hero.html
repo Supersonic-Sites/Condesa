@@ -1,19 +1,19 @@
 
-<section class="h-96 md:h-auto md:mt-0 py-96 md:py-96 px-8 text-white flex bg-right md:bg-center bg-center bg-cover bg-no-repeat"
-style="background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url('https://ik.imagekit.io/supersonicsites/tr:ar-4-3,w-1980,c_scale,f_auto,q_auto,dpr_auto,/{{ .img }}');">
+<section class="h-96 md:h-auto md:mt-0 py-72 md:py-72 px-8 text-white flex bg-right md:bg-center bg-center bg-cover bg-no-repeat"
+style="background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)), url('https://ik.imagekit.io/supersonicsites/tr:ar-4-3,w-1980,c_scale,f_auto,q_auto,dpr_auto,/{{ .img }}');">
 
-<div class="container max-w-7xl mx-auto flex flex-col justify-center items-center md:items-start">
+<div class="container max-w-7xl mx-auto flex flex-col justify-center items-center">
 
-  <div class="lg:max-w-4xl" data-aos="fade" data-aos-duration="500">
-    <p class="capitalize text-3xl tracking-widest text-center md:text-left">
+  <div class="max-w-7xl flex flex-col items-center" data-aos="fade" data-aos-duration="500">
+    <p class="capitalize text-3xl tracking-widest text-center md:text-left mb-2">
 
       {{ .pre_title }}
     </p>
-    <h1 class="tracking-wider font-bold uppercase text-5xl md:text-6xl text-center md:text-left">
+    <h1 class="tracking-wider font-bold uppercase text-5xl md:text-8xl text-center md:text-left">
       {{ .title }}
     </h1>
 
-    <h2 class="capitalize text-xl md:text-2xl text-center md:text-left mt-4 mb-6">
+    <h2 class="capitalize tracking-widest text-xl md:text-3xl max-w-3xl text-center mt-4 mb-6 ">
       {{ .desc | safeHTML }}
     </h2>
 

@@ -10,7 +10,7 @@ components:
     cta: Schedule An Appointment
     desc: "Whether designing and creating custom jewelry or repairing a precious
       memento or heirloom, Condesa delivers beautiful results every time. Let’s
-      create your unique masterpiece together. "
+      create your unique masterpiece together.  "
     cta2_link: contact/
     title: In Awe of Beauty
     cta2_select: true
