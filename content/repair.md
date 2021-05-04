@@ -16,12 +16,12 @@ components:
     title: The true beauty of jewelry resides in its timelessness.
     title_size: big
     desc_select: true
-    desc: " At Condesa, we specialize in the restoration of vintage, costume &
-      fashion jewelry. These items range from brooches to cameo’s & multi-strand
-      beaded necklaces to enamelled items. Lorem ipsum dolor sit amet,
-      consectetur adipiscing elit. Vestibulum ac arcu ex. Donec vel dui metus.
-      Donec gravida suscipit velit, a convallis odio commodo quis. Proin nec
-      mattis nisl."
+    desc: >
+      Every jewelry piece deserves to be repaired and restored. These pieces are
+      historic artifacts! Let’s get those vintage treasures out of the box and
+      into the light again! At Condesa, we specialize in the restoration of
+      vintage, costume, and fashion jewelry. These items range from brooches to
+      cameo’s, multi-strand beaded necklaces to enamelled items.
   - type: divider_half
     bg_color: white
   - type: cards_third_img
