@@ -41,8 +41,9 @@ components:
         cta_select: true
         img_alt: Picture of custom designed jewelry
         cta: Learn More
-        desc: Do you have a specific vision in mind? We can realize it for you! Create a
-          stunning and unique custom piece with guidance from our experts.
+        desc: Do you have a specific vision in mind down to the precise design, metal,
+          and gemstone? We can realize it for you! Create a stunning and unique
+          custom piece with guidance from our experts.
         aos_select: true
         title: Custom Design
       - img: Condesa/Condesa_Jewelry_Expertise_0_kF3Podx.jpg
@@ -52,7 +53,7 @@ components:
         img_alt: Picture of the Condesa Jewerly Expertise Team
         cta: Learn More
         desc: "Our team of experts is led by a certified gemologist with nearly 30 years
-          of experience. We’re in love with beauty and can’t wait to help
+          of experience. We’re in love with beauty and can’t wait to help you
           realize your projects! "
         aos_select: true
         title: About Condesa Jewelry
