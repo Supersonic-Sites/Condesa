@@ -8,12 +8,9 @@ components:
     img: Condesa/Condesa_Jewelry_Expertise_0_kF3Podx.jpg
     cta_link: contact/
     cta: Schedule An Appointment
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc faucibus
-      sit amet tellus ut hendrerit. Fusce ut lorem diam. Nulla pharetra arcu sed
-      ante iaculis imperdiet. Etiam ex ex, dictum non vulputate non, ullamcorper
-      eu lectus. Sed lacinia at lorem quis luctus. Quisque auctor gravida massa,
-      ac rhoncus nisi aliquet at. Duis viverra erat nulla, a placerat nunc
-      malesuada eu. "
+    desc: "Whether designing and creating custom jewelry or repairing a precious
+      memento or heirloom, Condesa delivers beautiful results every time. Let’s
+      create your unique masterpiece together. "
     cta2_link: contact/
     title: Condesa Jewelry Expertise
     cta2_select: true
