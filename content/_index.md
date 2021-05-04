@@ -63,7 +63,7 @@ components:
         cta_select: true
         img_alt: "Picture of a repaired and restored jewelry "
         cta: Learn More
-        desc: "Need a precious and memorable piece repaired? No problem! We can
+        desc: "Need a precious and sentimental piece repaired? No problem! We can
           refurbish and repair all jewelry items, be it rings, chains,
           bracelets, earrings, cufflinks and more! "
         aos_select: true
