@@ -76,7 +76,8 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Special Items
-        desc: Lorem Ipsum
+        desc: "We don’t stop at jewelry. We can repair any precious item in any metal
+          with any gemstone. "
         aos_select: true
         aos: fade-up
   - type: divider
