@@ -180,13 +180,11 @@ components:
     title_size: big
     bg_color: white
     desc_select: true
-    desc: Restoring vintage jewelry is particularly challenging, it requires vast
-      knowledge of antique jewelry styles & of the techniques originally used
-      when the piece was created. We have the unique combination of skills &
-      specialized equipment to expertly restore & renovate your precious vintage
-      jewelry pieces. We can repair & restore vintage items such as brooches,
-      hairpieces, hat pins, cameo’s, multi-strand beaded necklaces & enameled
-      pieces.
+    desc: "Restoring vintage jewelry is particularly challenging, requiring vast
+      knowledge of antique jewelry styles and original techniques. At Condesa,
+      we have the unique combination of skills and specialized equipment to
+      expertly restore and renovate your precious vintage jewelry pieces.
+      Contact us and let us know how we can help! "
     title: Let's Start The Process
     type: heading_full
     id: start
