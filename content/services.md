@@ -14,12 +14,15 @@ components:
     title_size: big
     title: Creating a Bridge Between Idea & Creation
     desc_select: true
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar,
-      ligula molestie dignissim vestibulum, diam nibh pretium mi, id vulputate
-      ante turpis non lacus. Etiam vestibulum augue ultrices pellentesque
-      luctus. Suspendisse dictum porta libero a cursus. Suspendisse varius
-      venenatis leo, at dapibus velit rhoncus at. Aliquam malesuada vehicula
-      laoreet. "
+    desc: "If you have a totally unique and creative design in mind that isn’t
+      captured by an already existing piece, no problem! We’re here to bring
+      your idea to life. At Condesa, we can make a piece of jewelry out of
+      anything. Sketch your vision out on a napkin, and we can do it. The beauty
+      in custom design is finding perfection in the process. We relish the
+      opportunity to create something unique and new, something that
+      encapsulates a part of you. Choose gold, platinum, palladium, and silver,
+      and any kind of gemstone you can think of (and even ones you can only
+      dream up!) for your special design. "
     align: center
     id: none
   - type: divider_half
