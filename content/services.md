@@ -228,7 +228,13 @@ components:
     title: Start the Process
     id: none
     title_size: big
-    desc: none
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque
+      sagittis pellentesque lobortis. Fusce lectus nisl, mollis ut finibus at,
+      cursus convallis leo. Sed eget tortor quis massa malesuada congue. Integer
+      molestie orci risus, in blandit diam rhoncus vitae. Vestibulum elementum,
+      magna eget consectetur iaculis, leo mi dictum erat, viverra aliquam metus
+      leo id mi. "
+    desc_select: true
   - type: form_center
     bg_color: white
     form_bg_color: gray-50
