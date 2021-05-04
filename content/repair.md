@@ -58,7 +58,8 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Vintage Jewelry
-        desc: Lorem Ipsum
+        desc: "We use specialized equipment and expert knowledge to restore vintage
+          treasures to their former glory! "
         aos_select: true
         aos: fade-up
       - img: Condesa/Sapphire_Re-set__5__010oXlp3H.jpg
