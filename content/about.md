@@ -24,7 +24,7 @@ components:
       brilliance, colour, and design. We stand in awe of beauty. <br><br>
 
 
-      We pride ourselves in being fully equipped and capable of servicing top level clientele. Above all, we value the unique vision of our clients. Our friendly and elegant environment acts as a place where one on one attention sparks creativity. The creations that emerge are always beautiful and satisfactory, without fail. Contact us today and let us know how we can join in your creative process.
+      We pride ourselves in being fully equipped and capable of servicing top level clientele. Our friendly and elegant environment acts as a place where one on one attention sparks creativity. The creations that emerge are always beautiful and satisfactory, without fail. Contact us today and let us know how we can join in your creative process.
     aos_select: true
     title: Who We Are
     type: img_half_right
