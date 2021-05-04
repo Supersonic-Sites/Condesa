@@ -157,12 +157,10 @@ components:
     title_size: big
     bg_color: white
     desc_select: true
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar,
-      ligula molestie dignissim vestibulum, diam nibh pretium mi, id vulputate
-      ante turpis non lacus. Etiam vestibulum augue ultrices pellentesque
-      luctus. Suspendisse dictum porta libero a cursus. Suspendisse varius
-      venenatis leo, at dapibus velit rhoncus at. Aliquam malesuada vehicula
-      laoreet. "
+    desc: >
+      We want to make the design process easy, interesting, and engaging for
+      you. After all, it’s YOUR creation. We’re just lucky that we get to walk
+      this journey with you. 
     title: Our Process
     type: heading_full
     id: process
@@ -179,9 +177,9 @@ components:
         cta_link: none
         cta_select: false
         cta: none
-        desc: We are here to listen
+        desc: We're here to listen to your vision
         aos_select: true
-        subtitle: We are here to listen
+        subtitle: "We're here to listen "
         title: "Step 1: TALK"
         shadow_select: false
         title_color: black
