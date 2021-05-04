@@ -61,9 +61,9 @@ components:
     img_alt: Image of Monyca Bouras
     cta: Call To Action
     desc: >-
-      Monyca is just a support system. A Mexican born mother of 2, married David
-      and moved to Vancouver following a grandson and a dream: freedom of fear.
-      <br><br>
+      Monyca is just a support system. A Mexican born mother of 2, Monyca
+      married David and moved to Vancouver following a grandson and a dream:
+      freedom of fear. <br><br>
 
       Together they have walked the walk of migration and have restarted life at an unlikely age.
 
