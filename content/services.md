@@ -142,7 +142,7 @@ components:
     desc: "Not all wedding rings are simple round gold bands.<br><br>Many couples
       want the rings to contain special meaningful elements.  Oscar and Alicia
       are this kind of couple.  She wanted white gold and moonstone to represent
-      the ethereal, he wanted jet black silver with a hidden ruby to represent
+      the ethereal; he wanted jet black silver with a hidden ruby to represent
       the earthly presence of divine energy.  "
     aos_select: true
     title: A different set of wedding rings
