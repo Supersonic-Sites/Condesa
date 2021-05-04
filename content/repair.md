@@ -41,7 +41,7 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Ring Fitting
-        desc: Lorem ipsum
+        desc: "Keep the memories close and resize your ring to perfection. "
         aos_select: true
         aos: fade-up
       - img: Condesa/Gold_chain_repair_before_vCr4CEVoy.jpg
