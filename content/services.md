@@ -91,7 +91,7 @@ components:
     cta: Call To Action
     desc: Steven explained that he wanted an engagement ring that would express
       meaning with hummingbirds.<br><br>Adding fine blue sapphire accent stones
-      into white gold, gave the center diamond a refined and ethereal
+      into white gold gave the center diamond a refined and ethereal
       presence.  The meaning of the ring and its message were very well
       received.
     aos_select: true
