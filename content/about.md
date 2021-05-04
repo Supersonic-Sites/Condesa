@@ -52,7 +52,7 @@ components:
     type: img_third_left
   - type: divider
     bg_color: white
-  - img: Condesa/MONYCA_ebl3WGjhW.jpg
+  - img: Condesa/Monyca_JzQaY0Xst.jpg
     aos: fade-up
     cta_link: contact/
     bg_color: white
@@ -73,7 +73,7 @@ components:
     type: img_third_right
   - type: divider
     bg_color: white
-  - img: Condesa/SADAF_fR_jmhftH.jpg
+  - img: Condesa/Sadaf_1__oxJmsOxQ6.jpg
     aos: fade-up
     cta_link: contact/
     bg_color: white
@@ -97,7 +97,7 @@ components:
     type: img_third_left
   - type: divider
     bg_color: white
-  - img: Condesa/MIA_t46jQ9Olae.jpg
+  - img: Condesa/Mia_picture_1__zztfqwGSR.jpg
     aos: fade-up
     cta_link: contact/
     bg_color: white

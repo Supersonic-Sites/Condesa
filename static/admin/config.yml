@@ -384,6 +384,18 @@ collections:
                     - { label: "Image", name: "img", widget: "string", default: "DEV/boilerplate-bg_tRB-gJlPq.jpg" }
                     - { label: "Image Alt Text", name: "img_alt", widget: "string", default: "Please type in a description of the image" }
 
+          - label: "Gallery Lightbox"
+            name: "gallery_lightbox"
+            widget: "object"
+            fields:
+                - label: "Images"
+                  name: "images"
+                  label_singular: "image"
+                  widget: "list"
+                  fields: 
+                    - { label: "Image", name: "img", widget: "string", default: "DEV/boilerplate-bg_tRB-gJlPq.jpg" }
+                    - { label: "Image Alt Text", name: "img_alt", widget: "string", default: "Please type in a description of the image" }
+
           - label: "Image Fullwidth"
             name: "img_full"
             widget: "object"

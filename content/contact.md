@@ -8,14 +8,15 @@ components:
     title: Contact Us
     bg_toggle: false
   - bg_color: white
-    phone: +1 (555) 123-4567
-    cta: Submit
+    phone: +1 (604) 874-1879
+    cta: "Send "
     desc: Nullam risus blandit ac aliquam justo ipsum. Quam mauris volutpat massa
       dictumst amet. Sapien tortor lacus arcu.
+    usebasin: https://usebasin.com/f/9e27fcf84caf
     title: Get In Touch
     type: contact
-    email: support@example.com
-    address1: 742 Evergreen Terrace
-    address2: Springfield, OR 12345
-    address_toggle: true
+    email: info@condesajewelryexpertise.com
+    address1: 3622 Main Street
+    address2: Vancouver, BC
+    address_toggle: false
 ---
