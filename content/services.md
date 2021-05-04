@@ -191,7 +191,7 @@ components:
         title_size: small
         cta_link: none
         cta: none
-        desc: Let's visualize your idea and sketch it out in detail
+        desc: Let's visualize your idea and sketch it out in detail.
         aos_select: true
         subtitle: none
         title: "Step 2: DRAW"
