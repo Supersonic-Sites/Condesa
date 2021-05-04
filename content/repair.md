@@ -34,7 +34,8 @@ components:
         img_alt: Don't underestimate an old piece. Sometimes it just needs some TLC and
           the magic of a professional cleaning
         cta: Let's Start
-        desc: The magic of professional cleaning
+        desc: Don't underestimate an old piece. Sometimes it just needs some TLC and the
+          magic of a professional cleaning!
         aos_select: true
         title: Restoration
       - img: Condesa/Gallery_Page/Stone_Replacement_1_I3yfNAFeZR.jpg
