@@ -12,10 +12,10 @@ components:
       memento or heirloom, Condesa delivers beautiful results every time. Let’s
       create your unique masterpiece together. "
     cta2_link: contact/
-    title: Condesa Jewelry Expertise
+    title: Process Brilliant Ideas Into Wearable Beauty
     cta2_select: true
     type: hero
-    pre_title: Process brilliant ideas into wearable beauty with
+    pre_title: At Condesa, we
   - type: divider
     bg_color: white
   - type: heading_full
