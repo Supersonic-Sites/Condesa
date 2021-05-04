@@ -35,7 +35,7 @@ components:
         cta: Let's Start
         desc: The magic of professional cleaning
         aos_select: true
-        title: Restauration
+        title: Restoration
       - img: Condesa/Gallery_Page/Stone_Replacement_1_I3yfNAFeZR.jpg
         img_alt: Ring being fit on a hand
         cta: Call To Action
