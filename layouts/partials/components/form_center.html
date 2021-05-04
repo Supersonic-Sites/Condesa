@@ -1,26 +1,28 @@
-<section class="bg-{{ .bg_color }}">
+<section class="bg-{{ .bg_color }} mt-5">
   <div class="container max-w-7xl mx-auto px-4">
       <div class="grid grid-cols-12">
       
         <div class="col-span-12 lg:col-span-8 lg:col-start-3 w-full shadow-md p-12 bg-{{ .form_bg_color }}">
+
           <form id="contact-form" method="POST" action="{{ .usebasin }}"
           class="" role="form">
 
-          <div class="field">
+          <div class="grid grid-cols-12 gap-6">
+          <div class="field col-span-12 lg:col-span-6">
 
             {{ if eq .form_bg_color "white" }}
-            <label for="form_name" class="font-bold text-white mb-3">First Name *</label>
+            <label for="form_name" class="font-bold text-white mb-3">Full Name *</label>
             {{ else }}
-            <label for="form_name" class="font-bold text-black mb-3">First Name *</label>
+            <label for="form_name" class="font-bold text-black mb-3">Full Name *</label>
             {{ end }}
 
             <div class="my-2">
-              <input id="form_name" class="border py-2 px-3 text-grey-darkest w-full" placeholder="e.g Alex Smith" type="text" name="name"
+              <input id="form_name" class="border py-2 px-3 text-grey-darkest w-full" placeholder="e.g Alex Smith" type="text" name="Full Name"
                 required="required" data-error="Firstname is required." />
             </div>
           </div>
     
-          <div class="field">
+          <div class="field col-span-12 lg:col-span-6">
             {{ if eq .form_bg_color "white" }}
             <label class="font-bold mb-3 text-white" for="email">Email *</label>
             {{ else }}
@@ -33,7 +35,7 @@
             </div>
           </div>
     
-          <div class="field">
+          <div class="field col-span-12 lg:col-span-6">
             {{ if eq .form_bg_color "white" }}
             <label class="font-bold mb-3 text-white" for="phone">Phone Number</label>
             {{ else }}
@@ -43,8 +45,24 @@
               <input id="phone" name="phone" class="border py-2 px-3 text-grey-darkest w-full" type="tel" placeholder="e.g. +1-234-567-7890" />
             </div>
           </div>
-    
-          <div class="field">
+
+          <div class="field col-span-12 lg:col-span-6">
+            {{ if eq .form_bg_color "white" }}
+            <label class="font-bold mb-3 text-white" for="topic">Topic</label>
+            {{ else }}
+            <label class="font-bold mb-3 text-black" for="topic">Topic</label>
+            {{ end }}
+            <div class="my-2">
+              <select id="topic" name="Topic" class="w-full">
+                <option value="Custom Piece">Custom Design Piece</option>
+                <option value="Bridal">Bridal</option>
+                <option value="Repurpose For Emotional Reasons">Restore For Emotional Reasons</option>
+                <option value="Repurpose For Material">Repurpose For Material</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="field col-span-12">
             {{ if eq .form_bg_color "white" }}
             <label for="form_message" class="font-bold mb-3 text-white">Message *</label>
             {{ else }}
@@ -55,8 +73,9 @@
               data-error="Please,leave us a message."></textarea>
             </div>
           </div>
+          </div>
           <div class="flex justify-center items-center">
-            <input type="submit" class="cursor-pointer transition uppercase duration-500 w-3/4 lg:w-1/3 mt-5 btn_primary" value="{{ .cta }}">
+            <input type="submit" class="cursor-pointer transition uppercase duration-500 w-auto mt-5 btn_primary" value="{{ .cta }}">
           </div>
         </form>
         </div>

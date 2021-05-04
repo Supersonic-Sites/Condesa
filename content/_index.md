@@ -23,7 +23,7 @@ components:
     bg_color: white
   - type: heading_full
     bg_color: white
-    title_size: medium
+    title_size: big
     title: Lorem Ipsum
     desc_select: true
     desc: Quisque porttitor nunc odio, vel congue justo varius quis. Sed eget ante
@@ -31,6 +31,8 @@ components:
       rhoncus mollis. Nam eleifend tellus et sapien tristique faucibus. Aenean
       facilisis turpis sit amet nisi porttitor sagittis. Maecenas porta ante
       nisl, in scelerisque leo blandit ac. Nam ac rhoncus risus.
+    id: none
+    align: center
   - type: divider_half
     bg_color: white
   - type: cards_third_img
@@ -92,9 +94,11 @@ components:
     bg_color: white
   - type: heading_full
     bg_color: white
-    title_size: medium
+    title_size: big
     title: Testimonials
     desc: Empty
+    id: none
+    align: center
   - type: testimonial_half
     bg_color: white
     testimonials:

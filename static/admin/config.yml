@@ -528,9 +528,12 @@ collections:
             name: "heading_full"
             widget: "object"
             fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "ID ON/OFF", name: "id_select", widget: "boolean", required: false }
+              - { label: "ID", name: "id", widget: "string", default: "none" }
               - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
               - { label: "Title Size", name: "title_size", widget: "select", options: ["small", "medium", "big"] }
-              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Align", name: "align", widget: "select", options: ["left", "center"], default: "center" }
               - { label: "Description ON/OFF", name: "desc_select", widget: "boolean", required: false }
               - { label: "Description", name: "desc", widget: "text" }                
 
