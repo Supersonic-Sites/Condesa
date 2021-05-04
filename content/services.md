@@ -33,7 +33,7 @@ components:
         aos: fade-up
         icon: "#paint-brush"
         title: Create Your Own
-        desc: Let's work together on your masterpiece
+        desc: Let's work together on your masterpiece!
         cta_select: true
       - cta: Our Process
         cta_link: "#process"
@@ -49,7 +49,8 @@ components:
         aos: fade-up
         icon: "#recycle"
         title: Repurposing
-        desc: For emotional reasons or for the material
+        desc: "Repurpose for emotional reasons or salvage the material for something
+          new! "
         cta_select: true
   - type: divider
     bg_color: white
