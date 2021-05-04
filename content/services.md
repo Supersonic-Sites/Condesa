@@ -105,11 +105,11 @@ components:
     bg_color: white
     img_alt: Anniversary Bangles
     cta: Call To Action
-    desc: "Janet wanted something special for he 30th anniversary.<br><br> She
+    desc: "Janet wanted something special for her 30th anniversary.<br><br> She
       couldn’t find anything off the shelf, so she approached us with her
       specific request.  She wanted four large gold bangles with birthstones to
       represent each of her children and one twisted gold bangle with a diamond
-      to represent her husband and herself.<br><br>We hand fabricated the set
+      to represent her husband and herself.<br><br>We hand fabricated the set,
       taking into account the size and weight she wanted so that the jingle
       sound they made was the right tone. "
     aos_select: true
