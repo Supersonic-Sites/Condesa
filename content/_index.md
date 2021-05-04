@@ -12,16 +12,16 @@ components:
       memento or heirloom, Condesa delivers beautiful results every time. Let’s
       create your unique masterpiece together. "
     cta2_link: contact/
-    title: Process Brilliant Ideas Into Wearable Beauty
+    title: In Awe of Beauty
     cta2_select: true
     type: hero
-    pre_title: At Condesa, we
+    pre_title: At Condesa, we're
   - type: divider
     bg_color: white
-  - id_select: true
-    align: center
-    title_size: big
+  - type: heading_full
     bg_color: white
+    title_size: medium
+    title: "Discover a wealth of experience. Realize your vision. "
     desc_select: true
     desc: "At Condesa, we want you to feel right at home. Our experts are ready to
       listen to your vision for your projects and make it happen! Do you have a
@@ -30,9 +30,6 @@ components:
       that too! We want your investments to look their best. We take pride in
       offering a way for your creativity and memories to be transformed into an
       eternal piece of beauty. "
-    title: "Discover a wealth of experience. Realize your vision. "
-    type: heading_full
-    id: none
   - type: divider_half
     bg_color: white
   - type: cards_third_img
@@ -97,11 +94,9 @@ components:
     bg_color: white
   - type: heading_full
     bg_color: white
-    title_size: big
+    title_size: medium
     title: Testimonials
     desc: Empty
-    id: none
-    align: center
   - type: testimonial_half
     bg_color: white
     testimonials:
