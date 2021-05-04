@@ -570,6 +570,16 @@ collections:
               - { label: "Usebasin Endpoint", name: "usebasin", widget: "string" }
               - { label: "CTA Button", name: "cta", widget: "string", default: "Submit" }
 
+              
+          - label: "Centered Form Repair"
+            name: "form_center_2"
+            widget: "object"
+            fields:
+              - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+              - { label: "Form Background Color", name: "form_bg_color", widget: "string", default: "white" }
+              - { label: "Usebasin Endpoint", name: "usebasin", widget: "string" }
+              - { label: "CTA Button", name: "cta", widget: "string", default: "Submit" }
+
           - label: "FAQ One Third"
             name: "faq_third"
             widget: "object"

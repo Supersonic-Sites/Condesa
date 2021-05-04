@@ -62,19 +62,19 @@ description = "Condesa is where the ancient wisdom of the pieces and the new kno
 [params.schema]
 ogimage = "https://ik.imagekit.io/supersonicsites/Condesa/Condesa_Jewelry_Expertise_0_kF3Podx.jpg"
 logofooter = "#"
-city = "Rigaud"
+city = "Vancouver"
 logo = "https://ik.imagekit.io/supersonicsites/Condesa/Condessa_Logo_Official_6oJAqxLeXE.png"
 reservation = true
 phone = "(604) 874-1879"
 priceRange = "$$$"
-region = "QC"
+region = "BC"
 country = "Canada"
-postalcode = "J0P 1P0"
+postalcode = "V5V 3N5"
 type = "JewelryStore"
 openinghour = "Mo-Sa: 10-6"
 email = "info@condesajewelryexpertise.com"
 address1 = "3622 Main Street"
-address2 = "Vancouver, BC"
+address2 = ""
 address_toggle = true
 
 [params.social]

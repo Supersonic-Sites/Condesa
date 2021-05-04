@@ -30,6 +30,8 @@ components:
       that too! We want your investments to look their best. We take pride in
       offering a way for your creativity and memories to be transformed into an
       eternal piece of beauty. "
+    align: center
+    id: none
   - type: divider_half
     bg_color: white
   - type: cards_third_img
@@ -97,6 +99,8 @@ components:
     title_size: medium
     title: Testimonials
     desc: Empty
+    align: center
+    id: none
   - type: testimonial_half
     bg_color: white
     testimonials:

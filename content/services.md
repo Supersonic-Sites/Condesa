@@ -177,7 +177,7 @@ components:
         aos_select: true
         subtitle: We are here to listen
         title: "Step 1: TALK"
-        shadow_select: true
+        shadow_select: false
         title_color: black
         divider_color: lila
       - divider_select: true
@@ -191,7 +191,7 @@ components:
         aos_select: true
         subtitle: none
         title: "Step 2: DRAW"
-        shadow_select: true
+        shadow_select: false
         title_color: black
         divider_color: lila
       - divider_select: true
@@ -204,7 +204,7 @@ components:
         aos_select: true
         subtitle: Sub
         title: "Step 3: LOVE"
-        shadow_select: true
+        shadow_select: false
         title_color: black
         divider_color: lila
       - divider_select: true
@@ -217,10 +217,10 @@ components:
         aos_select: true
         subtitle: None
         title: "Step 4: MAKE"
-        shadow_select: true
+        shadow_select: false
         title_color: black
         divider_color: lila
-  - type: divider
+  - type: divider_half
     bg_color: white
   - type: heading_full
     bg_color: white
