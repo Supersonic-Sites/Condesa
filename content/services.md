@@ -177,7 +177,7 @@ components:
         cta_link: none
         cta_select: false
         cta: none
-        desc: We're here to listen to your vision
+        desc: "Tell us your vision. We're here to listen and make it happen. "
         aos_select: true
         subtitle: "We're here to listen "
         title: "Step 1: TALK"
@@ -191,7 +191,7 @@ components:
         title_size: small
         cta_link: none
         cta: none
-        desc: Your idea on the board
+        desc: Let's finalize the design and sketch your idea out on the board
         aos_select: true
         subtitle: none
         title: "Step 2: DRAW"
