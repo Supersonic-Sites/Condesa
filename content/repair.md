@@ -183,9 +183,10 @@ components:
     desc_select: true
     desc: "Restoring vintage jewelry is particularly challenging, requiring vast
       knowledge of antique jewelry styles and original techniques. At Condesa,
-      we have the unique combination of skills and specialized equipment to
-      expertly restore and renovate your precious vintage jewelry pieces.
-      Contact us and let us know how we can help! "
+      we treat your piece with precision and care. We have the unique
+      combination of skills and specialized equipment to expertly restore and
+      renovate your precious vintage jewelry pieces. Contact us and let us know
+      how we can help! "
     title: Let's Start The Process
     type: heading_full
     id: start
