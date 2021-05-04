@@ -18,7 +18,7 @@ components:
     title: Condesa Jewelry Expertise
     cta2_select: true
     type: hero
-    pre_title: Lorem Ipsum
+    pre_title: Process brilliant ideas into wearable beauty with
   - type: divider
     bg_color: white
   - type: heading_full
