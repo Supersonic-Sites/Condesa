@@ -14,17 +14,17 @@ components:
     bg_color: white
     img_alt: The Condesa Team
     cta: Call To Action
-    desc: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
-      venenatis vitae erat vel euismod. Suspendisse vitae nisi fringilla,
-      pulvinar sem et, ultrices massa. In eu pretium felis. Vivamus feugiat urna
-      ut diam vulputate, et consectetur nisi malesuada. Ut commodo at tortor
-      quis egestas. Duis a lacus scelerisque sem molestie congue. Nam fringilla
-      nunc augue, et lacinia orci interdum efficitur. Duis rhoncus tincidunt
-      vehicula. Suspendisse sit amet tempor risus, nec pulvinar erat.
-      Pellentesque eu sem ac lacus tempor rhoncus.<br><br>
+    desc: >
+      Condesa is a Vancouver based company dedicated to generating a space where
+      jewelry is art with a function. Condesa is the rendering of an idea, a
+      need, and a wealth of knowledge and experience all condensed into one
+      place. Overflowing with skill and expertise, our jewelers have one
+      intention: to make your vision happen. It’s our greatest joy to transform
+      an idea in an incredible, stunning reality; pure emotions manifesting as
+      brilliance, colour, and design. We stand in awe of beauty. <br><br>
 
-      Quisque magna orci, auctor at lacinia ut, mollis id erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum semper velit at nisi mollis, ut fermentum ex blandit.
+
+      We pride ourselves in being fully equipped and capable of servicing top level clientele. Above all, we value the unique vision of our clients. Our friendly and elegant environment acts as a place where one on one attention sparks creativity. The creations that emerge are always beautiful and satisfactory, without fail. Contact us today and let us know how we can join in your creative process.
     aos_select: true
     title: Who We Are
     type: img_half_right
