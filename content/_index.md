@@ -41,8 +41,8 @@ components:
         cta_select: true
         img_alt: Picture of custom designed jewelry
         cta: Learn More
-        desc: Quisque porttitor nunc odio, vel congue justo varius quis. Sed eget ante
-          vel odio vehicula ultricies eget porttitor dolor.
+        desc: Do you have a specific vision in mind? We can realize it for you! Create a
+          stunning and unique custom piece with guidance from our experts.
         aos_select: true
         title: Custom Design
       - img: Condesa/Condesa_Jewelry_Expertise_0_kF3Podx.jpg
