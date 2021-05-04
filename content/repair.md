@@ -49,7 +49,8 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Chain Repair
-        desc: Lorem ipsum
+        desc: We reattach broken pieces with precise laser welding and replace broken
+          clasps.
         aos_select: true
         aos: fade-up
       - img: Condesa/Home_Gallery/gallery_8_tGzv0Jutn.jpg
