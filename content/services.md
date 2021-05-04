@@ -12,7 +12,7 @@ components:
   - type: heading_full
     bg_color: white
     title_size: big
-    title: Lorem Ipsum
+    title: Creating a Bridge Between Idea & Creation
     desc_select: true
     desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar,
       ligula molestie dignissim vestibulum, diam nibh pretium mi, id vulputate
