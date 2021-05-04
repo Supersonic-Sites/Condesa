@@ -41,7 +41,7 @@ components:
         aos: fade-up
         icon: "#rings-wedding"
         title: Bridal
-        desc: Lorem Ipsum
+        desc: Let’s create that special piece for that special day!
         cta_select: true
       - cta: Our Process
         cta_link: "#process"
