@@ -31,7 +31,8 @@ components:
         aos: fade-up
         cta_link: "#start"
         cta_select: false
-        img_alt: The magic of professional cleaning
+        img_alt: Don't underestimate an old piece. Sometimes it just needs some TLC and
+          the magic of a professional cleaning
         cta: Let's Start
         desc: The magic of professional cleaning
         aos_select: true
