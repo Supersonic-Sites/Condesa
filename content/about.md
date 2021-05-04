@@ -36,17 +36,19 @@ components:
     bg_color: white
     img_alt: Image of David Ciralsky
     cta: Call To Action
-    desc: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
-      venenatis vitae erat vel euismod. Suspendisse vitae nisi fringilla,
-      pulvinar sem et, ultrices massa. In eu pretium felis. Vivamus feugiat urna
-      ut diam vulputate, et consectetur nisi malesuada. Ut commodo at tortor
-      quis egestas. Duis a lacus scelerisque sem molestie congue. Nam fringilla
-      nunc augue, et lacinia orci interdum efficitur. Duis rhoncus tincidunt
-      vehicula. Suspendisse sit amet tempor risus, nec pulvinar erat.
-      Pellentesque eu sem ac lacus tempor rhoncus.<br><br>
+    desc: >+
+      David has been designing, developing, manufacturing and repairing jewelry
+      for nearly 30 years, working with and learning from many of the world’s
+      best designers, artists & artisans.<br><br>
 
-      Quisque magna orci, auctor at lacinia ut, mollis id erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum semper velit at nisi mollis, ut fermentum ex blandit.
+      He started in the jewelry trade in Mexico during the early 1990's making large silver electroformed jewelry. As jewelry trends began to change and designs got smaller, he learned the art of casting, working with a wide variety of precious metals.<br><br>
+
+      Searching for jewelry design perfection and manufacturing precision, he was at the forefront of digital integration back in the early 2000’s – a pioneer in the use of robotics, lasers, CAD and 3D printing in jewelry.<br><br>
+
+      In addition to metal work, David has a fascination with gemstones and the study of gemology. He holds a G.G degree from the prestigious GIA. Upon moving to Vancouver in 2017, he opened the doors of the Condesa Jewelry Expertise.<br><br>
+
+      David has lived for long periods of his life in the USA, Israel, Mexico and Canada.  He is fluent in several languages including English, Hebrew, and Spanish.  He has also been a yoga and meditation practitioner for most of his adult life.
+
     aos_select: true
     title: David Ciralsky
     type: img_third_left
