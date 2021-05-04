@@ -1,12 +1,12 @@
 ---
-title: Jewelry Repair and Restauration
+title: Jewelry Repair and Restoration
 description: Description here
 slug: Repair
 components:
   - type: header_sub
     bg_color: primary
     img: Condesa/03-Jacaranda-Textura_8Lrc2lvC5n.jpg
-    title: Repair & Restauration
+    title: Repair & Restoration
   - type: divider
     bg_color: white
   - type: heading_full
