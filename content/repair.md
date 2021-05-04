@@ -28,13 +28,14 @@ components:
     bg_color: white
     cards:
       - img: DEV/boilerplate-bg_tRB-gJlPq.jpg
-        img_alt: The magic of professional cleaning
-        cta: Call To Action
-        cta_link: contact/
-        title: Restauration
-        aos_select: true
         aos: fade-up
+        cta_link: "#start"
+        cta_select: false
+        img_alt: The magic of professional cleaning
+        cta: Let's Start
         desc: The magic of professional cleaning
+        aos_select: true
+        title: Restauration
       - img: Condesa/Gallery_Page/Stone_Replacement_1_I3yfNAFeZR.jpg
         img_alt: Ring being fit on a hand
         cta: Call To Action
@@ -169,21 +170,21 @@ components:
           adipisicing elit. Quas cupiditate laboriosam fugiat.
   - type: divider
     bg_color: white
-  - type: heading_full
-    id: none
-    bg_color: white
+  - id_select: false
     align: center
-    title: Let's Start The Process
     title_size: big
+    bg_color: white
     desc_select: true
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquam
-      sagittis pulvinar. Proin in odio pellentesque, porttitor elit eu,
-      ultricies nisi. Quisque vehicula ipsum nec faucibus sollicitudin. Donec
-      sollicitudin, ipsum nec euismod viverra, urna lacus pharetra ipsum, at
-      vulputate tellus nulla ut erat. Proin vehicula mollis viverra. Nulla vel
-      libero pellentesque, vestibulum est sit amet, maximus nulla. Quisque vitae
-      risus faucibus, dictum tortor a, tincidunt elit. Vivamus tincidunt ornare
-      aliquam.
+    desc: Restoring vintage jewelry is particularly challenging, it requires vast
+      knowledge of antique jewelry styles & of the techniques originally used
+      when the piece was created. We have the unique combination of skills &
+      specialized equipment to expertly restore & renovate your precious vintage
+      jewelry pieces. We can repair & restore vintage items such as brooches,
+      hairpieces, hat pins, cameo’s, multi-strand beaded necklaces & enameled
+      pieces.
+    title: Let's Start The Process
+    type: heading_full
+    id: start
   - type: form_center_2
     bg_color: white
     form_bg_color: gray-50
