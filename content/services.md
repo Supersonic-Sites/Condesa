@@ -191,7 +191,7 @@ components:
         title_size: small
         cta_link: none
         cta: none
-        desc: Let's finalize the design and sketch your idea out on the board
+        desc: Let's visualize your idea and sketch it out in detail
         aos_select: true
         subtitle: none
         title: "Step 2: DRAW"
@@ -204,7 +204,7 @@ components:
         title_size: small
         cta_link: none
         cta: None
-        desc: Modify until you are completely satisfied
+        desc: Not completely satisfied? We'll modify it until you are!
         aos_select: true
         subtitle: Sub
         title: "Step 3: LOVE"
@@ -217,7 +217,7 @@ components:
         title_size: small
         cta_link: none
         cta: none
-        desc: Then we make it a reality!
+        desc: With the details finalized, we then make your project a brilliant reality!
         aos_select: true
         subtitle: None
         title: "Step 4: MAKE"
