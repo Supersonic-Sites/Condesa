@@ -232,12 +232,8 @@ components:
     title: Start the Process
     id: none
     title_size: big
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque
-      sagittis pellentesque lobortis. Fusce lectus nisl, mollis ut finibus at,
-      cursus convallis leo. Sed eget tortor quis massa malesuada congue. Integer
-      molestie orci risus, in blandit diam rhoncus vitae. Vestibulum elementum,
-      magna eget consectetur iaculis, leo mi dictum erat, viverra aliquam metus
-      leo id mi. "
+    desc: "Excited to get started? We are too! Contact us and let us know what we
+      can do for you! "
     desc_select: true
   - type: form_center
     bg_color: white
