@@ -17,7 +17,7 @@ components:
     desc: >
       Condesa is a Vancouver based company dedicated to generating a space where
       jewelry is art with a function. Condesa is the rendering of an idea, a
-      need, and a wealth of knowledge and experience all condensed into one
+      need, and a wealth of knowledge and experience, all condensed into one
       place. Overflowing with skill and expertise, our jewelers have one
       intention: to make your vision happen. It’s our greatest joy to transform
       an idea in an incredible, stunning reality; pure emotions manifesting as
