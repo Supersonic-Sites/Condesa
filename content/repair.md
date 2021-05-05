@@ -27,7 +27,7 @@ components:
   - type: cards_third_img
     bg_color: white
     cards:
-      - img: DEV/boilerplate-bg_tRB-gJlPq.jpg
+      - img: Condesa/andres-vera-CmmYT6Mm948-unsplash_WNKnAgutjs.jpg
         aos: fade-up
         cta_link: "#start"
         cta_select: false
