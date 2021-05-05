@@ -87,47 +87,52 @@ components:
     desc: None
   - type: divider
     bg_color: white
-  - img: DEV/boilerplate-bg_tRB-gJlPq.jpg
+  - img: Condesa/diana-polekhina-F6tbedzUQvw-unsplash_oBJ0czNXT.jpg
     aos: fade-up
     cta_link: contact/
     bg_color: white
-    img_alt: Please type in a description of the image
+    img_alt: Menorah
     cta: Call To Action
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac
-      arcu ex. Donec vel dui metus. Donec gravida suscipit velit, a convallis
-      odio commodo quis. Proin nec mattis nisl. Suspendisse quam justo, egestas
-      eu sagittis quis, ullamcorper vel eros. Phasellus elementum iaculis risus
-      quis faucibus. Nam dictum erat ut sem blandit, a volutpat nunc
-      consectetur. Vestibulum rhoncus urna ipsum, eu volutpat est viverra
-      vel.<br><br>Suspendisse luctus purus et imperdiet viverra. Donec nec
-      fringilla metus. Donec dignissim, dolor nec hendrerit volutpat, nunc
-      tellus posuere ex, vitae malesuada enim justo sed eros. Aenean sit amet
-      egestas leo. Integer blandit lacinia efficitur. Vivamus vel nulla sed elit
-      blandit tempor quis vel sem.
+    desc: David brought in a large silver menorah which had the base broken off.  He
+      mentioned that he had taken it to several jewelers in Hong Kong as well as
+      Canada but that nobody would even attempt to fix it.  Calling on our
+      experience of manufacturing large silver tabletop goods and Judaica items,
+      we were able to restore the heirloom without leaving a mark.
     aos_select: true
-    title: Lorem Ipsum
+    title: David's broken silver menorah
     type: img_third_left
   - type: divider
     bg_color: white
-  - img: DEV/boilerplate-bg_tRB-gJlPq.jpg
+  - img: Condesa/lucas-santos-r-UaSYUqF9o-unsplash_WGbXNpRdG.jpg
     aos: fade-up
     cta_link: contact/
     bg_color: white
     img_alt: Please type in a description of the image
     cta: Call To Action
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac
-      arcu ex. Donec vel dui metus. Donec gravida suscipit velit, a convallis
-      odio commodo quis. Proin nec mattis nisl. Suspendisse quam justo, egestas
-      eu sagittis quis, ullamcorper vel eros. Phasellus elementum iaculis risus
-      quis faucibus. Nam dictum erat ut sem blandit, a volutpat nunc
-      consectetur.<br><br>Vestibulum rhoncus urna ipsum, eu volutpat est viverra
-      vel. Suspendisse luctus purus et imperdiet viverra. Donec nec fringilla
-      metus. Donec dignissim, dolor nec hendrerit volutpat, nunc tellus posuere
-      ex, vitae malesuada enim justo sed eros. Aenean sit amet egestas leo.
-      Integer blandit lacinia efficitur. Vivamus vel nulla sed elit blandit
-      tempor quis vel sem.
+    desc: Alex has quite a collection of watches.  One day he brought in a
+      particularly rare timepiece made from a special alloy of 18k white
+      gold.  The face of the watch hade three visible nicks right next to the
+      crystal.  After careful analysis of the alloy, we were able to laser weld
+      the damaged areas, leaving no trace.
     aos_select: true
-    title: Lorem Ipsum
+    title: Alex's 18k white gold watch
+    type: img_third_left
+  - type: divider
+    bg_color: white
+  - img: Condesa/abigail-h-Bz29wEwb9WE-unsplash_qEf_Do40A.jpg
+    aos: fade-up
+    cta_link: contact/
+    bg_color: white
+    img_alt: Joy's 19th century brooch
+    cta: Call To Action
+    desc: Joy brought in a late 19th century brooch.  The some of the flower petal
+      elements and a pearl were missing.  Since she wanted to pass it on to a
+      niece, it was important that it be restored and then converted to function
+      as a pendant.  We were able to meticulously recreate the missing petals,
+      replace the pearl and use the pin to create the hanging mechanism so it
+      could be used as a pendant.
+    aos_select: true
+    title: Joy's 19th century brooch
     type: img_third_left
   - type: divider
     bg_color: white
@@ -149,26 +154,26 @@ components:
     bg_color: white
   - type: faq_third
     title: Frequently asked questions
-    desc: Can’t find the answer you’re looking for? Reach out to our
-    cta: customer support.
+    desc: Can’t find the answer you’re looking for? Reach out us via our
+    cta: contact page.
     cta_link: contact/
     faqs:
-      - question: How to you make holy water?
-        answer: You boil the hell out of it. orem ipsum dolor sit amet consectetur
-          adipisicing elit. Quas cupiditate laboriosam fugiat.
-      - question: How to you make holy water?
-        answer: You boil the hell out of it. orem ipsum dolor sit amet consectetur
-          adipisicing elit. Quas cupiditate laboriosam fugiat.
-      - question: How to you make holy water?
-        answer: You boil the hell out of it. orem ipsum dolor sit amet consectetur
-          adipisicing elit. Quas cupiditate laboriosam fugiat.
-      - question: How to you make holy water?
-        answer: You boil the hell out of it. orem ipsum dolor sit amet consectetur
-          adipisicing elit. Quas cupiditate laboriosam fugiat.
-      - question: How to you make holy water?
-        answer: You boil the hell out of it. orem ipsum dolor sit amet consectetur
-          adipisicing elit. Quas cupiditate laboriosam fugiat.
-  - type: divider
+      - question: Can you fix my…?
+        answer: The answer to this question is almost always yes.  We can repair all
+          jewelry and most items in precious metals, titanium, steel, and most
+          costume jewelry.
+      - question: "How much does a ring sizing cost? "
+        answer: There is a big range depending on the type of ring and if it is getting
+          bigger or smaller.  Size down on simple gold rings is around
+          seventy-five dollars.
+      - question: Can you use my gemstones in a custom ring?
+        answer: Absolutely. Your stones and your precious metal after all this is Your
+          Creation.
+      - question: Can I bring in my old jewelry and turn it into something new?
+        answer: Actually, we love that, it’s a great way to fix or to transform the
+          energy of an heirloom and its more ecologically sound, we encourage
+          this path!
+  - type: divider2x
     bg_color: white
   - id_select: false
     align: center
@@ -190,4 +195,6 @@ components:
     form_bg_color: gray-50
     cta: Submit
     usebasin: https://usebasin.com/f/9e27fcf84caf
+  - type: divider
+    bg_color: white
 ---

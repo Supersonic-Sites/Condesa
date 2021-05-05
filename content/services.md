@@ -220,7 +220,36 @@ components:
         shadow_select: false
         title_color: black
         divider_color: lila
+  - type: divider
+    bg_color: white
+  - type: heading_full
+    id: none
+    bg_color: white
+    align: center
+    title: FAQ
+    title_size: big
+    desc: none
+    desc_select: false
   - type: divider_half
+    bg_color: white
+  - type: faq_toggle
+    question: How long does a custom project take?
+    answer: "The complexity of the design is a consideration, and we love a
+      challenge! Turnaround is two weeks for simpler projects four weeks for
+      more elaborate. "
+    faqs:
+      - question: How much will a custom ring cost?
+        answer: "We adapt to your budget, but keep in mind that Your Brilliant Idea
+          deserves to be manifested expertly using quality precious metal and
+          beautiful ethically sourced gemstones.  "
+      - question: Can you use my gemstones in a custom ring?
+        answer: Absolutely. Your stones and your precious metal after all this is Your
+          Creation.
+      - question: Can I bring in my old jewelry and turn it into something new?
+        answer: Actually, we love that, it’s a great way to fix or to transform the
+          energy of an heirloom and its more ecologically sound, we encourage
+          this path!
+  - type: divider2x
     bg_color: white
   - type: heading_full
     bg_color: white
