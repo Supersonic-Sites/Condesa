@@ -56,7 +56,7 @@ components:
         icon: "#recycle"
         title: Repurposing
         desc: "Repurpose for emotional reasons or salvage the material for something
-          new. "
+          exquisitely new. "
         cta_select: true
   - type: divider
     bg_color: white
