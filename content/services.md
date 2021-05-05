@@ -225,7 +225,7 @@ components:
         shadow_select: false
         title_color: black
         divider_color: lila
-  - type: divider
+  - type: divider_half
     bg_color: white
   - type: heading_full
     id: none

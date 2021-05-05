@@ -6,7 +6,7 @@ description: Condesa is where the ancient wisdom of the pieces and new knowledge
 components:
   - cta2: Contact Us
     img: Condesa/Condesa_Jewelry_Expertise_0_kF3Podx.jpg
-    cta_link: contact/
+    cta_link: https://cloud.condesajewelryexpertise.com/index.php/apps/appointments/pub/HGOi8D8pDwd2sIDNqNE4vQ%3D%3D/form
     cta: Schedule An Appointment
     desc: "Whether designing and creating custom jewelry or repairing a precious
       memento or heirloom, Condesa delivers beautiful results every time. Let’s

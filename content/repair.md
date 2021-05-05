@@ -160,16 +160,21 @@ components:
         img_alt: Please type in a description of the image
   - type: divider
     bg_color: white
-  - type: faq_third
-    title: Frequently asked questions
-    desc: Can’t find the answer you’re looking for? Reach out us via our
-    cta: contact page.
-    cta_link: contact/
+  - type: heading_full
+    id: none
+    bg_color: white
+    align: center
+    title: FAQ
+    title_size: big
+    desc: none
+  - type: divider_half
+    bg_color: white
+  - type: faq_toggle
+    question: Can you fix my…?
+    answer: The answer to this question is almost always yes.  We can repair all
+      jewelry and most items in precious metals, titanium, steel, and most
+      costume jewelry.
     faqs:
-      - question: Can you fix my…?
-        answer: The answer to this question is almost always yes.  We can repair all
-          jewelry and most items in precious metals, titanium, steel, and most
-          costume jewelry.
       - question: "How much does a ring sizing cost? "
         answer: There is a big range depending on the type of ring and if it is getting
           bigger or smaller.  Size down on simple gold rings is around
