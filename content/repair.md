@@ -1,6 +1,7 @@
 ---
 title: Jewelry Repair and Restoration
-description: Description here
+description: "Condesa's custom jewelry creates a bridge between ideas and actual
+  creation. We relish the opportunity to create something unique and new. "
 slug: Repair
 components:
   - type: header_sub
