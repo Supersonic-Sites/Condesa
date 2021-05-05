@@ -1,12 +1,14 @@
 ---
-title: Jewelry Repair and Restauration
-description: Description here
+title: Jewelry Repair and Restoration
+description: "At Condesa, we specialize in the restoration of vintage, costume,
+  and fashion jewelry. Every jewelry piece deserves to be repaired and restored.
+  "
 slug: Repair
 components:
   - type: header_sub
     bg_color: primary
     img: Condesa/03-Jacaranda-Textura_8Lrc2lvC5n.jpg
-    title: Repair & Restauration
+    title: Repair & Restoration
   - type: divider
     bg_color: white
   - type: heading_full
@@ -16,12 +18,12 @@ components:
     title: The true beauty of jewelry resides in its timelessness.
     title_size: big
     desc_select: true
-    desc: " At Condesa, we specialize in the restoration of vintage, costume &
-      fashion jewelry. These items range from brooches to cameo’s & multi-strand
-      beaded necklaces to enamelled items. Lorem ipsum dolor sit amet,
-      consectetur adipiscing elit. Vestibulum ac arcu ex. Donec vel dui metus.
-      Donec gravida suscipit velit, a convallis odio commodo quis. Proin nec
-      mattis nisl."
+    desc: >
+      Every jewelry piece deserves to be repaired and restored. These pieces are
+      historic artifacts. Let’s get those vintage treasures out of the box and
+      into the light again! At Condesa, we specialize in the restoration of
+      vintage, costume, and fashion jewelry. These items range from brooches to
+      cameo’s, multi-strand beaded necklaces to enamelled items.
   - type: divider_half
     bg_color: white
   - type: cards_third_img
@@ -31,17 +33,19 @@ components:
         aos: fade-up
         cta_link: "#start"
         cta_select: false
-        img_alt: The magic of professional cleaning
+        img_alt: Don't underestimate an old piece. Sometimes it just needs some TLC and
+          the magic of a professional cleaning
         cta: Let's Start
-        desc: The magic of professional cleaning
+        desc: Don't underestimate an old piece. Sometimes it just needs some TLC and the
+          magic of a professional cleaning.
         aos_select: true
-        title: Restauration
+        title: Restoration
       - img: Condesa/Gallery_Page/Stone_Replacement_1_I3yfNAFeZR.jpg
         img_alt: Ring being fit on a hand
         cta: Call To Action
         cta_link: contact/
         title: Ring Fitting
-        desc: Lorem ipsum
+        desc: "Keep the memories close and resize your ring to perfection. "
         aos_select: true
         aos: fade-up
       - img: Condesa/Gold_chain_repair_before_vCr4CEVoy.jpg
@@ -49,7 +53,8 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Chain Repair
-        desc: Lorem ipsum
+        desc: We reattach broken pieces with precise laser welding and replace broken
+          clasps.
         aos_select: true
         aos: fade-up
       - img: Condesa/Home_Gallery/gallery_8_tGzv0Jutn.jpg
@@ -57,7 +62,8 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Vintage Jewelry
-        desc: Lorem Ipsum
+        desc: We use specialized equipment and expert knowledge to restore vintage
+          treasures to their former glory.
         aos_select: true
         aos: fade-up
       - img: Condesa/Sapphire_Re-set__5__010oXlp3H.jpg
@@ -65,7 +71,8 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Gemstone Replacement
-        desc: Lorem ipsum
+        desc: "Choose from our vast collection of gemstones to restore any design to its
+          full beauty. "
         aos_select: true
         aos: fade-up
       - img: Condesa/CUSTOM_1_Landing_aZu7dreie.JPG
@@ -73,7 +80,8 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Special Items
-        desc: Lorem Ipsum
+        desc: "We don’t stop at jewelry. We can repair any precious item in any metal
+          with any gemstone. "
         aos_select: true
         aos: fade-up
   - type: divider
@@ -180,13 +188,12 @@ components:
     title_size: big
     bg_color: white
     desc_select: true
-    desc: Restoring vintage jewelry is particularly challenging, it requires vast
-      knowledge of antique jewelry styles & of the techniques originally used
-      when the piece was created. We have the unique combination of skills &
-      specialized equipment to expertly restore & renovate your precious vintage
-      jewelry pieces. We can repair & restore vintage items such as brooches,
-      hairpieces, hat pins, cameo’s, multi-strand beaded necklaces & enameled
-      pieces.
+    desc: "Restoring vintage jewelry is particularly challenging, requiring vast
+      knowledge of antique jewelry styles and original techniques. At Condesa,
+      we treat your piece with precision and care. We have the unique
+      combination of skills and specialized equipment to expertly restore and
+      renovate your precious vintage jewelry pieces. Contact us and let us know
+      how we can help! "
     title: Let's Start The Process
     type: heading_full
     id: start

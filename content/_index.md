@@ -1,8 +1,8 @@
 ---
 title: Home - Condesa Jewelry Expertise
-description: Condesa is where the ancient wisdom of the pieces and the new
-  knowledge blends into manifested art. We are experts in custom designs and
-  jewelry restauration.
+description: Condesa is where the ancient wisdom of the pieces and new knowledge
+  blends into manifested art. We are experts in custom designs and jewelry
+  restoration.
 components:
   - cta2: Contact Us
     img: Condesa/Condesa_Jewelry_Expertise_0_kF3Podx.jpg
@@ -24,9 +24,9 @@ components:
     title: "Discover a wealth of experience. Realize your vision. "
     desc_select: true
     desc: "At Condesa, we want you to feel right at home. Our experts are ready to
-      listen to your vision for your projects and make it happen! Do you have a
+      listen to your vision for your projects and make it happen. Do you have a
       specific vision in mind for a fabulous piece of custom jewelry? We can do
-      it! Do you want to repair some of grandma’s heirloom pieces? We can do
+      it. Do you want to repair some of grandma’s heirloom pieces? We can do
       that too! We want your investments to look their best. We take pride in
       offering a way for your creativity and memories to be transformed into an
       eternal piece of beauty. "
@@ -44,7 +44,7 @@ components:
         img_alt: Picture of custom designed jewelry
         cta: Learn More
         desc: Do you have a specific vision in mind down to the precise design, metal,
-          and gemstone? We can realize it for you! Create a stunning and unique
+          and gemstone? We can realize it for you. Create a stunning and unique
           custom piece with guidance from our experts.
         aos_select: true
         title: Custom Design
@@ -54,9 +54,9 @@ components:
         cta_select: true
         img_alt: Picture of the Condesa Jewerly Expertise Team
         cta: Learn More
-        desc: "Our team of experts is led by a certified gemologist with nearly 30 years
+        desc: Our team of experts is led by a certified gemologist with nearly 30 years
           of experience. We’re in love with beauty and creating art and can’t
-          wait to help you realize your projects! "
+          wait to help you realize your projects.
         aos_select: true
         title: About Condesa Jewelry
       - img: Condesa/Stone_Replacement_5_wQY7gDOKE.jpg
@@ -65,9 +65,9 @@ components:
         cta_select: true
         img_alt: "Picture of a repaired and restored jewelry "
         cta: Learn More
-        desc: "Need a precious and sentimental piece repaired? No problem! We can
+        desc: Need a precious and sentimental piece repaired? No problem! We can
           refurbish and repair all jewelry items, be it rings, chains,
-          bracelets, earrings, cufflinks and more! "
+          bracelets, earrings, cufflinks and more.
         aos_select: true
         title: Jewelry Repair
   - type: divider

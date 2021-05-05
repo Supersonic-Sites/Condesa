@@ -1,6 +1,7 @@
 ---
 title: Custom Design
-description: Description here
+description: "Condesa's custom jewelry creates a bridge between ideas and actual
+  creation. We relish the opportunity to create something unique and new. "
 slug: custom-design
 components:
   - type: header_sub
@@ -12,14 +13,17 @@ components:
   - type: heading_full
     bg_color: white
     title_size: big
-    title: Lorem Ipsum
+    title: Creating a Bridge Between Idea & Creation
     desc_select: true
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar,
-      ligula molestie dignissim vestibulum, diam nibh pretium mi, id vulputate
-      ante turpis non lacus. Etiam vestibulum augue ultrices pellentesque
-      luctus. Suspendisse dictum porta libero a cursus. Suspendisse varius
-      venenatis leo, at dapibus velit rhoncus at. Aliquam malesuada vehicula
-      laoreet. "
+    desc: "If you have a totally unique and creative design in mind that isn’t
+      captured by an already existing piece, no problem! We’re here to bring
+      your idea to life. At Condesa, we can make a piece of jewelry out of
+      anything. Sketch your vision out on a napkin, and we can do it. The beauty
+      in custom design is finding perfection in the process. We relish the
+      opportunity to create something unique and new, something that
+      encapsulates a part of you. Choose gold, platinum, palladium, and silver,
+      and any kind of gemstone you can think of (and even ones you can only
+      dream up) for your special design. "
     align: center
     id: none
   - type: divider_half
@@ -33,7 +37,8 @@ components:
         aos: fade-up
         icon: "#paint-brush"
         title: Create Your Own
-        desc: Let's work together on your masterpiece
+        desc: Bring your brilliant ideas to the table and let's work together on your
+          masterpiece.
         cta_select: true
       - cta: Our Process
         cta_link: "#process"
@@ -41,7 +46,8 @@ components:
         aos: fade-up
         icon: "#rings-wedding"
         title: Bridal
-        desc: Lorem Ipsum
+        desc: Let’s create that personal, unique look that says “I love you” for that
+          special day.
         cta_select: true
       - cta: Our Process
         cta_link: "#process"
@@ -49,7 +55,8 @@ components:
         aos: fade-up
         icon: "#recycle"
         title: Repurposing
-        desc: For emotional reasons or for the material
+        desc: "Repurpose for emotional reasons or salvage the material for something
+          exquisitely new. "
         cta_select: true
   - type: divider
     bg_color: white
@@ -88,7 +95,7 @@ components:
     cta: Call To Action
     desc: Steven explained that he wanted an engagement ring that would express
       meaning with hummingbirds.<br><br>Adding fine blue sapphire accent stones
-      into white gold, gave the center diamond a refined and ethereal
+      into white gold gave the center diamond a refined and ethereal
       presence.  The meaning of the ring and its message were very well
       received.
     aos_select: true
@@ -102,11 +109,11 @@ components:
     bg_color: white
     img_alt: Anniversary Bangles
     cta: Call To Action
-    desc: "Janet wanted something special for he 30th anniversary.<br><br> She
+    desc: "Janet wanted something special for her 30th anniversary.<br><br> She
       couldn’t find anything off the shelf, so she approached us with her
       specific request.  She wanted four large gold bangles with birthstones to
       represent each of her children and one twisted gold bangle with a diamond
-      to represent her husband and herself.<br><br>We hand fabricated the set
+      to represent her husband and herself.<br><br>We hand fabricated the set,
       taking into account the size and weight she wanted so that the jingle
       sound they made was the right tone. "
     aos_select: true
@@ -139,7 +146,7 @@ components:
     desc: "Not all wedding rings are simple round gold bands.<br><br>Many couples
       want the rings to contain special meaningful elements.  Oscar and Alicia
       are this kind of couple.  She wanted white gold and moonstone to represent
-      the ethereal, he wanted jet black silver with a hidden ruby to represent
+      the ethereal; he wanted jet black silver with a hidden ruby to represent
       the earthly presence of divine energy.  "
     aos_select: true
     title: A different set of wedding rings
@@ -151,12 +158,10 @@ components:
     title_size: big
     bg_color: white
     desc_select: true
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar,
-      ligula molestie dignissim vestibulum, diam nibh pretium mi, id vulputate
-      ante turpis non lacus. Etiam vestibulum augue ultrices pellentesque
-      luctus. Suspendisse dictum porta libero a cursus. Suspendisse varius
-      venenatis leo, at dapibus velit rhoncus at. Aliquam malesuada vehicula
-      laoreet. "
+    desc: >
+      We want to make the design process easy, interesting, and engaging for
+      you. After all, it’s YOUR creation. We’re just lucky that we get to walk
+      this journey with you. 
     title: Our Process
     type: heading_full
     id: process
@@ -173,9 +178,9 @@ components:
         cta_link: none
         cta_select: false
         cta: none
-        desc: We are here to listen
+        desc: "Tell us your vision. We're here to listen and make it happen. "
         aos_select: true
-        subtitle: We are here to listen
+        subtitle: "We're here to listen "
         title: "Step 1: TALK"
         shadow_select: false
         title_color: black
@@ -187,7 +192,7 @@ components:
         title_size: small
         cta_link: none
         cta: none
-        desc: Your idea on the board
+        desc: Let's visualize your idea and sketch it out in detail.
         aos_select: true
         subtitle: none
         title: "Step 2: DRAW"
@@ -200,7 +205,7 @@ components:
         title_size: small
         cta_link: none
         cta: None
-        desc: Modify until you are completely satisfied
+        desc: Not completely satisfied? We'll modify it until you are.
         aos_select: true
         subtitle: Sub
         title: "Step 3: LOVE"
@@ -213,7 +218,7 @@ components:
         title_size: small
         cta_link: none
         cta: none
-        desc: Then we make it a reality!
+        desc: With the details finalized, we then make your project a brilliant reality.
         aos_select: true
         subtitle: None
         title: "Step 4: MAKE"
@@ -257,12 +262,8 @@ components:
     title: Start the Process
     id: none
     title_size: big
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque
-      sagittis pellentesque lobortis. Fusce lectus nisl, mollis ut finibus at,
-      cursus convallis leo. Sed eget tortor quis massa malesuada congue. Integer
-      molestie orci risus, in blandit diam rhoncus vitae. Vestibulum elementum,
-      magna eget consectetur iaculis, leo mi dictum erat, viverra aliquam metus
-      leo id mi. "
+    desc: "Excited to get started? We are too! Contact us and let us know what we
+      can do for you. "
     desc_select: true
   - type: form_center
     bg_color: white
