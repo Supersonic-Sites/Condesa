@@ -1,7 +1,8 @@
 ---
 title: Jewelry Repair and Restoration
-description: "Condesa's custom jewelry creates a bridge between ideas and actual
-  creation. We relish the opportunity to create something unique and new. "
+description: "At Condesa, we specialize in the restoration of vintage, costume,
+  and fashion jewelry. Every jewelry piece deserves to be repaired and restored.
+  "
 slug: Repair
 components:
   - type: header_sub
