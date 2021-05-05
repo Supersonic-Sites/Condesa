@@ -20,7 +20,7 @@ components:
     desc_select: true
     desc: >
       Every jewelry piece deserves to be repaired and restored. These pieces are
-      historic artifacts! Let’s get those vintage treasures out of the box and
+      historic artifacts. Let’s get those vintage treasures out of the box and
       into the light again! At Condesa, we specialize in the restoration of
       vintage, costume, and fashion jewelry. These items range from brooches to
       cameo’s, multi-strand beaded necklaces to enamelled items.
@@ -37,7 +37,7 @@ components:
           the magic of a professional cleaning
         cta: Let's Start
         desc: Don't underestimate an old piece. Sometimes it just needs some TLC and the
-          magic of a professional cleaning!
+          magic of a professional cleaning.
         aos_select: true
         title: Restoration
       - img: Condesa/Gallery_Page/Stone_Replacement_1_I3yfNAFeZR.jpg
@@ -62,8 +62,8 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Vintage Jewelry
-        desc: "We use specialized equipment and expert knowledge to restore vintage
-          treasures to their former glory! "
+        desc: We use specialized equipment and expert knowledge to restore vintage
+          treasures to their former glory.
         aos_select: true
         aos: fade-up
       - img: Condesa/Sapphire_Re-set__5__010oXlp3H.jpg
