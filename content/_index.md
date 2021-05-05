@@ -66,7 +66,7 @@ components:
         img_alt: "Picture of a repaired and restored jewelry "
         cta: Learn More
         desc: Need a precious and sentimental piece repaired? No problem! We can
-          refurbish and repair all jewelry items, be it rings, chains,
+          refurbish and repair all jewelry items, be it rings, chains, clasps,
           bracelets, earrings, cufflinks and more.
         aos_select: true
         title: Jewelry Repair
