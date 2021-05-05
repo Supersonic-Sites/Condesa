@@ -1,8 +1,8 @@
 ---
 title: Home - Condesa Jewelry Expertise
-description: Condesa is where the ancient wisdom of the pieces and the new
-  knowledge blends into manifested art. We are experts in custom designs and
-  jewelry restauration.
+description: Condesa is where the ancient wisdom of the pieces and new knowledge
+  blends into manifested art. We are experts in custom designs and jewelry
+  restoration.
 components:
   - cta2: Contact Us
     img: Condesa/Condesa_Jewelry_Expertise_0_kF3Podx.jpg
