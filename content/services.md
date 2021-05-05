@@ -38,7 +38,7 @@ components:
         icon: "#paint-brush"
         title: Create Your Own
         desc: Bring your brilliant ideas to the table and let's work together on your
-          masterpiece!
+          masterpiece.
         cta_select: true
       - cta: Our Process
         cta_link: "#process"
@@ -47,7 +47,7 @@ components:
         icon: "#rings-wedding"
         title: Bridal
         desc: Let’s create that personal, unique look that says “I love you” for that
-          special day!
+          special day.
         cta_select: true
       - cta: Our Process
         cta_link: "#process"
@@ -56,7 +56,7 @@ components:
         icon: "#recycle"
         title: Repurposing
         desc: "Repurpose for emotional reasons or salvage the material for something
-          new! "
+          new. "
         cta_select: true
   - type: divider
     bg_color: white
@@ -205,7 +205,7 @@ components:
         title_size: small
         cta_link: none
         cta: None
-        desc: Not completely satisfied? We'll modify it until you are!
+        desc: Not completely satisfied? We'll modify it until you are.
         aos_select: true
         subtitle: Sub
         title: "Step 3: LOVE"
@@ -218,7 +218,7 @@ components:
         title_size: small
         cta_link: none
         cta: none
-        desc: With the details finalized, we then make your project a brilliant reality!
+        desc: With the details finalized, we then make your project a brilliant reality.
         aos_select: true
         subtitle: None
         title: "Step 4: MAKE"
@@ -234,7 +234,7 @@ components:
     id: none
     title_size: big
     desc: "Excited to get started? We are too! Contact us and let us know what we
-      can do for you! "
+      can do for you. "
     desc_select: true
   - type: form_center
     bg_color: white
