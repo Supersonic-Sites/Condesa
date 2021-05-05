@@ -23,7 +23,7 @@ components:
       opportunity to create something unique and new, something that
       encapsulates a part of you. Choose gold, platinum, palladium, and silver,
       and any kind of gemstone you can think of (and even ones you can only
-      dream up!) for your special design. "
+      dream up) for your special design. "
     align: center
     id: none
   - type: divider_half
