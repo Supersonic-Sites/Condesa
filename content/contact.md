@@ -1,6 +1,7 @@
 ---
 title: Contact Us
-description: Lorem Ipsum
+description: Contact Condesa to find out if your jewelry project can become a
+  stunning reality.
 components:
   - type: header_sub
     bg_color: primary
