@@ -1,7 +1,7 @@
 ---
 title: About Condesa Jewelry Expertise
 description: "Condesa brings a certified gemologist and nearly 30 years of
-  experience to the table. "
+  experience to the table. We're dedicated to making beauty through jewelry. "
 components:
   - type: header_sub
     bg_color: primary
