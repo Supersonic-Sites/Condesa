@@ -1,6 +1,7 @@
 ---
 title: Gallery Page
-description: Gallery Page Description
+description: Browse our Gallery for incredible images of beautiful custom and
+  restored jewelry pieces.
 slug: gallery
 components:
   - type: header_sub
