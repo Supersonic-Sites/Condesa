@@ -32,10 +32,10 @@ p {
 }
 /*---Useful shortcuts---*/
 .btn_primary {
-  @apply transition duration-500 py-3 px-6 rounded-sm shadow-2xl text-2xl hover:shadow-sm text-center hover:shadow-sm font-bold bg-primary text-white border-2 border-primary hover:border-primary hover:bg-white hover:text-black;
+  @apply transition duration-500 py-3 px-6 rounded-sm shadow-2xl text-xl md:text-2xl hover:shadow-sm text-center hover:shadow-sm font-bold bg-primary text-white border-2 border-primary hover:border-primary hover:bg-white hover:text-black;
 }
 .btn_secondary {
-  @apply transition duration-500 py-3 px-6 rounded-sm shadow-2xl text-2xl hover:shadow-sm text-center hover:shadow-sm font-bold bg-white text-primary border-2 border-white hover:border-gray-100 hover:bg-white hover:text-primary;
+  @apply transition duration-500 py-3 px-6 rounded-sm shadow-2xl text-xl md:text-2xl hover:shadow-sm text-center hover:shadow-sm font-bold bg-white text-primary border-2 border-white hover:border-gray-100 hover:bg-white hover:text-primary;
 }
 .stars {
   fill: #fdcc0d;
