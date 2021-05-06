@@ -13,7 +13,7 @@ components:
   - type: heading_full
     bg_color: white
     title_size: big
-    title: Creating a Bridge Between Idea & Creation
+    title: Creating a Bridge Between Idea & Creation.
     desc_select: true
     desc: "If you have a totally unique and creative design in mind that isn’t
       captured by an already existing piece, no problem! We’re here to bring
@@ -37,8 +37,8 @@ components:
         aos: fade-up
         icon: "#paint-brush"
         title: Create Your Own
-        desc: Bring your brilliant ideas to the table and let's work together on your
-          masterpiece.
+        desc: Bring your own brilliant ideas to the table and let's work together on
+          your masterpiece.
         cta_select: true
       - cta: Our Process
         cta_link: "#process"
@@ -46,8 +46,8 @@ components:
         aos: fade-up
         icon: "#rings-wedding"
         title: Bridal
-        desc: Let’s create that personal, unique look that says “I love you” for that
-          special day.
+        desc: Let’s create together that personal, unique look that says “I love you”
+          for that special day.
         cta_select: true
       - cta: Our Process
         cta_link: "#process"

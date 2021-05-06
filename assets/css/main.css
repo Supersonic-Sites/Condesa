@@ -122,6 +122,5 @@ p {
 	height: 100%;
 }
 html {
-  font-size: 17px;
   @apply tracking-wider;
 }

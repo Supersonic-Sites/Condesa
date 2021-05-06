@@ -21,7 +21,7 @@ components:
   - type: heading_full
     bg_color: white
     title_size: medium
-    title: "Discover a wealth of experience. Realize your vision. "
+    title: "Discover a wealth of experience.<br>Realize your vision. "
     desc_select: true
     desc: "At Condesa, we want you to feel right at home. Our experts are ready to
       listen to your vision for your projects and make it happen. Do you have a
