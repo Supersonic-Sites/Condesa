@@ -10,6 +10,11 @@
 #desktop_menu li:last-child {
   border: none;
 }
+@media (max-width: 768px) {
+#gallery img:last-child {
+  display: none;
+}
+}
 /*Typography */
 @font-face {
   font-family: 'MostraOne';
