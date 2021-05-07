@@ -50,7 +50,7 @@ components:
         title: Custom Design
       - img: Condesa/Condesa_Jewelry_Expertise_0_kF3Podx.jpg
         aos: fade-up
-        cta_link: about-us/
+        cta_link: about/
         cta_select: true
         img_alt: Picture of the Condesa Jewerly Expertise Team
         cta: Learn More

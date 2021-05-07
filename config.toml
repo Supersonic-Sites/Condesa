@@ -57,7 +57,7 @@ googlemap = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2604.26222144
 sitename = "Condesa Jewelry Expertise"
 usebasin = "https://usebasin.com/f/9e27fcf84caf"
 videoOn = false
-description = "Condesa is where the ancient wisdom of the pieces and the new knowledge blends into manifested art.  A temple to the outstanding art of jewerly."
+description = "Condesa is where the ancient wisdom of the pieces and the new knowledge blends into manifested art.  A temple to the outstanding art of jewelry."
 
 [params.schema]
 ogimage = "https://ik.imagekit.io/supersonicsites/Condesa/Condesa_Jewelry_Expertise_0_kF3Podx.jpg"
