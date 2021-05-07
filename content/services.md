@@ -45,7 +45,7 @@ components:
         aos_select: true
         aos: fade-up
         icon: "#rings-wedding"
-        title: Bridal
+        title: Bridal & Commitment
         desc: Let’s create together that personal, unique look that says “I love you”
           for that special day.
         cta_select: true
