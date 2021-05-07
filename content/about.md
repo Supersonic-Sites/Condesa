@@ -57,24 +57,24 @@ components:
     type: img_third_left
   - type: divider
     bg_color: white
-  - img: Condesa/Monyca_JzQaY0Xst.jpg
+  - img: Condesa/Mia_picture_1__zztfqwGSR.jpg
     aos: fade-up
     cta_link: contact/
     bg_color: white
-    img_alt: Image of Monyca Bouras
+    img_alt: Maria Thompson-Malone
     cta: Call To Action
-    desc: >-
-      Monyca is just a support system. A Mexican born mother of 2, Monyca
-      married David and moved to Vancouver following a grandson and a dream:
-      freedom of fear. <br><br>
+    desc: >+
+      <strong>General Manager</strong><br>
 
-      Together they have walked the walk of migration and have restarted life at an unlikely age.
+      Originally from Ireland, she moved to Canada in 2014. With a background of a fun mix of farming, ballroom dancing, poetry, marketing and even the army! The world of jewelry has been a constant throughout her life, as a child she would create her own taking pieces and elements from bijouterie she came across with and she developed a look that was unique at the time. She has been a jewelry store manager for over 20 years.<br><br>
 
-      She is the one who pushes and pulls (sometimes at a price!), in charge of perpetuating the style in the store and coherence in the flow. She is devoted to Beauty, Life and Delight.<br><br>
+      During this time, she has learned silversmithing, horology and body piercing, as well as jade carving and  lapidary. In 2017 she first met David and by 2018, she was welcomed into the Condesa Jewelry Expertise team. Since then, she has been working alongside David at CONDESA. <br><br>
 
-      “I never thought much of jewelery until I met David. He has shown me a world of melting and transforming, of brilliance and colour, of vibration and history, endless possibilities of manifestation: Beauty, Emotion and Grace made tangible.” 
+      “The time I have spent thus far in CONDESA has been crucial for my understanding of the industry, for David is always willing to clarify my endless curiosity, expanding my knowledge not only of the gemstones and precious metals that I love so much, but to all aspects of the trade ”. 
+
+
     aos_select: true
-    title: Monyca Bouras
+    title: Maria Thompson-Malone
     type: img_third_right
   - type: divider
     bg_color: white
@@ -102,24 +102,24 @@ components:
     type: img_third_left
   - type: divider
     bg_color: white
-  - img: Condesa/Mia_picture_1__zztfqwGSR.jpg
+  - img: Condesa/Monyca_JzQaY0Xst.jpg
     aos: fade-up
     cta_link: contact/
     bg_color: white
-    img_alt: Maria Thompson-Malone
+    img_alt: Image of Monyca Bouras
     cta: Call To Action
-    desc: >+
-      <strong>General Manager</strong><br>
+    desc: >-
+      Monyca is just a support system. A Mexican born mother of 2, Monyca
+      married David and moved to Vancouver following a grandson and a dream:
+      freedom of fear. <br><br>
 
-      Originally from Ireland, she moved to Canada in 2014. With a background of a fun mix of farming, ballroom dancing, poetry, marketing and even the army! The world of jewelry has been a constant throughout her life, as a child she would create her own taking pieces and elements from bijouterie she came across with and she developed a look that was unique at the time. She has been a jewelry store manager for over 20 years.<br><br>
+      Together they have walked the walk of migration and have restarted life at an unlikely age.
 
-      During this time, she has learned silversmithing, horology and body piercing, as well as jade carving and  lapidary. In 2017 she first met David and by 2018, she was welcomed into the Condesa Jewelry Expertise team. Since then, she has been working alongside David at CONDESA. <br><br>
+      She is the one who pushes and pulls (sometimes at a price!), in charge of perpetuating the style in the store and coherence in the flow. She is devoted to Beauty, Life and Delight.<br><br>
 
-      “The time I have spent thus far in CONDESA has been crucial for my understanding of the industry, for David is always willing to clarify my endless curiosity, expanding my knowledge not only of the gemstones and precious metals that I love so much, but to all aspects of the trade ”. 
-
-
+      “I never thought much of jewelery until I met David. He has shown me a world of melting and transforming, of brilliance and colour, of vibration and history, endless possibilities of manifestation: Beauty, Emotion and Grace made tangible.” 
     aos_select: true
-    title: Maria Thompson-Malone
+    title: Monyca Bouras
     type: img_third_right
   - type: divider
     bg_color: white
