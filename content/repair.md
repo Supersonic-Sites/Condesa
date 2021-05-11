@@ -15,15 +15,16 @@ components:
     id: none
     bg_color: white
     align: center
-    title: The true beauty of jewelry resides in its timelessness.
+    title: Jewelry Should Be Worn
     title_size: big
     desc_select: true
-    desc: >
-      Every jewelry piece deserves to be repaired and restored. These pieces are
-      historic artifacts. Let’s get those vintage treasures out of the box and
-      into the light again! At Condesa, we specialize in the restoration of
-      vintage, costume, and fashion jewelry. These items range from brooches to
-      cameo’s, multi-strand beaded necklaces to enamelled items.
+    desc: >-
+      When a go-to favorite is broken or a vintage heirloom is damaged, they end
+      up at the bottom of a
+
+      jewelry box. However, with the right technical expertise and jewelry knowledge, nearly all
+
+      treasures can be returned to their original luster and functionality.
   - type: divider_half
     bg_color: white
   - type: cards_third_img
@@ -36,8 +37,8 @@ components:
         img_alt: Don't underestimate an old piece. Sometimes it just needs some TLC and
           the magic of a professional cleaning
         cta: Let's Start
-        desc: Don't underestimate an old piece. Sometimes it just needs some TLC and the
-          magic of a professional cleaning.
+        desc: We are professionals in handling, recuperating, and perfecting. Your
+          jewels are in the best hands.
         aos_select: true
         title: Restoration
       - img: Condesa/Gallery_Page/Stone_Replacement_1_I3yfNAFeZR.jpg
