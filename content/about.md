@@ -53,7 +53,7 @@ components:
 
       printing. In addition to metal work, he loves gemstones and holds a G.G degree from the
 
-      prestigious <b>GIA</b>.<br><br>
+      prestigious <strong>GIA</strong>.<br><br>
 
       David has lived in many parts of the world and is comfortable chatting in several languages
 
