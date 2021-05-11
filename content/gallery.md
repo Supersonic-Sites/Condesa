@@ -21,7 +21,7 @@ components:
       - img: Condesa/Gallery_Page/New/Shyma_Yantra__4__m41TJi1Kr.jpg
         img_alt: Shyma Yantra Mandala
       - img: Condesa/Gallery_Page/New/CJE_Hammered_Cuff_F3l2wnxV4E.jpg
-        img_alt: Custom hammer textured ring
+        img_alt: Custom hammered silver bangle
       - img: Condesa/Gallery_Page/New/Oni_Mask__13__EYDUY7ZUZ.jpg
         img_alt: Custom gold ring with diamonds and emeralds
       - img: Condesa/Gallery_Page/New/Multi-Diamond_Pendant__10__h2tYETxut.jpg
@@ -29,9 +29,9 @@ components:
       - img: Condesa/Gallery_Page/New/Opal___Sapphires_fjLJ-ZOeD7.jpg
         img_alt: Custom pendant with opal and sapphires
       - img: Condesa/Gallery_Page/New/Jewish_Talismans__7__Wh5Vx18m6.jpg
-        img_alt: Jewish star of David taliman
+        img_alt: Star of David Talisman
       - img: Condesa/Gallery_Page/New/Candy_Skull_Pendant__9__VlZTuOdQe.jpg
-        img_alt: Custom gold skull pendant
+        img_alt: Custom gold and gemstone sugar skull pendant
       - img: Condesa/Gallery_Page/New/Pearl_Multi-Necklace__3__YqdC3R_eMA.jpg
         img_alt: Multi-necklace with pearls
       - img: Condesa/Gallery_Page/New/Diamond_-_Rough_to5Cy2A31.jpg
