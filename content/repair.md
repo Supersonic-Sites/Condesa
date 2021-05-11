@@ -122,11 +122,11 @@ components:
     cta: Call To Action
     desc: Alex has quite a collection of watches.  One day he brought in a
       particularly rare timepiece made from a special alloy of 18k white
-      gold.  The face of the watch hade three visible nicks right next to the
+      gold.  The face of the watch had three visible nicks right next to the
       crystal.  After careful analysis of the alloy, we were able to laser weld
       the damaged areas, leaving no trace.
     aos_select: true
-    title: Alex's 18k white gold watch
+    title: Alex's Gold Watch
     type: img_third_left
   - type: divider
     bg_color: white
