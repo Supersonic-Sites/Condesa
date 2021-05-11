@@ -31,7 +31,7 @@ components:
 
       gemstones. We care for you and for your project because we value beauty,
 
-      emotion and worth.
+      emotion, and worth.
     align: center
     id: none
   - type: divider_half
