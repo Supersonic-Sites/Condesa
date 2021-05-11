@@ -16,7 +16,7 @@ components:
     title: Creating a Bridge Between Idea & Creation.
     desc_select: true
     desc: >-
-      Whether you have a vague notion or a very detailed idea of a piece of
+      Whether you have a vague notion or a very detailed idea of the piece of
       jewelry you want,
 
       together we can refine the elements of design, metal and gemstones. Create a stunning and
