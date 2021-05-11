@@ -24,10 +24,10 @@ components:
     title: "Discover a wealth of experience.<br>Realize your vision. "
     desc_select: true
     desc: >-
-      Please come in, feel right at home, our experts are ready to listen to
-      your need,
+      Please come in, feel right at home. Our experts are ready to listen to
+      your needs,
 
-      your desire and then help you manifest that reality in precious metal and
+      your desire, and then help you manifest that reality in precious metal and
 
       gemstones. We care for you and for your project because we value beauty,
 
@@ -45,7 +45,7 @@ components:
         cta_select: true
         img_alt: Picture of custom designed jewelry
         cta: Learn More
-        desc: Your ideas are as unique as your individuality, we’re here bring them to
+        desc: Your ideas are as unique as your individuality; we’re here bring them to
           life. The only sure way to preserve beauty is to design it. So, there
           we go...and then we make it. We relish the opportunity to create.
         aos_select: true
