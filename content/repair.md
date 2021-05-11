@@ -81,7 +81,7 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Special Items
-        desc: Gold and diamonds are not only reserved for the body, we understand
+        desc: Gold and diamonds are not only reserved for the body. We understand
           precious items linked to emotions and experiences are also cast and
           smithed. Yes, we can fix and restore more than jewelry. Talk to us. We
           will know how.
