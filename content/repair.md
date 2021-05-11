@@ -46,7 +46,8 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Ring Fitting
-        desc: "Keep the memories close and resize your ring to perfection. "
+        desc: Change happens, we adapt. Precise and tailored resizing to perfection and
+          comfort.
         aos_select: true
         aos: fade-up
       - img: Condesa/Gold_chain_repair_before_vCr4CEVoy.jpg
