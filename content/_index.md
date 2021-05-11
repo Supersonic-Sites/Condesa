@@ -9,7 +9,8 @@ components:
     cta_link: https://cloud.condesajewelryexpertise.com/index.php/apps/appointments/pub/HGOi8D8pDwd2sIDNqNE4vQ%3D%3D/form
     cta: Schedule An Appointment
     desc: "Whether designing custom jewelry or repairing a precious memento, Condesa
-      delivers every time. Let’s create your unique masterpiece together.   "
+      delivers every time. <br>Let’s create your unique masterpiece
+      together.   "
     cta2_link: contact/
     title: In Awe of Beauty
     cta2_select: true
