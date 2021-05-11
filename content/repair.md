@@ -55,8 +55,7 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Chain Repair
-        desc: We reattach broken pieces with precise laser welding and replace broken
-          clasps.
+        desc: Don't leave loose ends. We reattach. And we are good at it.
         aos_select: true
         aos: fade-up
       - img: Condesa/Home_Gallery/gallery_8_tGzv0Jutn.jpg
@@ -64,8 +63,8 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Vintage Jewelry
-        desc: We use specialized equipment and expert knowledge to restore vintage
-          treasures to their former glory.
+        desc: With expert knowledge and specialized equipment, we strive to restore the
+          wisdom and heritage of timeless pieces of history.
         aos_select: true
         aos: fade-up
       - img: Condesa/Sapphire_Re-set__5__010oXlp3H.jpg
@@ -73,8 +72,8 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Gemstone Replacement
-        desc: "Choose from our vast collection of gemstones to restore any design to its
-          full beauty. "
+        desc: A gemstone expert and resourceful dealer, David will deliver the perfect
+          precious rock for you.
         aos_select: true
         aos: fade-up
       - img: Condesa/CUSTOM_1_Landing_aZu7dreie.JPG
@@ -82,8 +81,10 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Special Items
-        desc: "We don’t stop at jewelry. We can repair any precious item in any metal
-          with any gemstone. "
+        desc: Gold and diamonds are not only reserved for the body, we understand
+          precious items linked to emotions and experiences are also cast and
+          smithed. Yes, we can fix and restore more than jewelry. Talk to us. We
+          will know how.
         aos_select: true
         aos: fade-up
   - type: divider
