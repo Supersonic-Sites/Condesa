@@ -1,5 +1,5 @@
 <section class="container max-w-7xl mx-auto px-4" x-data="{}">
-<div class="grid grid-cols-12 gap-8">    
+<div class="grid grid-cols-12 gap-0 md:gap-8">    
   {{ range .images }}
   <div class="col-span-12 md:col-span-4">
     <a
@@ -8,7 +8,7 @@
   >
     <img
       alt="{{ .img_alt }}"
-      class="object-fit w-full lazyload border-double border-ocre border-4"
+      class="w-full lazyload border-double border-ocre border-4"
       src="https://ik.imagekit.io/supersonicsites/tr:ar-1-1,w-640,bl-30,q-50,/{{ .img }}"
       data-srcset="
         https://ik.imagekit.io/supersonicsites/tr:ar-1-1,w-640,c_scale,f_auto,q_auto,dpr_auto,/{{ .img }} 640w,
