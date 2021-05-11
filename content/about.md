@@ -39,18 +39,29 @@ components:
     cta: Call To Action
     desc: >+
       David has been designing, developing, manufacturing and repairing jewelry
-      for nearly 30 years, working with and learning from many of the world’s
-      best designers, artists & artisans. He started in the jewelry trade in
-      Mexico during the early 1990's making large silver electroformed jewelry.
-      As jewelry trends began to change and designs got smaller, he learned the
-      art of casting, working with a wide variety of precious metals. Searching
-      for jewelry design perfection and manufacturing precision, he was at the
-      forefront of digital integration back in the early 2000’s – a pioneer in
-      the use of robotics, lasers, CAD and 3D printing in jewelry.<br><br>
+      for nearly 30 years,
 
-      In addition to metal work, David has a fascination with gemstones and the study of gemology. He holds a G.G degree from the prestigious GIA. Upon moving to Vancouver in 2017, he opened the doors of the Condesa Jewelry Expertise.<br><br>
+      working with and learning from some of the world’s best jewelers and metalsmiths.
 
-      David has lived for long periods of his life in the USA, Israel, Mexico and Canada.  He is fluent in several languages including English, Hebrew, and Spanish.  He has also been a yoga and meditation practitioner for most of his adult life.
+      He started in the jewelry trade in Mexico in 1993 making large silver electroformed jewelry. As
+
+      jewelry and designs got smaller, he learned the art of casting and fabricating in a wide variety of
+
+      precious metals. Always searching for jewelry perfection, he was at the forefront of digital
+
+      integration back in the early 2000’s – a pioneer in the use of robotics, lasers, CAD and 3D
+
+      printing. In addition to metal work, he loves gemstones and holds a G.G degree from the
+
+      prestigious <br>GIA</b>.<br><br>
+
+      David has lived in many parts of the world and is comfortable chatting in several languages
+
+      including English, Hebrew, and Spanish. He is also a yoga and meditation practitioner.<br><br>
+
+      Opening the doors in Vancouver in 2017, David brings his jewelry knowledge and talent to you
+
+      at Condesa Jewelry Expertise on Main St.
 
     aos_select: true
     title: David Ciralsky
