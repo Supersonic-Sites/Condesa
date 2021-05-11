@@ -15,15 +15,13 @@ components:
     title_size: big
     title: Creating a Bridge Between Idea & Creation.
     desc_select: true
-    desc: "If you have a totally unique and creative design in mind that isn’t
-      captured by an already existing piece, no problem! We’re here to bring
-      your idea to life. At Condesa, we can make a piece of jewelry out of
-      anything. Sketch your vision out on a napkin, and we can do it. The beauty
-      in custom design is finding perfection in the process. We relish the
-      opportunity to create something unique and new, something that
-      encapsulates a part of you. Choose gold, platinum, palladium, and silver,
-      and any kind of gemstone you can think of (and even ones you can only
-      dream up) for your special design. "
+    desc: >-
+      Whether you have a vague notion or a very detailed idea of a piece of
+      jewelry you want,
+
+      together we can refine the elements of design, metal and gemstones. Create a stunning and
+
+      unique custom piece with guidance from our experts.
     align: center
     id: none
   - type: divider_half
@@ -76,7 +74,7 @@ components:
     img_alt: Medallion of Roxy the dog
     cta: Call To Action
     desc: >-
-      Sonny called up distraught and with a very specific request.<br><br>His
+      Sunny called up distraught and with a very specific request.<br><br>His
       beloved dog Roxy had passed away and he wanted a precise representation of
       her face on a gold pendant.  Not a mere engraved likeness but rather a
       partial relief sculped bust.<br><br>
