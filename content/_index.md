@@ -8,9 +8,8 @@ components:
     img: Condesa/Condesa_Jewelry_Expertise_0_kF3Podx.jpg
     cta_link: https://cloud.condesajewelryexpertise.com/index.php/apps/appointments/pub/HGOi8D8pDwd2sIDNqNE4vQ%3D%3D/form
     cta: Schedule An Appointment
-    desc: "Whether designing and creating custom jewelry or repairing a precious
-      memento or heirloom, Condesa delivers beautiful results every time. Let’s
-      create your unique masterpiece together.   "
+    desc: "Whether designing custom jewelry or repairing a precious memento, Condesa
+      delivers every time. Let’s create your unique masterpiece together.   "
     cta2_link: contact/
     title: In Awe of Beauty
     cta2_select: true
@@ -23,13 +22,15 @@ components:
     title_size: medium
     title: "Discover a wealth of experience.<br>Realize your vision. "
     desc_select: true
-    desc: "At Condesa, we want you to feel right at home. Our experts are ready to
-      listen to your vision for your projects and make it happen. Do you have a
-      specific vision in mind for a fabulous piece of custom jewelry? We can do
-      it. Do you want to repair some of grandma’s heirloom pieces? We can do
-      that too! We want your investments to look their best. We take pride in
-      offering a way for your creativity and memories to be transformed into an
-      eternal piece of beauty. "
+    desc: >-
+      Please come in, feel right at home, our experts are ready to listen to
+      your need,
+
+      your desire and then help you manifest that reality in precious metal and
+
+      gemstones. We care for you and for your project because we value beauty,
+
+      emotion and worth.
     align: center
     id: none
   - type: divider_half
@@ -43,9 +44,9 @@ components:
         cta_select: true
         img_alt: Picture of custom designed jewelry
         cta: Learn More
-        desc: Do you have a specific vision in mind down to the precise design, metal,
-          and gemstone? We can realize it for you. Create a stunning and unique
-          custom piece with guidance from our experts.
+        desc: Your ideas are as unique as your individuality, we’re here bring them to
+          life. The only sure way to preserve beauty is to design it. So, there
+          we go...and then we make it. We relish the opportunity to create.
         aos_select: true
         title: Custom Design
       - img: Condesa/Condesa_Jewelry_Expertise_0_kF3Podx.jpg
