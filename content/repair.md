@@ -72,8 +72,8 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Gemstone Replacement
-        desc: A gemstone expert and resourceful dealer, David will deliver the perfect
-          precious rock for you.
+        desc: As a gemstone expert and resourceful dealer, David will deliver the
+          perfect precious rock for you.
         aos_select: true
         aos: fade-up
       - img: Condesa/CUSTOM_1_Landing_aZu7dreie.JPG
@@ -110,7 +110,7 @@ components:
       experience of manufacturing large silver tabletop goods and Judaica items,
       we were able to restore the heirloom without leaving a mark.
     aos_select: true
-    title: David's broken silver menorah
+    title: Broken Silver Menorah
     type: img_third_left
   - type: divider
     bg_color: white
