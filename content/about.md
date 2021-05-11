@@ -9,7 +9,7 @@ components:
     title: About Us
   - type: divider
     bg_color: white
-  - img: Condesa/About-image_5lA2JYqHN.jpg
+  - img: Condesa/Staged_team_photo_uA_wtik7B.jpg
     aos: fade-up
     cta_link: contact/
     bg_color: white

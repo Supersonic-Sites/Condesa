@@ -30,7 +30,7 @@ components:
   - type: cards_third_img
     bg_color: white
     cards:
-      - img: Condesa/andres-vera-CmmYT6Mm948-unsplash_WNKnAgutjs.jpg
+      - img: Condesa/Repair_Page_restoration_pic._bBdG8M3uA.jpg
         aos: fade-up
         cta_link: "#start"
         cta_select: false
@@ -41,7 +41,7 @@ components:
           jewels are in the best hands.
         aos_select: true
         title: Restoration
-      - img: Condesa/Gallery_Page/Stone_Replacement_1_I3yfNAFeZR.jpg
+      - img: Condesa/Repair_Page_Ring_resize_pix_s-u7ftcjP6.jpg
         img_alt: Ring being fit on a hand
         cta: Call To Action
         cta_link: contact/
@@ -58,7 +58,7 @@ components:
         desc: Don't leave loose ends. We reattach. And we are good at it.
         aos_select: true
         aos: fade-up
-      - img: Condesa/Home_Gallery/gallery_8_tGzv0Jutn.jpg
+      - img: Condesa/Repairs_page_vintage_pic_X7Br4NlUH7.jpg
         img_alt: Vintage Jewelry
         cta: Call To Action
         cta_link: contact/
@@ -130,7 +130,7 @@ components:
     type: img_third_left
   - type: divider
     bg_color: white
-  - img: Condesa/abigail-h-Bz29wEwb9WE-unsplash_qEf_Do40A.jpg
+  - img: Condesa/brooch_wi-BUgh5cB.jpg
     aos: fade-up
     cta_link: contact/
     bg_color: white
@@ -147,20 +147,20 @@ components:
     type: img_third_left
   - type: divider
     bg_color: white
-  - type: gallery
-    images:
-      - img: Condesa/Sapphire_Re-set__6__ClEW4mIIk.jpg
-        img_alt: Please type in a description of the image
-      - img: Condesa/Sapphire_Re-Set__6__B8lYd4Tbw.jpg
-        img_alt: Please type in a description of the image
-      - img: Condesa/Labradorite_Pendant__2__rlErQ1Sbc.jpg
-        img_alt: Please type in a description of the image
-      - img: Condesa/Labradorite_Pendant__8__A4I0w7iOpm.jpg
-        img_alt: Please type in a description of the image
-      - img: Condesa/Gold_chain_repair_before_1__p5U86ouDW.jpg
-        img_alt: Please type in a description of the image
-      - img: Condesa/Gold_chain_repair_after_Tnzzfe7mT.jpg
-        img_alt: Please type in a description of the image
+  - img: Condesa/Untitled_Uwt0KfXg3i.jpg
+    aos: fade-up
+    cta_link: contact/
+    bg_color: white
+    img_alt: Pendant repair
+    cta: Call To Action
+    desc: Doug came in with a broken labradorite pendant.  The stone itself was
+      broken in two.   Though, not a valuable gemstone, he explained that his
+      wife loved the piece and he wanted to repair it for her birthday.  After a
+      many consideration, we decided to recreate the top of the stone in silver
+      while adding in a nature motif to make it even more beautiful.
+    aos_select: true
+    title: Out of the box restoration
+    type: img_third_left
   - type: divider
     bg_color: white
   - type: heading_full
