@@ -411,11 +411,6 @@ collections:
               - { label: "AOS", name: "aos", widget: "string" }
               - { label: "Image", name: "img", widget: "string", default: "DEV/boilerplate-bg_tRB-gJlPq.jpg" }
               - { label: "Image Alt Text", name: "img_alt", widget: "string", default: "Please type in a description of the image" }
-              - { label: "Title", name: "title", widget: "string" }
-              - { label: "Description", name: "desc", widget: "text" }
-              - { label: "CTA ON/OFF", name: "cta_select", widget: "boolean", required: false }
-              - { label: "CTA", name: "cta", widget: "string", default: "Call To Action" }
-              - { label: "CTA Link", name: "cta_link", widget: "string", default: "contact/" }
 
           - label: "Half Image Left"
             name: "img_half_left"

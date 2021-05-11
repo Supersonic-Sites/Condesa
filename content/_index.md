@@ -18,6 +18,11 @@ components:
     pre_title: At Condesa, we're
   - type: divider
     bg_color: white
+  - type: img_full
+    bg_color: white
+    img: Condesa/Staged_team_photo_uA_wtik7B.jpg
+    img_alt: Image of the Condesa Jewelry Expertise Team in the office
+    aos: fade
   - type: heading_full
     bg_color: white
     title_size: medium
