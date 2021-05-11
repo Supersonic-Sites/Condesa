@@ -97,15 +97,15 @@ components:
     cta: Call To Action
     desc: >-
       Sadaf Aghabeygi has been in love with jewelry from childhood and active in
-      it since 2015. 
+      it since 2015.
 
-      Born in Iran, she is an Industrial Engineer who earnest to refine and gear her skills towards her lifelong passion, completed a Jewellery Making Diploma in Tehran.<br><br>
+      Born in Iran, she is an Industrial Engineer who, seeking to refine her skills towards her passion,
 
-      Upon arriving in Vancouver, she continued her education in Jewellery Art & Design at the VCC where 
+      completed a Jewellery Making Diploma in Tehran.<br><br>
 
-      she was awarded due to outstanding achievement in Gemmology, then graduated with honours.
+      Upon arriving in Vancouver, she continued her education in Jewellery Art & Design at the VCC where she was awarded for outstanding achievement in Gemmology and graduated with honours.<br><br>
 
-      She expresses:<br>
+      She expresses:<br><br>
 
       “I started working in Condesa as jeweler in 2019, and I am grateful for being a part of this amazing team. I do the finishing of custom pieces and all kinds of repairs and renovations under the supervision of David, which is the greatest honor of my career”.
     aos_select: true
@@ -120,15 +120,22 @@ components:
     img_alt: Image of Monyca Bouras
     cta: Call To Action
     desc: >-
-      Monyca is just a support system. A Mexican born mother of 2, Monyca
-      married David and moved to Vancouver following a grandson and a dream:
-      freedom of fear. <br><br>
+      Monyca is the team’s support system. A Mexican born mother of 2, Monyca
+      married David and
 
-      Together they have walked the walk of migration and have restarted life at an unlikely age.
+      moved to Vancouver following a grandson and a dream: freedom of fear.<br><br>
 
-      She is the one who pushes and pulls (sometimes at a price!), in charge of perpetuating the style in the store and coherence in the flow. She is devoted to Beauty, Life and Delight.<br><br>
+      Together they have walked the walk of migration and have restarted life at an unlikely age. She
 
-      “I never thought much of jewelery until I met David. He has shown me a world of melting and transforming, of brilliance and colour, of vibration and history, endless possibilities of manifestation: Beauty, Emotion and Grace made tangible.” 
+      in charge of perpetuating the style in the store and coherence in the flow. She is devoted to
+
+      Beauty, Life and Delight.<br><br>
+
+      “I never thought much of jewelry until I met David. He has shown me a world of melting and
+
+      transforming, of brilliance and colour, of vibration and history, endless possibilities of
+
+      manifestation: Beauty, Emotion and Grace made tangible.
     aos_select: true
     title: Monyca Bouras
     type: img_third_right
