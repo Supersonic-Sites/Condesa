@@ -31,7 +31,7 @@ components:
 
       gemstones. We care for you and for your project because we value beauty,
 
-      emotion and worth.
+      emotion, and worth.
     align: center
     id: none
   - type: divider_half
@@ -60,7 +60,7 @@ components:
           of experience. We’re in love with beauty and creating art and can’t
           wait to help you realize your projects.
         aos_select: true
-        title: About Condesa Jewelry
+        title: About
       - img: Condesa/Stone_Replacement_5_wQY7gDOKE.jpg
         aos: fade-up
         cta_link: repair/
