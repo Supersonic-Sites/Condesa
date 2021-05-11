@@ -136,14 +136,14 @@ components:
     bg_color: white
     img_alt: Joy's 19th century brooch
     cta: Call To Action
-    desc: Joy brought in a late 19th century brooch.  The some of the flower petal
+    desc: Joy brought in a late 19th century brooch.  Some of the flower petal
       elements and a pearl were missing.  Since she wanted to pass it on to a
       niece, it was important that it be restored and then converted to function
       as a pendant.  We were able to meticulously recreate the missing petals,
       replace the pearl and use the pin to create the hanging mechanism so it
       could be used as a pendant.
     aos_select: true
-    title: Joy's 19th century brooch
+    title: Joy's 19th Century Brooch
     type: img_third_left
   - type: divider
     bg_color: white
