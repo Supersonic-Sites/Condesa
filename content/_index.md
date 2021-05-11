@@ -61,7 +61,7 @@ components:
           wait to help you realize your projects.
         aos_select: true
         title: About
-      - img: Condesa/Stone_Replacement_5_wQY7gDOKE.jpg
+      - img: Condesa/Home_Page_Repair_link_pic_BjNbVyMemx.JPG
         aos: fade-up
         cta_link: repair/
         cta_select: true
