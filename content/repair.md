@@ -155,7 +155,7 @@ components:
     cta: Call To Action
     desc: Doug came in with a broken labradorite pendant.  The stone itself was
       broken in two.   Though, not a valuable gemstone, he explained that his
-      wife loved the piece and he wanted to repair it for her birthday.  After a
+      wife loved the piece and he wanted to repair it for her birthday.  After
       many consideration, we decided to recreate the top of the stone in silver
       while adding in a nature motif to make it even more beautiful.
     aos_select: true

@@ -44,11 +44,13 @@ p {
 }
 /*---Useful shortcuts---*/
 .hero-background {
-  background-color: black;
+  background-color: white;
+  color: black !important;
 }
 @media (min-width: 1024px) {
 .hero-background {
   background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)), url('https://ik.imagekit.io/supersonicsites/tr:ar-4-3,w-1980,c_scale,f_auto,q_auto,dpr_auto,/Condesa/Condesa_Jewelry_Expertise_0_kF3Podx.jpg');
+  color: white !important;
 }
 }
 

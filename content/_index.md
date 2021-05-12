@@ -8,8 +8,8 @@ components:
     img: Condesa/Condesa_Jewelry_Expertise_0_kF3Podx.jpg
     cta_link: https://cloud.condesajewelryexpertise.com/index.php/apps/appointments/pub/HGOi8D8pDwd2sIDNqNE4vQ%3D%3D/form
     cta: Schedule An Appointment
-    desc: "Whether designing custom jewelry or repairing a precious memento, Condesa
-      delivers every time. <br>Let’s create your unique masterpiece
+    desc: "Whether designing custom jewelry or repairing a precious heirloom,
+      Condesa delivers every time. <br>Let’s create your unique masterpiece
       together.   "
     cta2_link: contact/
     title: In Awe of Beauty
@@ -61,9 +61,9 @@ components:
         cta_select: true
         img_alt: Picture of the Condesa Jewerly Expertise Team
         cta: Learn More
-        desc: Our team of experts is led by a certified gemologist with nearly 30 years
-          of experience. We’re in love with beauty and creating art and can’t
-          wait to help you realize your projects.
+        desc: Our team of experts is led by a jeweler and certified gemologist with
+          nearly 30 years of experience. We’re in love with beauty and creating
+          art and can’t wait to help you realize your projects.
         aos_select: true
         title: About
       - img: Condesa/Home_Page_Repair_link_pic_BjNbVyMemx.JPG
