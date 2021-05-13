@@ -52,9 +52,20 @@
     {
         "@context": "http://schema.org/",
         "@type": "{{ .Site.Params.schema.type }}",
+            "name":"{{ .Site.Params.sitename }}",
             "description":"{{ .Site.Params.description }}",
             "image":"{{ .Site.Params.schema.ogimage }}",
-            "name":"{{ .Site.Params.sitename }}",
-            "potentialAction":"Rent Online",
+            "address" : {
+                "@type": "PostalAddress",
+                "addressLocality": "{{ $.Site.Params.schema.city }}",
+                "addressRegion": "{{ $.Site.Params.schema.region }}",
+                "postalCode": "{{ $.Site.Params.schema.postalcode }}",
+                "streetAddress": "{{ $.Site.Params.schema.address }}, {{ $.Site.Params.schema.address2 }}" 
+            },
+            "priceRange": "{{ $.Site.Params.schema.priceRange }}",
+            "url":"{{.Site.BaseURL}}",
+            "openingHours": [
+            "{{ $.Site.Params.schema.openinghour }}"]
+            "potentialAction":"Schedule Appointment",
     }
     </script>
