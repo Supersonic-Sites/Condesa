@@ -25,6 +25,12 @@ HUGO_VERSION = "0.79.1"
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
+  from = "https://www.condesajewelryexpertise.com/secondary/my-account/*"
+  to = "https://www.condesajewelryexpertise.com/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
   from = "https://condesajewelry.netlify.app/"
   to = "https://www.condesajewelryexpertise.com/"
   status = 301
