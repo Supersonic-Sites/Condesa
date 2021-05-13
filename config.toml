@@ -1,6 +1,6 @@
 baseURL = "https://condesajewelry.netlify.app/"
 title = "Condesa Jewelry Expertise"
-description = "Condesa is where the ancient wisdom of the pieces and the new knowledge blends into manifested art.  A temple to the outstanding art of jewerly."
+description = "Whether designing custom jewelry or repairing a precious heirloom, Condesa Jewelry Expertise delivers every time. Let’s create your unique masterpiece together."
 languageCode = "en-ca"
 DefaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
