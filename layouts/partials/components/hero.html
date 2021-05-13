@@ -4,7 +4,7 @@
 <div class="container max-w-7xl mx-auto flex flex-col justify-center items-center">
 
   <div class="max-w-7xl flex flex-col items-center justify-center">
-    <img src="https://ik.imagekit.io/supersonicsites/tr:w-450,c_scale,f_auto,q_auto,dpr_auto,/Condesa/CJE_Logo_Circle_b50TgJfQs.jpg" class="w-3/4 md:hidden pb-8" alt="Condesa Jewelry Expertise Logo">
+    <img src="https://ik.imagekit.io/supersonicsites/tr:w-450,c_scale,f_auto,q_auto,dpr_auto,/Condesa/CJE_Logo_Circle_b50TgJfQs.jpg" class="w-3/5 md:hidden pb-8" alt="Condesa Jewelry Expertise Logo">
     <p class="capitalize text-3xl tracking-widest font-sans text-center md:text-left mb-2 hidden md:block">
       {{ .pre_title }}
     </p>
@@ -21,8 +21,11 @@
         {{ .cta }}
       </a>
       {{ if .cta2_select }}
-      <a href="{{ .cta2_link }}" class="transition duration-500 text-center w-full md:w-auto btn_primary tracking-widest">
+      <a href="{{ .cta2_link }}" class="transition duration-500 text-center w-full md:w-auto btn_primary tracking-widest hidden md:block">
         {{ .cta2 }}
+      </a>
+      <a href="tel:+1-604-874-1879" class="transition duration-500 text-center w-full md:w-auto btn_primary tracking-widest md:hidden">
+        Give Us A Call
       </a>
       {{ else }}
       <span></span>
