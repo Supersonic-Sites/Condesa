@@ -53,6 +53,7 @@
         "@context": "http://schema.org/",
         "@type": "{{ .Site.Params.schema.type }}",
             "name":"{{ .Site.Params.sitename }}",
+            "telephone":"{{ $.Site.Params.schema.phone }}",
             "description":"{{ .Site.Params.description }}",
             "image":"{{ .Site.Params.schema.ogimage }}",
             "address" : {
