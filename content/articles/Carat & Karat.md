@@ -2,7 +2,7 @@
 title: Carat & Karat
 description: Carat &amp; Karat. One is a unit of weight, while the other is a unit of purity. Both are important factors when it comes to jewelry &amp; gemstones.
 
-slug: carat-karat
+slug: carat-karat/
 layout: post
 img: Condesa/Articles/CJE-Diamond-3-Stone-scaled_JVh2_aetY.jpg
 img_alt: Carat & Karat

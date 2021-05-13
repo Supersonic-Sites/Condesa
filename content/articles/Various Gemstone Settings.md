@@ -2,7 +2,7 @@
 title: The Art of Gemstone Settings
 description: There are many variations of setting styles, from traditional to modern. Here is the most popular of the various gemstone settings available.
 
-slug: various-gemstone-settings
+slug: various-gemstone-settings/
 layout: post
 img: Condesa/Articles/DiamondRuby-Gem-Swap-4-scaled_cdzpc9SOA.jpg
 img_alt: Picture of a phenomenal gemstone

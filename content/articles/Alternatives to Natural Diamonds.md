@@ -2,7 +2,7 @@
 title: Alternatives to Natural Diamonds
 description: Did you know that there are many alternatives to natural diamonds? From lab grown diamonds to white sapphire. There are many gemstone choices!
 
-slug: alternatives-to-natural-diamonds
+slug: alternatives-to-natural-diamonds/
 layout: post
 img: Condesa/Articles/Alternatives_Diamonds__1__HL4UElng5.jpg
 img_alt: Alternatives to Natural Diamonds

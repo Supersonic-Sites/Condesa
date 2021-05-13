@@ -2,7 +2,7 @@
 title: The Colors of Gold
 description: Ever wondered about various gold varieties? Yellow, white, rose & green? Colors of Gold explains the many faces of this wonderful metal.
 
-slug: colorsofgold
+slug: colorsofgold/
 layout: post
 img: Condesa/Articles/CJE-Gold-Hammered-Set_nrCmsQRWP.jpg
 img_alt: Gold comes in different colors. Picture of hammered set of gold rings.

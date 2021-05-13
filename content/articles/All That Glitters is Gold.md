@@ -2,7 +2,7 @@
 title: All That Glitters is Gold
 description: Gold plating, vermeil - Not all that glitters is gold! In fact, there are numerous ways in which jewelry can have the appearance of gold.
 
-slug: all-that-glitters-is-gold
+slug: all-that-glitters-is-gold/
 layout: post
 img: /Condesa/Articles/All-That-Glitters-Is-Gold_rYBxUgPoi.jpg
 img_alt: Gold bars - not all that glitters is gold.

@@ -2,7 +2,7 @@
 title: The 4C’s of Diamonds
 description: Unlike other gemstones, diamonds have very specific criteria for determining their value. Generally referred to as The 4C's of Diamonds
 
-slug: the-4-cs-of-diamonds
+slug: the-4-cs-of-diamonds/
 layout: post
 img: Condesa/Articles/Multi-Diamond-Pendant-7-1-scaled_BAReWVmS_.jpg
 img_alt: Picture of Diamonds

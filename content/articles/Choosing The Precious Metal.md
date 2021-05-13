@@ -2,7 +2,7 @@
 title: Choosing The Precious Metal
 description: Our GIA gemologist David Ciralsky will walk you through the many options of precious metal choices for engagement rings. Let the fun begin
 
-slug: precious-metal-choices-engagement-rings
+slug: precious-metal-choices-engagement-rings/
 layout: post
 img: Condesa/Articles/Precious-Metal-Choices-Engagement-Rings-CJE-scaled_kICwXlwHt.jpg
 img_alt: Picture of different types of gold

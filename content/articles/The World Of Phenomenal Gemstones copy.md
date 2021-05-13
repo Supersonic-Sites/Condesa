@@ -2,7 +2,7 @@
 title: The World of Phenomenal Gemstones
 description: The world of phenomenal gemstones. A large group of gemstones presenting visual phenomenon, perfect for your upcoming custom design project!
 
-slug: the-world-of-phenomenal-gemstones
+slug: the-world-of-phenomenal-gemstones/
 layout: post
 img: Condesa/Articles/conscious-design-7ZmtUtAArRI-unsplash_ZbnDRFVFwt.jpg
 img_alt: Picture of a phenomenal gemstone

@@ -2,7 +2,7 @@
 title: Top 10 Gemstones For Engagement Rings
 description: Top 10 Gemstones For Engagement Rings. There are many choices when it comes to choosing a gemstone for your custom ring. Let us show you the way!
 
-slug: engagement-rings-top-ten-gemstones
+slug: engagement-rings-top-ten-gemstones/
 layout: post
 img: Condesa/Articles/jene-yeo-ROtpifeuw-E-unsplash_u47Sf2-o9.jpg
 img_alt: Picture of different gemstones
