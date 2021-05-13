@@ -11,6 +11,7 @@ style="background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
 
 <div class="py-8 md:py-12 bg-white"></div>
 
+
 <section class="">
     <div class="container max-w-7xl mx-auto px-4">
 
@@ -24,7 +25,12 @@ style="background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
         data-src="https://ik.imagekit.io/supersonicsites/tr:ar-16-9,w-768,/{{ .Params.img}} 768w"
         alt="{{ .Title }}"
         class="lazyload shadow-lg" />
-        <article class="pt-12 max-w-4xl mx-auto prose lg:prose-xl">
+
+        <nav class="py-2">
+            <a href="{{ $.Site.BaseURL }}" class="capitalize underline hover:text-gray-400 transition duration-500">Home</a> > <a href="{{ $.Site.BaseURL }}articles" class="capitalize underline hover:text-gray-400 transition duration-500">articles</a> > <a href="{{ .Permalink }}" class="capitalize underline hover:text-gray-400 transition duration-500">{{ .Title }}</a>
+        </nav>
+
+        <article class="pt-12 max-w-4xl mx-auto prose-xl">
         {{ .Content }}
     </article>
     </div>
@@ -37,13 +43,13 @@ style="background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
         <div class="flex flex-col justify-center items-center">
 
             <h2 class="font-bold text-4xl md:text-5xl capitalize tracking-wider mb-4 text-center text-white">
-                Do You Have Questions?
+                We're Here To Help. Reach Out With Any Questions.
             </h2>
 
             <div class="mt-6 rounded-md shadow sm:mt-8">
 
                 <a href="{{ $.Site.BaseURL | absURL }}contact" class="w-full flex items-center justify-center btn_secondary">
-                    Drop us a line
+                    Contact Us Today
                 </a>
             </div>
             

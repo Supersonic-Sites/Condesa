@@ -52,7 +52,7 @@ components:
     bg_color: white
   - type: cta
     bg_color: black
-    title: Do You Have Questions?
-    cta: Drop us a line
+    title: We're Here To Help. Reach Out With Any Questions.
+    cta: Contact Us Today
     cta_link: contact/
 ---

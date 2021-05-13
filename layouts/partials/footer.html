@@ -3,14 +3,14 @@
   <div class="max-w-7xl mx-auto py-12 lg:py-16 px-4 xl:px-0">
     <div class="xl:grid xl:grid-cols-4 xl:gap-8">
       <div class="space-y-4 xl:col-span-2">
-        <img class="mx-auto lg:mx-0"
+        <img class="mx-auto lg:mx-0 md:w-2/3"
           src="https://ik.imagekit.io/supersonicsites/tr:w-450,c_scale,f_auto,q_auto,dpr_auto,/Condesa/Condessa_Logo_Official_6oJAqxLeXE.png"
           alt="{{ .Site.Params.sitename }}" width="450px" height="225px">
 
-        <p class="text-primary text-base lg:w-4/5 text-center lg:text-left tracking-wider">
+        <p class="text-primary text-base lg:w-4/5 text-center lg:text-left tracking-wider md:ml-5">
           {{ .Site.Params.Description }}
         </p>
-        <div class="flex md:space-x-6 justify-center lg:justify-start">
+        <div class="flex md:space-x-6 justify-center lg:justify-start md:ml-5">
           {{ if eq .Site.Params.social.facebook "#" }}
           <span></span>
           {{ else }}

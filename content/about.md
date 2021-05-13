@@ -143,7 +143,7 @@ components:
     bg_color: white
   - type: cta
     bg_color: primary
-    title: Do you have questions?
-    cta: Drop us a line
+    title: We're Here To Help. Reach Out With Any Questions.
+    cta: Contact Us Today
     cta_link: contact/
 ---

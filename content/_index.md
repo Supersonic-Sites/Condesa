@@ -1,5 +1,5 @@
 ---
-title: Home - Condesa Jewelry Expertise
+title: Welcome to Condesa
 description: Condesa is where the ancient wisdom of the pieces and new knowledge
   blends into manifested art. We are experts in custom designs and jewelry
   restoration.
@@ -8,14 +8,13 @@ components:
     img: Condesa/Condesa_Jewelry_Expertise_0_kF3Podx.jpg
     cta_link: https://cloud.condesajewelryexpertise.com/index.php/apps/appointments/pub/HGOi8D8pDwd2sIDNqNE4vQ%3D%3D/form
     cta: Schedule An Appointment
-    desc: "Whether designing custom jewelry or repairing a precious heirloom,
-      Condesa delivers every time. <br>Let’s create your unique masterpiece
-      together.   "
+    desc: Whether designing custom jewelry or repairing a precious heirloom, Condesa
+      delivers every time. <br>Let’s create your unique masterpiece together.
     cta2_link: contact/
     title: In Awe of Beauty
     cta2_select: true
     type: hero
-    pre_title: At Condesa, we're
+    pre_title: At Condesa Jewelry, we're
   - type: divider
     bg_color: white
   - type: img_full
@@ -55,7 +54,7 @@ components:
           we go...and then we make it. We relish the opportunity to create.
         aos_select: true
         title: Custom Design
-      - img: Condesa/Condesa_Jewelry_Expertise_0_kF3Podx.jpg
+      - img: Condesa/Staged_team_photo_uA_wtik7B.jpg
         aos: fade-up
         cta_link: about/
         cta_select: true
