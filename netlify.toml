@@ -20,699 +20,699 @@ HUGO_VERSION = "0.79.1"
 
 [[redirects]]
   from = "https://main.condesajewelryexpertise.com/"
-  to = "https://condesajewelry.netlify.app/"
+  to = "https://www.condesajewelryexpertise.com/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/primary/custom-jewelry-design/*"
-  to = "https://condesajewelry.netlify.app/custom-design/"
+  from = "https://www.condesajewelryexpertise.com/primary/custom-jewelry-design/*"
+  to = "https://www.condesajewelryexpertise.com/custom-design/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/primary/appointments/"
+  from = "https://www.condesajewelryexpertise.com/primary/appointments/"
   to = "https://cloud.condesajewelryexpertise.com/index.php/apps/appointments/pub/HGOi8D8pDwd2sIDNqNE4vQ%3D%3D/form"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/category/blogs/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/category/blogs/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/category/blogs/custom-jewelry-condesa-blog/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/category/blogs/custom-jewelry-condesa-blog/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/category/blogs/gemstones/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/category/blogs/gemstones/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/category/blogs/jewelry-repair-condesa-blog/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/category/blogs/jewelry-repair-condesa-blog/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/category/blogs/general/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/category/blogs/general/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/secondary/shop/"
-  to = "https://condesajewelry.netlify.app/"
+  from = "https://www.condesajewelryexpertise.com/secondary/shop/"
+  to = "https://www.condesajewelryexpertise.com/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/primary/custom-jewelry-design/"
-  to = "https://condesajewelry.netlify.app/custom-design/"
+  from = "https://www.condesajewelryexpertise.com/primary/custom-jewelry-design/"
+  to = "https://www.condesajewelryexpertise.com/custom-design/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/primary/services/"
-  to = "https://condesajewelry.netlify.app/"
+  from = "https://www.condesajewelryexpertise.com/primary/services/"
+  to = "https://www.condesajewelryexpertise.com/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/primary/services/vintage-jewelry-restoration/"
-  to = "https://condesajewelry.netlify.app/repair/"
+  from = "https://www.condesajewelryexpertise.com/primary/services/vintage-jewelry-restoration/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/jewelry-renovation/"
-  to = "https://condesajewelry.netlify.app/repair/"
+  from = "https://www.condesajewelryexpertise.com/jewelry-renovation/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/primary/services/ring-chain-repair/"
-  to = "https://condesajewelry.netlify.app/repair/"
+  from = "https://www.condesajewelryexpertise.com/primary/services/ring-chain-repair/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/primary/jewelry-services/gemstone-material-sourcing/"
-  to = "https://condesajewelry.netlify.app/repair/"
+  from = "https://www.condesajewelryexpertise.com/primary/jewelry-services/gemstone-material-sourcing/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/primary/specialist-services/"
-  to = "https://condesajewelry.netlify.app/repair/"
+  from = "https://www.condesajewelryexpertise.com/primary/specialist-services/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/primary/services/replacement-jewelry/"
-  to = "https://condesajewelry.netlify.app/repair/"
+  from = "https://www.condesajewelryexpertise.com/primary/services/replacement-jewelry/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/primary/jewelry-services/jewelry-analysis-appraisal/"
-  to = "https://condesajewelry.netlify.app/repair/"
+  from = "https://www.condesajewelryexpertise.com/primary/jewelry-services/jewelry-analysis-appraisal/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/primary/contact-us/"
-  to = "https://condesajewelry.netlify.app/contact/"
+  from = "https://www.condesajewelryexpertise.com/primary/contact-us/"
+  to = "https://www.condesajewelryexpertise.com/contact/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/primary/contact-info/david-ciralsky/"
-  to = "https://condesajewelry.netlify.app/about/"
+  from = "https://www.condesajewelryexpertise.com/primary/contact-info/david-ciralsky/"
+  to = "https://www.condesajewelryexpertise.com/about/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/secondary/our-reviews/"
-  to = "https://condesajewelry.netlify.app/"
+  from = "https://www.condesajewelryexpertise.com/secondary/our-reviews/"
+  to = "https://www.condesajewelryexpertise.com/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/primary/contact-info/"
-  to = "https://condesajewelry.netlify.app/contact/"
+  from = "https://www.condesajewelryexpertise.com/primary/contact-info/"
+  to = "https://www.condesajewelryexpertise.com/contact/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/primary/appointments/visit-us/"
-  to = "https://condesajewelry.netlify.app/contact/"
+  from = "https://www.condesajewelryexpertise.com/primary/appointments/visit-us/"
+  to = "https://www.condesajewelryexpertise.com/contact/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/secondary/social-platforms/"
-  to = "https://condesajewelry.netlify.app/"
+  from = "https://www.condesajewelryexpertise.com/secondary/social-platforms/"
+  to = "https://www.condesajewelryexpertise.com/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/various-gemstone-settings/"
-  to = "https://condesajewelry.netlify.app/articles/various-gemstone-settings/"
+  from = "https://www.condesajewelryexpertise.com/various-gemstone-settings/"
+  to = "https://www.condesajewelryexpertise.com/articles/various-gemstone-settings/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/top-10-engagement-ring-gemstones/"
-  to = "https://condesajewelry.netlify.app/articles/engagement-rings-top-ten-gemstones/"
+  from = "https://www.condesajewelryexpertise.com/top-10-engagement-ring-gemstones/"
+  to = "https://www.condesajewelryexpertise.com/articles/engagement-rings-top-ten-gemstones/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/jewelry-era-art-nouveau/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/jewelry-era-art-nouveau/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/category/articles/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/category/articles/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/category/articles/*"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/category/articles/*"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/precious-noble-metals-1/"
-  to = "https://condesajewelry.netlify.app/articles/precious-noble-metals-1/"
+  from = "https://www.condesajewelryexpertise.com/precious-noble-metals-1/"
+  to = "https://www.condesajewelryexpertise.com/articles/precious-noble-metals-1/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/jewelry-era-edwardian/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/jewelry-era-edwardian/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/category/blogs/page/2/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/category/blogs/page/2/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/all-that-glitters-is-gold/"
-  to = "https://condesajewelry.netlify.app/articles/all-that-glitters-is-gold/"
+  from = "https://www.condesajewelryexpertise.com/all-that-glitters-is-gold/"
+  to = "https://www.condesajewelryexpertise.com/articles/all-that-glitters-is-gold/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/gems-jewels/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/gems-jewels/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/custom-jewelry-renovation/"
-  to = "https://condesajewelry.netlify.app/custom-design/"
+  from = "https://www.condesajewelryexpertise.com/custom-jewelry-renovation/"
+  to = "https://www.condesajewelryexpertise.com/custom-design/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/category/blogs/custom-jewelry-condesa-blog/page/2/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/category/blogs/custom-jewelry-condesa-blog/page/2/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/bloodstone-marchs-birthstone/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/bloodstone-marchs-birthstone/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/aquamarine-marchs-birthstone/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/aquamarine-marchs-birthstone/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/alternatives-to-natural-diamonds/"
-  to = "https://condesajewelry.netlify.app/articles/alternatives-to-natural-diamonds/"
+  from = "https://www.condesajewelryexpertise.com/alternatives-to-natural-diamonds/"
+  to = "https://www.condesajewelryexpertise.com/articles/alternatives-to-natural-diamonds/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/the-world-of-phenomenal-gemstones/"
-  to = "https://condesajewelry.netlify.app/articles/the-world-of-phenomenal-gemstones/"
+  from = "https://www.condesajewelryexpertise.com/the-world-of-phenomenal-gemstones/"
+  to = "https://www.condesajewelryexpertise.com/articles/the-world-of-phenomenal-gemstones/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/amazing-amethysts"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/amazing-amethysts"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/category/blogs/gemstones/page/2/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/category/blogs/gemstones/page/2/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/common-jewelry-repairs/"
-  to = "https://condesajewelry.netlify.app/repair/"
+  from = "https://www.condesajewelryexpertise.com/common-jewelry-repairs/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/general-jewelry-repairs/"
-  to = "https://condesajewelry.netlify.app/repair/"
+  from = "https://www.condesajewelryexpertise.com/general-jewelry-repairs/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/ring-repair/"
-  to = "https://condesajewelry.netlify.app/repair/"
+  from = "https://www.condesajewelryexpertise.com/ring-repair/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/precious-gemstone-sourcing/"
-  to = "https://condesajewelry.netlify.app/repair/"
+  from = "https://www.condesajewelryexpertise.com/precious-gemstone-sourcing/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/chain-necklace-repair/"
-  to = "https://condesajewelry.netlify.app/repair/"
+  from = "https://www.condesajewelryexpertise.com/chain-necklace-repair/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/jewelry-analysis-appraisals/"
-  to = "https://condesajewelry.netlify.app/repair/"
+  from = "https://www.condesajewelryexpertise.com/jewelry-analysis-appraisals/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/jewelry-analysis-appraisals/"
-  to = "https://condesajewelry.netlify.app/repair/"
+  from = "https://www.condesajewelryexpertise.com/jewelry-analysis-appraisals/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/category/blogs/jewelry-repair-condesa-blog/page/2/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/category/blogs/jewelry-repair-condesa-blog/page/2/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/jewelry-era-victorian/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/jewelry-era-victorian/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/jewelry-era-victorian/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/jewelry-era-victorian/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/jewelry-era-georgian/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/jewelry-era-georgian/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/major-life-events/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/major-life-events/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/celebrating-3-years-at-3622-main-street/"
-  to = "https://condesajewelry.netlify.app/"
+  from = "https://www.condesajewelryexpertise.com/celebrating-3-years-at-3622-main-street/"
+  to = "https://www.condesajewelryexpertise.com/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/category/blogs/general/page/2/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/category/blogs/general/page/2/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
   from = "ttps://www.condesajewelryexpertise.com/shop/"
-  to = "https://condesajewelry.netlify.app/"
+  to = "https://www.condesajewelryexpertise.com/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/shop/*"
-  to = "https://condesajewelry.netlify.app/"
+  from = "https://www.condesajewelryexpertise.com/shop/*"
+  to = "https://www.condesajewelryexpertise.com/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/primary/services/page/"
-  to = "https://condesajewelry.netlify.app/"
+  from = "https://www.condesajewelryexpertise.com/primary/services/page/"
+  to = "https://www.condesajewelryexpertise.com/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/primary/services/page/*"
-  to = "https://condesajewelry.netlify.app/"
+  from = "https://www.condesajewelryexpertise.com/primary/services/page/*"
+  to = "https://www.condesajewelryexpertise.com/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
   from = "ttps://www.condesajewelryexpertise.com/primary/contact-us/page/2/?et_blog"
-  to = "https://condesajewelry.netlify.app/contact/"
+  to = "https://www.condesajewelryexpertise.com/contact/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/garnet-januarys-birthstone/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/garnet-januarys-birthstone/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/colorful-sapphires/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/colorful-sapphires/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/rubies-are-red/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/rubies-are-red/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/emerald-magic/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/emerald-magic/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/magical-moonstone/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/magical-moonstone/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/category/articles/page/*"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/category/articles/page/*"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/category/blogs/page/*"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/category/blogs/page/*"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/precious-metal-choices-engagement-rings/"
-  to = "https://condesajewelry.netlify.app/articles/precious-metal-choices-engagement-rings/"
+  from = "https://www.condesajewelryexpertise.com/precious-metal-choices-engagement-rings/"
+  to = "https://www.condesajewelryexpertise.com/articles/precious-metal-choices-engagement-rings/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/wedding-rings/"
-  to = "https://condesajewelry.netlify.app/articles/custom-design/"
+  from = "https://www.condesajewelryexpertise.com/wedding-rings/"
+  to = "https://www.condesajewelryexpertise.com/articles/custom-design/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/specialistservices-replacementjewelry/"
-  to = "https://condesajewelry.netlify.app/articles/repair/"
+  from = "https://www.condesajewelryexpertise.com/specialistservices-replacementjewelry/"
+  to = "https://www.condesajewelryexpertise.com/articles/repair/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/specialistservices-replacementjewelry/"
-  to = "https://condesajewelry.netlify.app/repair/"
+  from = "https://www.condesajewelryexpertise.com/specialistservices-replacementjewelry/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/customjewelry-engagementrings/"
-  to = "https://condesajewelry.netlify.app/custom-design/"
+  from = "https://www.condesajewelryexpertise.com/customjewelry-engagementrings/"
+  to = "https://www.condesajewelryexpertise.com/custom-design/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/meditation-jewelry/"
-  to = "https://condesajewelry.netlify.app/custom-design/"
+  from = "https://www.condesajewelryexpertise.com/meditation-jewelry/"
+  to = "https://www.condesajewelryexpertise.com/custom-design/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/bracelets-cuffs/"
-  to = "https://condesajewelry.netlify.app/custom-design/"
+  from = "https://www.condesajewelryexpertise.com/bracelets-cuffs/"
+  to = "https://www.condesajewelryexpertise.com/custom-design/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/category/blogs/custom-jewelry-condesa-blog/page/3"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/category/blogs/custom-jewelry-condesa-blog/page/3"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/the-4-cs-of-diamonds/"
-  to = "https://condesajewelry.netlify.app/articles/the-4-cs-of-diamonds/"
+  from = "https://www.condesajewelryexpertise.com/the-4-cs-of-diamonds/"
+  to = "https://www.condesajewelryexpertise.com/articles/the-4-cs-of-diamonds/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/gorgeous-garnets/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/gorgeous-garnets/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/lapis-lazuli/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/lapis-lazuli/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/precious-pearls/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/precious-pearls/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/category/blogs/gemstones/page/3/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/category/blogs/gemstones/page/3/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/3d-modeling-printing/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/3d-modeling-printing/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/pearl-jewelry-repair/"
-  to = "https://condesajewelry.netlify.app/repair/"
+  from = "https://www.condesajewelryexpertise.com/pearl-jewelry-repair/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/pearl-jewelry-repair/"
-  to = "https://condesajewelry.netlify.app/repair/"
+  from = "https://www.condesajewelryexpertise.com/pearl-jewelry-repair/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/pearl-jewelry-repair/"
-  to = "https://condesajewelry.netlify.app/repair/"
+  from = "https://www.condesajewelryexpertise.com/pearl-jewelry-repair/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/eyeglass-repair-services/"
-  to = "https://condesajewelry.netlify.app/repair/"
+  from = "https://www.condesajewelryexpertise.com/eyeglass-repair-services/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/watch-repair/"
-  to = "https://condesajewelry.netlify.app/repair/"
+  from = "https://www.condesajewelryexpertise.com/watch-repair/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/costume-jewelry-repair/"
-  to = "https://condesajewelry.netlify.app/repair/"
+  from = "https://www.condesajewelryexpertise.com/costume-jewelry-repair/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/category/blogs/*"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/category/blogs/*"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/condesas-2-year-anniversary/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/condesas-2-year-anniversary/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/waxsealstampring/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/waxsealstampring/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/happy200yearsqueenvictoria/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/happy200yearsqueenvictoria/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/david-ciralsky/"
-  to = "https://condesajewelry.netlify.app/about/"
+  from = "https://www.condesajewelryexpertise.com/david-ciralsky/"
+  to = "https://www.condesajewelryexpertise.com/about/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/talismans-yantras/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/talismans-yantras/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/diamonds-and-dirt/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/diamonds-and-dirt/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
   
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/diamonds-and-dirt/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/diamonds-and-dirt/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/product-category/*"
-  to = "https://condesajewelry.netlify.app/"
+  from = "https://www.condesajewelryexpertise.com/product-category/*"
+  to = "https://www.condesajewelryexpertise.com/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/product-category/"
-  to = "https://condesajewelry.netlify.app/"
+  from = "https://www.condesajewelryexpertise.com/product-category/"
+  to = "https://www.condesajewelryexpertise.com/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/product-tag/"
-  to = "https://condesajewelry.netlify.app/"
+  from = "https://www.condesajewelryexpertise.com/product-tag/"
+  to = "https://www.condesajewelryexpertise.com/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/product-tag/*"
-  to = "https://condesajewelry.netlify.app/"
+  from = "https://www.condesajewelryexpertise.com/product-tag/*"
+  to = "https://www.condesajewelryexpertise.com/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/primary/specialist-services/*"
-  to = "https://condesajewelry.netlify.app/"
+  from = "https://www.condesajewelryexpertise.com/primary/specialist-services/*"
+  to = "https://www.condesajewelryexpertise.com/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/primary/contact-us/*"
-  to = "https://condesajewelry.netlify.app/contact/"
+  from = "https://www.condesajewelryexpertise.com/primary/contact-us/*"
+  to = "https://www.condesajewelryexpertise.com/contact/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/category/blogs/*"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/category/blogs/*"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/engagement-rings-top-ten-gemstones/"
-  to = "https://condesajewelry.netlify.app/articles/engagement-rings-top-ten-gemstones/"
+  from = "https://www.condesajewelryexpertise.com/engagement-rings-top-ten-gemstones/"
+  to = "https://www.condesajewelryexpertise.com/articles/engagement-rings-top-ten-gemstones/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/earrings-rings/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/earrings-rings/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/necklaces-pendants/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/necklaces-pendants/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/vintage-jewelry-restoration/"
-  to = "https://condesajewelry.netlify.app/repair"
+  from = "https://www.condesajewelryexpertise.com/vintage-jewelry-restoration/"
+  to = "https://www.condesajewelryexpertise.com/repair"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/modern-day-modeling/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/modern-day-modeling/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/iridescent-labradorite/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/iridescent-labradorite/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/heliodor-gift-of-the-sun/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/heliodor-gift-of-the-sun/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/jade-the-stone-of-heaven/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/jade-the-stone-of-heaven/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/laser-welding/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/laser-welding/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/tequilabats/"
-  to = "https://condesajewelry.netlify.app/articles/"
+  from = "https://www.condesajewelryexpertise.com/tequilabats/"
+  to = "https://www.condesajewelryexpertise.com/articles/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/gemstone-settings/"
-  to = "https://condesajewelry.netlify.app/articles/gemstone-settings/"
+  from = "https://www.condesajewelryexpertise.com/gemstone-settings/"
+  to = "https://www.condesajewelryexpertise.com/articles/gemstone-settings/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/gemstone-settings/"
-  to = "https://condesajewelry.netlify.app/articles/gemstone-settings/"
+  from = "https://www.condesajewelryexpertise.com/gemstone-settings/"
+  to = "https://www.condesajewelryexpertise.com/articles/gemstone-settings/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "https://condesajewelry.netlify.app/gemstone-settings/"
-  to = "https://condesajewelry.netlify.app/articles/gemstone-settings/"
+  from = "https://www.condesajewelryexpertise.com/gemstone-settings/"
+  to = "https://www.condesajewelryexpertise.com/articles/gemstone-settings/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
