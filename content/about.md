@@ -9,6 +9,18 @@ components:
     title: About Us
   - type: divider
     bg_color: white
+  - id_select: false
+    align: center
+    title_size: medium
+    bg_color: white
+    desc_select: true
+    desc: "Condesa is a Vancouver based company dedicated to generating a space
+      where jewelry is art with a function. "
+    title: Condesa Jewelry Expertise
+    type: heading_full
+    id: none
+  - type: divider
+    bg_color: white
   - img: Condesa/Staged_team_photo_uA_wtik7B.jpg
     aos: fade-up
     cta_link: contact/
@@ -16,13 +28,12 @@ components:
     img_alt: The Condesa Team
     cta: Call To Action
     desc: >
-      Condesa is a Vancouver based company dedicated to generating a space where
-      jewelry is art with a function. Condesa is the rendering of an idea, a
-      need, and a wealth of knowledge and experience, all condensed into one
-      place. Overflowing with skill and expertise, our jewelers have one
-      intention: to make your vision happen. It’s our greatest joy to transform
-      an idea in an incredible, stunning reality; pure emotions manifesting as
-      brilliance, colour, and design. We stand in awe of beauty. <br><br>
+      Condesa is the rendering of an idea, a need, and a wealth of knowledge and
+      experience, all condensed into one place. Overflowing with skill and
+      expertise, our jewelers have one intention: to make your vision happen.
+      It’s our greatest joy to transform an idea in an incredible, stunning
+      reality; pure emotions manifesting as brilliance, colour, and design. We
+      stand in awe of beauty. <br><br>
 
 
       We pride ourselves in being fully equipped and capable of servicing top level clientele. Our friendly and elegant environment acts as a place where one on one attention sparks creativity. Without fail, the creations that emerge are always beautiful and satisfactory. Contact us today and let us know how we can join in your creative process.

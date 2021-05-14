@@ -12,8 +12,8 @@ components:
     bg_color: white
   - type: heading_full
     bg_color: white
-    title_size: big
-    title: Creating a Bridge Between Idea & Creation.
+    title_size: medium
+    title: Creating a Bridge Between Idea & Creation
     desc_select: true
     desc: >-
       Whether you have a vague notion or a very detailed idea of the piece of
@@ -62,9 +62,11 @@ components:
     bg_color: white
     align: center
     title: Stories
-    title_size: big
-    desc: Lorem Ipsum
+    title_size: medium
+    desc: Explore the stories that make us unique and one of Vancouver's premier
+      jewelers.
     id: none
+    desc_select: true
   - type: divider
     bg_color: white
   - img: Condesa/Gallery_Page/Roxy_21_d8z847f6q.jpg

@@ -16,7 +16,7 @@ components:
     bg_color: white
     align: center
     title: Jewelry Should Be Worn
-    title_size: big
+    title_size: medium
     desc_select: true
     desc: >-
       When a go-to favorite is broken or a vintage heirloom is damaged, they end
@@ -94,8 +94,10 @@ components:
     bg_color: white
     align: center
     title: Stories
-    title_size: big
-    desc: None
+    title_size: medium
+    desc: Explore the stories that make us unique and one of Vancouver's premier
+      jewelers.
+    desc_select: true
   - type: divider
     bg_color: white
   - img: Condesa/diana-polekhina-F6tbedzUQvw-unsplash_oBJ0czNXT.jpg
