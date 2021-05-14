@@ -6,7 +6,7 @@
 <script src="{{ $script.Permalink }}"></script>
 
 {{ $script := resources.Get "js/lazysizes.min.js" }}
-<script src="{{ $script.Permalink }}" async></script>
+<script src="{{ $script.Permalink }}"></script>
 
 {{ if $.Site.Params.VideoOn}}
 {{ $script := resources.Get "js/video.js" | minify}}
