@@ -11,13 +11,17 @@
     {{ if  hugo.IsProduction  }}
       {{ $styles = $styles | minify }}
     {{ end }}
+
+
     <link href="{{ $styles.RelPermalink }}" rel="stylesheet" />
     <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js" defer></script>
+    {{- partial "gtm-head" . }}
   </head>
 <body>
     {{- partial "nav" . }}
     {{ block "main" . }}{{ end }}
     {{- partial "footer" . }}
     {{- partial "script" . }}
+    {{- partial "gtm-body" . }}
 </body>
 </html>
