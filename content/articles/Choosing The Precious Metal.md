@@ -8,7 +8,7 @@ img: Condesa/Articles/Precious-Metal-Choices-Engagement-Rings-CJE-scaled_kICwXlw
 img_alt: Picture of different types of gold
 cta: Read More
 ---
-## Choosing the right metal for you
+
 When it comes to precious metals – most people think of silver & yellow gold. But did you know there are many colors of gold & lots of other precious metals to choose from also? Let us look at the most popular precious metal choices – engagement rings.
 
 ### Platinum

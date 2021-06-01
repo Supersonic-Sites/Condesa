@@ -8,7 +8,6 @@ img: Condesa/Articles/Alternatives_Diamonds__1__HL4UElng5.jpg
 img_alt: Alternatives to Natural Diamonds
 cta: Read More
 ---
-## Alternatives to Natural Diamonds
 
 Diamonds have been sought after & loved for at least two millennia. However, the systematic & focused approach to diamond mining only began during the latter part of the 19th century. Diamonds are rare. Most are found in a geological formation, known as a kimberlite pipe. Only a few of these pipes’ bare diamonds in reliable density. The result is diamond mining that is more difficult & expensive.
 
