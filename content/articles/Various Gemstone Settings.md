@@ -8,7 +8,6 @@ img: Condesa/Articles/DiamondRuby-Gem-Swap-4-scaled_cdzpc9SOA.jpg
 img_alt: Picture of a phenomenal gemstone
 cta: Read More
 ---
-## Introction
 Gemstone setting is the art of securely setting or attaching gemstones into jewelry. The task of setting a gemstone can be simple or complicated, depending on the size & shape of the gem & the type of setting. There are many variations of setting styles, from traditional to modern to choose from. Here are the most popular fundamental types of gemstone settings for custom jewelry. All settings are available for discussion.
 
 ## Prong Setting

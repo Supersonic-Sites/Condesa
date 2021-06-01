@@ -8,7 +8,6 @@ img: Condesa/Articles/conscious-design-7ZmtUtAArRI-unsplash_ZbnDRFVFwt.jpg
 img_alt: Picture of a phenomenal gemstone
 cta: Read More
 ---
-## Introduction
 Customers often come into the studio looking for alternative gemstones. For a custom piece or as replacements in their current jewelry pieces. After speaking about their options, I sometimes suggest the world of phenomenal gemstones. As the name implies, this is a large group of gemstones presenting visual phenomenon. These gems can be grouped into roughly five categories.
 These gemstones show flashes of scattered light & colors as the gem is moved in the light. The phenomena slightly differs with each of these gemstones. Thus, each stone has a corresponding name associated with its effect. While these appear regularly in gemstones from the Felspar family, they also cross over to other types.
 

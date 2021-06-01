@@ -19,12 +19,12 @@
 @font-face {
   font-family: 'MostraOne';
   src: url('/fonts/MostraOne.ttf')  format('truetype');
-  font-display: swap;
+  font-display: block;
 }
 @font-face {
   font-family: 'Arno Pro Light Display';
   src: url('/fonts/Arno-Pro-Light-Display.ttf')  format('truetype');
-  font-display: swap;
+  font-display: block;
 }
 h1 {
   font-family: 'MostraOne' serif !important;

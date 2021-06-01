@@ -8,7 +8,6 @@ img: Condesa/Articles/jene-yeo-ROtpifeuw-E-unsplash_u47Sf2-o9.jpg
 img_alt: Picture of different gemstones
 cta: Read More
 ---
-## Introduction
 So, you have decided, you are going to ask the one you love to marry you. Congratulations! There are so many wonderful gemstones to choose from, knowing where to start can be a daunting experience!
 
 There are many aspects to creating a custom ring, the first part to consider is what gemstone you should choose. Here are our top 10 gemstones that are best suited to engagement rings:

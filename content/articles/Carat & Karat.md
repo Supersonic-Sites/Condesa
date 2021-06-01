@@ -8,7 +8,7 @@ img: Condesa/Articles/CJE-Diamond-3-Stone-scaled_JVh2_aetY.jpg
 img_alt: Carat & Karat
 cta: Read More
 ---
-## One common question we get asked is “What is the difference between carat & karat?”
+One common question we get asked is “What is the difference between carat & karat?”
 I’m sure that you have also wondered this at some stage. This is especially the case, when looking at selections of engagement & wedding rings.
 
 Well, the simple explanation is that one is a unit of weight (Carat). The other is a unit of purity or fineness (Karat).

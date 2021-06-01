@@ -8,7 +8,6 @@ img: Condesa/Articles/jingming-pan-Y9U4XZYbSQ4-unsplash_Cy2HSC6WXV.jpg
 img_alt: Gold bars - not all that glitters is gold.
 cta: Read more
 ---
-## Introduction
 When we talk about precious & noble metals, most people think of yellow gold & silver. However, there are many colors of gold & lots of other precious metals to choose from.
 
 ## White Gold

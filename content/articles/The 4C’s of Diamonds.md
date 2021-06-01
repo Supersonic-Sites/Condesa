@@ -8,7 +8,7 @@ img: Condesa/Articles/Multi-Diamond-Pendant-7-1-scaled_BAReWVmS_.jpg
 img_alt: Picture of Diamonds
 cta: Read More
 ---
-## Introduction
+
 Unlike other gemstones, diamonds have very specific criteria for determining their value. These are generally referred to as the 4C’s of diamonds – Cut, Color, Clarity & Carat. All four work together to make a diamond look stunning.
 
 ## 1st C Is For Cut:
