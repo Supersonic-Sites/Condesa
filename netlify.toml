@@ -25,6 +25,79 @@ HUGO_VERSION = "0.79.1"
   force = true #COMMENT: ensure that we always redirect
 
 [[redirects]]
+  from = "http://www.condesajewelryexpertise.com/gallery-2/"
+  to = "https://www.condesajewelryexpertise.com/gallery/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "http://www.condesajewelryexpertise.com/the-team/portfolio/"
+  to = "https://www.condesajewelryexpertise.com/about/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "http://www.condesajewelryexpertise.com/specialistservices/goldpurchasing/"
+  to = "https://www.condesajewelryexpertise.com/custom-design/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "http://www.condesajewelryexpertise.com/jewelryrepair-watch/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "http://www.condesajewelryexpertise.com/jewelryrepair/pearljewelryrepair/pearl-restringing-7/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "http://www.condesajewelryexpertise.com/rl_gallery/cad-rendering-3d-modelling/"
+  to = "https://www.condesajewelryexpertise.com/custom-design/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "http://www.condesajewelryexpertise.com/http-www-condesajewelryexpertise-com/david-2/"
+  to = "https://www.condesajewelryexpertise.com/about/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "http://www.condesajewelryexpertise.com/renovation-repair/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "http://www.condesajewelryexpertise.com/specialistservices/vintagejewelryrestoration/"
+  to = "https://www.condesajewelryexpertise.com/repair/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "http://www.condesajewelryexpertise.com/services/custom-necklace-pendant/"
+  to = "https://www.condesajewelryexpertise.com/custom-design/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+
+
+[[redirects]]
+  from = "http://www.condesajewelryexpertise.com/rl_gallery/6931/consultations-7/feed/"
+  to = "https://www.condesajewelryexpertise.com/gallery/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "http://www.condesajewelryexpertise.com/service/shutterstock_521837866/"
+  to = "https://www.condesajewelryexpertise.com/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
   from = "https://www.condesajewelryexpertise.com/secondary/my-account/*"
   to = "https://www.condesajewelryexpertise.com/"
   status = 301
