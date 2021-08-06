@@ -59,10 +59,10 @@
         </h2>
         <form action="{{ .usebasin }}" method="POST" class="grid grid-cols-1 gap-y-6">
           <div>
-            <label for="full_name" class="sr-only">Full name</label>
-            <input type="text" name="name" id="full_name" autocomplete="name"
-              class="block w-full shadow-sm py-3 px-4 placeholder-black rounded-sm focus:border-white ring-primary"
-              placeholder="Full name">
+            <label for="form_name" class="sr-only">Full name</label>
+
+            <input id="form_name" class="block w-full shadow-sm py-3 px-4 placeholder-black rounded-sm focus:border-white ring-primary" placeholder="e.g Alex Smith" type="text" name="Name"
+            required="required" data-error="Name is required." />
           </div>
           <div>
             <label for="email" class="sr-only">Email</label>
