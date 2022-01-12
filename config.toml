@@ -47,7 +47,7 @@ weight = "6"
 
 [[menu.main]]
 name = "Appointment"
-url = "https://cloud.condesajewelryexpertise.com/index.php/apps/appointments/pub/HGOi8D8pDwd2sIDNqNE4vQ%3D%3D/form"
+url = "https://calendly.com/condesajewelryexpertise"
 weight = "7"
 
 [params]
