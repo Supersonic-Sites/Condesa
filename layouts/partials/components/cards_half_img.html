@@ -19,17 +19,17 @@
                         data-src="https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/{{ .img }}/600x400 1536w"
                         width="600px"
                         height="400px"
-                        class="lazyload mb-6 max-h-80 w-full object-cover" alt="{{ .img_alt }}" />
+                        class="lazyload mb-6 w-full object-cover" style="max-height: 23rem;" alt="{{ .img_alt }}" />
 
 
                     <h3 class="font-bold text-center text-3xl md:text-4xl text-black mb-6">
                         {{ .title }}
                     </h3>
-                    <div class="min-h-80">
+                    
                     <p class="text-center mb-6 md:mb-8 md:text-xl">
                         {{ .desc }}
                     </p>
-                    </div>
+                    
                     {{ if .cta_select }}
                     <a href="{{ .Site.BaseURL}}{{ .cta_link }}"
                         class="transition duration-500 text-center w-full py-2 px-4 text-xl font-bold btn_primary">
