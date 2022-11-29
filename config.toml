@@ -26,7 +26,7 @@ url = "about/"
 weight = "2"
 
 [[menu.main]]
-name = "Gallery"
+name = "Media"
 url = "gallery/"
 weight = "3"
 
@@ -38,17 +38,22 @@ weight = "4"
 [[menu.main]]
 name = "Repair"
 url = "repair/"
+weight = "6"
+
+[[menu.main]]
+name = "Restoration"
+url = "restoration/"
 weight = "5"
 
 [[menu.main]]
 name = "Contact"
 url = "contact/"
-weight = "6"
+weight = "7"
 
 [[menu.main]]
 name = "Appointment"
 url = "https://calendly.com/condesajewelryexpertise"
-weight = "7"
+weight = "8"
 
 [params]
 gtm = "GTM-5M5WMC9"
