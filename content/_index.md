@@ -33,7 +33,7 @@ components:
     id: none
   - type: divider_half
     bg_color: white
-  - type: cards_third_img
+  - type: cards_half_img
     bg_color: white
     cards:
       - img: 4b67ee09-252d-4ba3-2f41-8d881f6dd100
@@ -58,14 +58,26 @@ components:
         title: Vintage Restoration
       - img: 3fae728c-caf0-4b41-7692-2d69827f7e00
         aos: fade-up
-        cta_link: repair/
+        cta_link: restoration/
         cta_select: true
         img_alt: "Picture of a repaired and restored jewelry "
         cta: Learn More
         desc: We can repair and restore all fine jewelry and precious items. Repairing
-          your memento is our passion.
+          your memento is our passion. You can trust David with the most
+          advanced of repairs.
         aos_select: true
         title: Jewelry Repair
+      - img: 3429adfa-5f77-496a-dfd8-eecf2ee41d00
+        aos: fade-up
+        cta_link: restoration/
+        cta_select: true
+        img_alt: Special Items & Jewelry
+        cta: Learn More
+        desc: Jewels come in many types, the most precious items are not necessarily
+          rings and pendants, but objects that contain unique blessings or
+          notable energies.
+        aos_select: true
+        title: Special Items
   - type: divider
     bg_color: white
   - type: gallery
