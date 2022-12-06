@@ -11,8 +11,7 @@ components:
   - bg_color: white
     phone: +1 (604) 874-1879
     cta: "Send "
-    desc: Nullam risus blandit ac aliquam justo ipsum. Quam mauris volutpat massa
-      dictumst amet. Sapien tortor lacus arcu.
+    desc: "We are like an oldtime teacher, eager to put our knowledge to the test and at your service. Don’t hesitate to reach out to us."
     usebasin: https://usebasin.com/f/9e27fcf84caf
     title: Get In Touch
     type: contact
