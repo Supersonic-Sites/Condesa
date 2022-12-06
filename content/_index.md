@@ -69,7 +69,7 @@ components:
         title: Jewelry Repair
       - img: 3429adfa-5f77-496a-dfd8-eecf2ee41d00
         aos: fade-up
-        cta_link: restoration/
+        cta_link: vintage/
         cta_select: true
         img_alt: Special Items & Jewelry
         cta: Learn More

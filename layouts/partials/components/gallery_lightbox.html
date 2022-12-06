@@ -3,18 +3,18 @@
   {{ range .images }}
   <div class="col-span-12 md:col-span-4">
     <a
-    @click="$dispatch('img-modal', {  imgModalSrc: 'https://ik.imagekit.io/supersonicsites/tr:w-800,c_scale,f_auto,q_auto,dpr_auto,/{{ .img }}', imgModalDesc: '{{ .img_alt }}' })"
+    @click="$dispatch('img-modal', {  imgModalSrc: 'https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/{{ .img }}/bigSquare', imgModalDesc: '{{ .img_alt }}' })"
     class="cursor-pointer w-full"
   >
     <img
       alt="{{ .img_alt }}"
       class="w-full lazyload border-double border-ocre border-4"
-      src="https://ik.imagekit.io/supersonicsites/tr:ar-1-1,w-640,bl-30,q-50,/{{ .img }}"
+      src="https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/{{ .img }}/bigSquare"
       data-srcset="
-        https://ik.imagekit.io/supersonicsites/tr:ar-1-1,w-640,c_scale,f_auto,q_auto,dpr_auto,/{{ .img }} 640w,
-        https://ik.imagekit.io/supersonicsites/tr:ar-1-1,w-640,c_scale,f_auto,q_auto,dpr_auto,{/{{ .img }} 768w,
-        https://ik.imagekit.io/supersonicsites/tr:ar-1-1,w-640,c_scale,f_auto,q_auto,dpr_auto,/{{ .img }} 1280w"
-      data-src="https://ik.imagekit.io/supersonicsites/tr:ar-1-1,w-640,c_scale,f_auto,q_auto,dpr_auto,/{{ .img }} 1536w"
+      https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/{{ .img }}/bigSquare 640w,
+      https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/{{ .img }}/bigSquare 768w,
+      https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/{{ .img }}/bigSquare 1280w"
+      data-src="https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/{{ .img }}/bigSquare 1536w"
     />
   </a>
   </div>

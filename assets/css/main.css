@@ -54,8 +54,12 @@ p {
 }
 }
 
-
-
+@media (max-width: 768px) {
+  min-height: 2rem;
+}
+.iconbox {
+  min-height: 5.3rem !important;
+}
 .stars {
   fill: #fdcc0d;
   width: 20px;

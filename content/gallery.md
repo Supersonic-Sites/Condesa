@@ -6,53 +6,42 @@ slug: gallery
 components:
   - type: header_sub
     bg_color: primary
-    img: Condesa/03-Jacaranda-Textura_8Lrc2lvC5n.jpg
+    img: 0a521d70-7555-4865-0136-2cc491f88800
     title: Gallery
   - type: divider
     bg_color: white
   - type: gallery_lightbox
     images:
-      - img: Condesa/Gallery_Page/New/Blue_zircon_pendant_5c47BobAo.jpg
-        img_alt: Blue Zircon Pendant
-      - img: Condesa/Gallery_Page/New/Hammer_Texture_Set__7__3SYxOnbmQ.jpg
-        img_alt: Hammer Textured Ring Set
-      - img: Condesa/Gallery_Page/New/Ruby_Cluster__19__Xa5UAjV0YI.jpg
-        img_alt: Ruby Cluster Ring
-      - img: Condesa/Gallery_Page/New/Shyma_Yantra__4__m41TJi1Kr.jpg
-        img_alt: Shyma Yantra Mandala
-      - img: Condesa/Gallery_Page/New/CJE_Hammered_Cuff_F3l2wnxV4E.jpg
-        img_alt: Custom hammered silver bangle
-      - img: Condesa/Gallery_Page/New/Oni_Mask__13__EYDUY7ZUZ.jpg
-        img_alt: Custom gold ring with diamonds and emeralds
-      - img: Condesa/Gallery_Page/New/Multi-Diamond_Pendant__10__h2tYETxut.jpg
-        img_alt: Custom Multi-Diamond Pendant
-      - img: Condesa/Gallery_Page/New/Opal___Sapphires_fjLJ-ZOeD7.jpg
-        img_alt: Custom pendant with opal and sapphires
-      - img: Condesa/Gallery_Page/New/Jewish_Talismans__7__Wh5Vx18m6.jpg
-        img_alt: Star of David Talisman
-      - img: Condesa/Gallery_Page/New/Candy_Skull_Pendant__9__VlZTuOdQe.jpg
-        img_alt: Custom gold and gemstone sugar skull pendant
-      - img: Condesa/Gallery_Page/New/Pearl_Multi-Necklace__3__YqdC3R_eMA.jpg
-        img_alt: Multi-necklace with pearls
-      - img: Condesa/Gallery_Page/New/Diamond_-_Rough_to5Cy2A31.jpg
-        img_alt: Rough diamond engagement ring
-      - img: Condesa/Gallery_Page/New/Sapphire_Trio_Set__13__1CFtE6JwI.jpg
-        img_alt: Trio set of beautiful sapphire rings
-      - img: Condesa/Gallery_Page/New/Diamond_Earrings_GayboniK0n.jpg
-        img_alt: Diamond Earrings
-      - img: Condesa/Gallery_Page/New/Celtic_Cross__3__2Nq5BNdpH.jpg
-        img_alt: Gold celtic cross with diamonds
-      - img: Condesa/Gallery_Page/New/Indicolite_SQCOMkOSC.jpg
-        img_alt: Indicolite gold necklace
-      - img: Condesa/Gallery_Page/New/Star_of_David__shin_-_gold___7__gxOb-4sJkK.jpg
-        img_alt: Star of David gold necklace
-      - img: Condesa/Gallery_Page/New/Diamond_-_Cluster_rVzMOvXMr.JPG
-        img_alt: Clustered diamond ring
+      - img: 930128d2-0aca-4169-a37a-7cbd7196bc00
+        img_alt: Condesa Jewelry Piece
+      - img: 32b7e375-4db5-4a8a-99f6-496c6f550b00
+        img_alt: Condesa Jewelry Piece
+      - img: 2090c74f-c572-4aa2-d460-f3cc54f4ed00
+        img_alt: Condesa Jewelry Piece
+      - img: 86d6affd-6190-4623-d4a4-aa8fddb1e400
+        img_alt: Condesa Jewelry Piece
+      - img: 26d15d60-2d0f-4b56-d0d0-e98ea92bf200
+        img_alt: Condesa Jewelry Piece
+      - img: a46fcbfa-0468-4dc8-e393-48b8afc82c00
+        img_alt: Condesa Jewelry Piece
+      - img: e96b2ef3-5b0a-4f59-bda0-7ddd331da500
+        img_alt: Condesa Jewelry Piece
+      - img: d1ed5b1f-547d-4ab1-bcbd-8aace238f500
+        img_alt: Condesa Jewelry Piece
+      - img: eff0ea3f-3998-4fad-4800-efc1b0f92200
+        img_alt: Condesa Jewelry Piece
+      - img: 36851e39-6148-43fc-d40a-c5ca14a13a00
+        img_alt: Condesa Jewelry Piece
+      - img: 13b70c96-fbe9-4936-3940-fd908740cc00
+        img_alt: Condesa Jewelry Piece
+      - img: f0e63e7e-604a-460e-a3b7-9c3c5c162100
+        img_alt: Condesa Jewelry Piece
   - type: divider
     bg_color: white
   - type: cta
     bg_color: black
-    title: We're Here To Help. Reach Out With Any Questions.
+    title: We Are Like An Old-Time Teacher, Eager To Put Our Knowledge To The Test
+      And At Your Service. Don’t Hesitate To Reach Out…
     cta: Contact Us Today
     cta_link: contact/
 ---

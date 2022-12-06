@@ -41,8 +41,8 @@ url = "repair/"
 weight = "6"
 
 [[menu.main]]
-name = "Restoration"
-url = "restoration/"
+name = "Vintage"
+url = "vintage/"
 weight = "5"
 
 [[menu.main]]

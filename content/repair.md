@@ -1,5 +1,5 @@
 ---
-title: Jewelry Repair and Restoration
+title: Jewelry Repair Services
 description: "At Condesa, we specialize in the restoration of vintage, costume,
   and fashion jewelry. Every jewelry piece deserves to be repaired and restored.
   "
@@ -7,8 +7,8 @@ slug: Repair
 components:
   - type: header_sub
     bg_color: primary
-    img: Condesa/03-Jacaranda-Textura_8Lrc2lvC5n.jpg
-    title: Repair & Restoration
+    img: 0a521d70-7555-4865-0136-2cc491f88800
+    title: Jewelry Repair
   - type: divider
     bg_color: white
   - type: heading_full
@@ -19,74 +19,52 @@ components:
     title_size: medium
     desc_select: true
     desc: >-
-      When a go-to favorite is broken or a vintage heirloom is damaged, they end
-      up at the bottom of a
+      Fine jewelry can totally be returned to their original brilliance and
+      functionality.<br>That is a fact.
 
-      jewelry box. However, with the right technical expertise and jewelry knowledge, nearly all
-
-      treasures can be returned to their original luster and functionality.
+      In Condesa we have the means and the skills to do this.
   - type: divider_half
     bg_color: white
-  - type: cards_third_img
+  - type: cards_half_img
     bg_color: white
     cards:
-      - img: Condesa/Repair_Page_restoration_pic._bBdG8M3uA.jpg
-        aos: fade-up
-        cta_link: "#start"
-        cta_select: false
-        img_alt: Don't underestimate an old piece. Sometimes it just needs some TLC and
-          the magic of a professional cleaning
-        cta: Let's Start
-        desc: We are professionals in handling, recuperating, and perfecting. Your
+      - img: 8246fee9-14c5-40c9-f1c8-6555042e1e00
+        img_alt: We are professionals in handling, recuperating, and perfecting. Your
           jewels are in the best hands.
-        aos_select: true
-        title: Restoration
-      - img: Condesa/Repair_Page_Ring_resize_pix_s-u7ftcjP6.jpg
-        img_alt: Ring being fit on a hand
         cta: Call To Action
         cta_link: contact/
+        aos: fade-up
+        title: Repair
+        desc: Allow the hands of our professional staff to handle, repair, polish and
+          make your precious item perfect.
+        aos_select: true
+      - img: fee2305b-b1a1-42ae-664f-8b2f99eff800
+        img_alt: Ring Fitting
+        cta: Call To Action
+        cta_link: contact/
+        aos_select: true
+        aos: fade-up
         title: Ring Fitting
-        desc: Change happens, we adapt. Precise and tailored resizing to perfection and
-          comfort.
-        aos_select: true
-        aos: fade-up
-      - img: Condesa/Gold_chain_repair_before_vCr4CEVoy.jpg
-        img_alt: Chain Repair
+        desc: We are never really the same, we change and adapt. Precise and tailored
+          resizing is paramount for your comfort.
+      - img: 13fe64ff-da06-4fe9-99ba-6167eeecc200
+        img_alt: Chain repair
         cta: Call To Action
         cta_link: contact/
-        title: Chain Repair
-        desc: Don't leave loose ends. We reattach. And we are good at it.
         aos_select: true
         aos: fade-up
-      - img: Condesa/Repairs_page_vintage_pic_X7Br4NlUH7.jpg
-        img_alt: Vintage Jewelry
+        title: Chain repair
+        desc: We are good and fast. We will see to it  that your chain is pretty and
+          useful again.
+      - img: 411086d6-6905-41cd-d6bb-d1c34b2d4300
+        img_alt: Gemstone replacement
         cta: Call To Action
         cta_link: contact/
-        title: Vintage Jewelry
-        desc: With expert knowledge and specialized equipment, we strive to restore the
-          wisdom and heritage of timeless pieces of history.
         aos_select: true
         aos: fade-up
-      - img: Condesa/Sapphire_Re-set__5__010oXlp3H.jpg
-        img_alt: Gemstone Replacement
-        cta: Call To Action
-        cta_link: contact/
-        title: Gemstone Replacement
-        desc: As a gemstone expert and resourceful dealer, David will deliver the
-          perfect precious rock for you.
-        aos_select: true
-        aos: fade-up
-      - img: Condesa/CUSTOM_1_Landing_aZu7dreie.JPG
-        img_alt: Special Items
-        cta: Call To Action
-        cta_link: contact/
-        title: Special Items
-        desc: Gold and diamonds are not only reserved for the body. We understand
-          precious items linked to emotions and experiences are also cast and
-          smithed. Yes, we can fix and restore more than jewelry. Talk to us. We
-          will know how.
-        aos_select: true
-        aos: fade-up
+        title: Gemstone replacement
+        desc: Leave it to David to find the stone you need and put it nicely in place.
+          Wear it again as good as new.
   - type: divider
     bg_color: white
   - type: heading_full
@@ -100,7 +78,7 @@ components:
     desc_select: true
   - type: divider
     bg_color: white
-  - img: Condesa/diana-polekhina-F6tbedzUQvw-unsplash_oBJ0czNXT.jpg
+  - img: 2407fa81-da31-46ae-d5a5-4daa0cf7ae00
     aos: fade-up
     cta_link: contact/
     bg_color: white
@@ -116,11 +94,11 @@ components:
     type: img_third_left
   - type: divider
     bg_color: white
-  - img: Condesa/lucas-santos-r-UaSYUqF9o-unsplash_WGbXNpRdG.jpg
+  - img: a6a7d8af-a8d3-4a2d-1e6d-c021cecb2400
     aos: fade-up
     cta_link: contact/
     bg_color: white
-    img_alt: Please type in a description of the image
+    img_alt: Alex's Gold Watch
     cta: Call To Action
     desc: Alex has quite a collection of watches.  One day he brought in a
       particularly rare timepiece made from a special alloy of 18k white
@@ -132,7 +110,7 @@ components:
     type: img_third_left
   - type: divider
     bg_color: white
-  - img: Condesa/brooch_wi-BUgh5cB.jpg
+  - img: f1d4bc89-82a7-4f2b-f55e-fa1184bddc00
     aos: fade-up
     cta_link: contact/
     bg_color: white
@@ -149,7 +127,7 @@ components:
     type: img_third_left
   - type: divider
     bg_color: white
-  - img: Condesa/Untitled_Uwt0KfXg3i.jpg
+  - img: 3a54a239-08fa-40f5-44ef-2e81e5f2ad00
     aos: fade-up
     cta_link: contact/
     bg_color: white
@@ -180,17 +158,19 @@ components:
       jewelry and most items in precious metals, titanium, steel, and most
       costume jewelry.
     faqs:
-      - question: "How much does a ring sizing cost? "
-        answer: There is a big range depending on the type of ring and if it is getting
-          bigger or smaller.  Size down on simple gold rings is around
-          seventy-five dollars.
-      - question: Can you use my gemstones in a custom ring?
-        answer: Absolutely. Your stones and your precious metal after all this is Your
-          Creation.
-      - question: Can I bring in my old jewelry and turn it into something new?
-        answer: Actually, we love that, it’s a great way to fix or to transform the
-          energy of an heirloom and its more ecologically sound, we encourage
-          this path!
+      - question: Can you fix this?
+        answer: YES, is the basic answer, because our management of metal and stones
+          leaves very little room for impossible.
+      - question: How much is it to size a ring?
+        answer: "Above and beyond the nuances of each case, we can assure you our work
+          is the best value in the industry. "
+      - question: Can you use material I already have?
+        answer: "Absolutely!  We are all about saving. Also, that’s the beauty of fine
+          jewelry: metal can be molten and stones are forever."
+      - question: What can be done with old or broken jewelry?
+        answer: Bring it back into a fresh new start! Let it hold onto the beauty and
+          emotion of an heirloom in a total revival of vitality and fun. Jewelry
+          is never old really, it’s just history in motion.
   - type: divider2x
     bg_color: white
   - id_select: false

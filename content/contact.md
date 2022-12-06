@@ -5,7 +5,7 @@ description: Contact Condesa to find out if your jewelry project can become a
 components:
   - type: header_sub
     bg_color: primary
-    img: Condesa/03-Jacaranda-Textura_8Lrc2lvC5n.jpg
+    img: 0a521d70-7555-4865-0136-2cc491f88800
     title: Contact Us
     bg_toggle: false
   - bg_color: white
