@@ -1,0 +1,15 @@
+<section class="bg-{{ .bg_color }} pb-8 md:pb-12">
+ 
+  <div class="container max-w-7xl mx-auto px-4 flex flex-col items-center">
+        
+          <img src="https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/{{ .img }}/public"
+
+          width="1280px"
+          height="960px"
+          {{ if .aos_select }}
+          data-aos="{{ .aos }}" data-aos-duration="800"
+          {{ end }}
+          class="lazyload shadow-2xl" alt="{{ .img_alt }}" />
+         
+  </div>
+</section>

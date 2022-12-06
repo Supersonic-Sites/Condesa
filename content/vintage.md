@@ -61,12 +61,14 @@ components:
       He knows and has the capacity to handle the physical object with full respect and care for the spiritual energy in it.
   - type: divider_half
     bg_color: white
-  - type: img_full
-    bg_color: white
-    img: 6849dc4e-f0aa-4793-3f59-0bd61411f200
-    img_alt: Special Items
-    aos_select: true
-    aos: fade
+  - type: gallery_lightbox
+    images:
+      - img: 6849dc4e-f0aa-4793-3f59-0bd61411f200
+        img_alt: Egyptian Scarab Pendant
+      - img: d8035318-b4c6-46e3-121a-e1ae0017f000
+        img_alt: Ruby Ring
+      - img: 3429adfa-5f77-496a-dfd8-eecf2ee41d00
+        img_alt: Tibetan Buddhist 3d Mandala
   - type: divider
     bg_color: white
   - type: heading_full
