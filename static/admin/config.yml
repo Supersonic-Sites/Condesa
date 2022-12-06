@@ -409,6 +409,7 @@ collections:
               - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
               - { label: "AOS ON/OFF", name: "aos_select", widget: "boolean", required: false }
               - { label: "AOS", name: "aos", widget: "string" }
+              - { label: "Hiding Custom Code", name: "hiding", widget: "string" }
               - { label: "Image", name: "img", widget: "string", default: "DEV/boilerplate-bg_tRB-gJlPq.jpg" }
               - { label: "Image Alt Text", name: "img_alt", widget: "string", default: "Please type in a description of the image" }
 

@@ -223,6 +223,7 @@
       "mb-4",
       "mb-6",
       "mb-8",
+      "md:",
       "md:absolute",
       "md:bg-center",
       "md:block",

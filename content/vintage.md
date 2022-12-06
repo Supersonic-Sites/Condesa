@@ -38,6 +38,7 @@ components:
     img_alt: Victorian Ring
     aos_select: true
     aos: fade
+    hiding: block
   - type: divider
     bg_color: white
   - type: heading_full
