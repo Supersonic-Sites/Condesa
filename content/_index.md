@@ -49,7 +49,7 @@ components:
         title: Custom Design
       - img: df6dbd33-d6df-4b0c-daa5-a83221d57100
         aos: fade-up
-        cta_link: restoration/
+        cta_link: vintage/
         cta_select: true
         img_alt: Vintage Jewelry Restoration by Condesa
         cta: Learn More
