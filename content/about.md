@@ -30,15 +30,15 @@ components:
     img_alt: The Condesa Team
     cta: Call To Action
     desc: >
-      Condesa we wanted to put our wealth of knowledge and experience, at your
-      service.<br><br>
+      At Condesa we wanted to put our wealth of knowledge and experience, at
+      your service.<br><br>
 
 
       In Condesa our jewelers have one goal: To make your vision happen, to transform your precious idea into a stunning reality. We love witnessing emotions turn into brilliance, colour and design. <strong>We stand in awe of beauty.</strong>
 
       <br><br>
 
-      We take pride in being fully equipped and capable of servicing top-level clientele. Our workshop/store is a place where one on one connection sparks creativity, prompts trust and promotes the expression of the self. Without fail, the creations that result from this experience satisfy the need and often exceed expectations. 
+      We take pride in being fully equipped and capable of servicing top-level clientele. Our workshop/store is a place where one on one connection sparks creativity, prompts trust and promotes the expression of the self. Without fail, the creations that result from this experience satisfy the need and very often exceed expectations. 
     aos_select: true
     title: Who We Are
     type: img_half_right

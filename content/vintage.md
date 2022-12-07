@@ -14,8 +14,19 @@ components:
     id: none
     bg_color: white
     align: center
+    id_select: false
     title: vin·tage
     title_size: big
+    desc: .
+  - type: divider_half
+    bg_color: white
+  - img: 0798fe98-95ef-477f-b361-3dd63753e000
+    aos: fade
+    cta_link: contact/
+    bg_color: white
+    cta_select: false
+    img_alt: vin·tage
+    cta: Call To Action
     desc: >-
       <strong>/ˈvin(t)ij/ A wine of high quality, prime, best choice,
       select.</strong>
@@ -29,16 +40,11 @@ components:
       to treat Jewelry as very fine art.
 
       It is a pleasure for him to restore beauty.
-    desc_select: true
+    aos_select: true
+    title: <span style="color:white;">.</span>
+    type: img_third_left
   - type: divider_half
     bg_color: white
-  - type: img_full
-    bg_color: white
-    img: 7beaa704-dda2-4ef6-8ece-b80f618dc500
-    img_alt: Victorian Ring
-    aos_select: true
-    aos: fade
-    hiding: block
   - type: divider
     bg_color: white
   - type: heading_full
@@ -49,27 +55,27 @@ components:
     title_size: big
     desc_select: true
     desc: >-
-      <strong>In Condesa we understand precious items are linked to emotions and
+      <strong>At Condesa we understand precious items are linked to emotions and
       experiences. </strong>
 
 
-      David has been deeply immersed in the world of Chi Kung, Yoga, Shamanism and Meditation, for the last 4 decades. Always interested in the works of the mind and spirit, human evolution, and integral development with the cosmos. <br><br>
+      David has been deeply immersed in the world of Chi Kung, Yoga, Judaism, Shamanism and Meditation, for the last 4 decades. Always interested in the works of the mind and spirit, human evolution, and integral development with the cosmos. <br><br>
 
-      Therefore, your Murti, your Mala, your Yantra, Naven Kendra, or any item of spiritual item with management of energy is in the best hands. In all cases he is closely supervising and many times even working on it himself to make sure nothing disturbs the charge it holds. 
+      Therefore, your Murti, your Mala, your Yantra, Naven Kendra, precious items of Judaica or any item of spiritual item with management of energy is in the best hands. In all cases he is closely supervising and many times even working on it himself to make sure nothing disturbs the charge it holds. 
 
       <br><br>
 
       He knows and has the capacity to handle the physical object with full respect and care for the spiritual energy in it.
   - type: divider_half
     bg_color: white
-  - type: gallery_lightbox
-    images:
-      - img: 6849dc4e-f0aa-4793-3f59-0bd61411f200
-        img_alt: Egyptian Scarab Pendant
-      - img: d8035318-b4c6-46e3-121a-e1ae0017f000
-        img_alt: Ruby Ring
-      - img: 3429adfa-5f77-496a-dfd8-eecf2ee41d00
-        img_alt: Tibetan Buddhist 3d Mandala
+  - type: img_half_2
+    bg_color: white
+    img: 6849dc4e-f0aa-4793-3f59-0bd61411f200
+    img_alt: Egyptian Scarab Pendant
+    img2: 3429adfa-5f77-496a-dfd8-eecf2ee41d00
+    img_alt2: Please type in a description of the image
+    aos_select: true
+    aos: fade-up
   - type: divider
     bg_color: white
   - type: heading_full

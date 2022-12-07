@@ -53,8 +53,8 @@ components:
         cta_select: true
         img_alt: Vintage Jewelry Restoration by Condesa
         cta: Learn More
-        desc: Some objects´ value is beyond metal and stone, history has imbued in them
-          unmeasurable worth.
+        desc: Some objects´ value is beyond metal and stone, history has imbued them
+          with unmeasurable worth.
         aos_select: true
         title: Vintage Restoration
       - img: 3fae728c-caf0-4b41-7692-2d69827f7e00
@@ -74,7 +74,7 @@ components:
         cta_select: true
         img_alt: Special Items & Jewelry
         cta: Learn More
-        desc: Jewels come in many types, the most precious items are not necessarily
+        desc: Jewels come in many types, the most precious items may not be necessarily
           rings and pendants, but objects that contain unique blessings or
           notable energies.
         aos_select: true
@@ -91,7 +91,7 @@ components:
         img_alt: Custom design jewelry made with Silver
       - img: d56843a3-9d28-4153-3062-3bf79eacb600
         img_alt: Tree in Vancouver, BC
-      - img: 99d9f395-0845-45ec-9101-9aa1e06e1000
+      - img: 25705275-fee4-4aca-ac06-723ad784cb00
         img_alt: Gemstone collection for your custom ring design
       - img: 1e60b2c8-3695-42a1-1e1e-c5e603a69400
         img_alt: Lotus Flower
@@ -154,7 +154,8 @@ components:
   - bg_color: white
     phone: +1 (604) 874-1879
     cta: Send
-    desc: "We are like an oldtime teacher, eager to put our knowledge to the test and at your service. Don’t hesitate to reach out to us."
+    desc: We are like an oldtime teacher, eager to put our knowledge to the test and
+      at your service. Don’t hesitate to reach out to us.
     usebasin: https://usebasin.com/f/9e27fcf84caf
     title: Get In Touch
     type: contact

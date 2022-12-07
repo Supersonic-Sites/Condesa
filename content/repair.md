@@ -19,10 +19,10 @@ components:
     title_size: medium
     desc_select: true
     desc: >-
-      Fine jewelry can totally be returned to their original brilliance and
+      Fine jewelry can totally be returned to its original brilliance and
       functionality.<br>That is a fact.
 
-      In Condesa we have the means and the skills to do this.
+      At Condesa we have the means and the skills to do this.
   - type: divider_half
     bg_color: white
   - type: cards_half_img

@@ -27,7 +27,7 @@
             {{ if  eq .bg_color "white" }}
             <h2
               class="font-bold text-black capitalize text-3xl tracking-wider md:text-4xl lg:text-5xl my-4 md:my-0 md:mb-6">
-              {{ .title }}
+              {{ .title | safeHTML }}
             </h2>
             <p class="text-black text-xl tracking-wider">{{ .desc | safeHTML }}</p>
           </div>
