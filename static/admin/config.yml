@@ -409,6 +409,7 @@ collections:
               - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
               - { label: "AOS ON/OFF", name: "aos_select", widget: "boolean", required: false }
               - { label: "AOS", name: "aos", widget: "string" }
+              - { label: "Hiding Custom Code", name: "hiding", widget: "string" }
               - { label: "Image", name: "img", widget: "string", default: "DEV/boilerplate-bg_tRB-gJlPq.jpg" }
               - { label: "Image Alt Text", name: "img_alt", widget: "string", default: "Please type in a description of the image" }
 
@@ -426,6 +427,19 @@ collections:
               - { label: "CTA ON/OFF", name: "cta_select", widget: "boolean", required: false }
               - { label: "CTA", name: "cta", widget: "string", default: "Call To Action" }
               - { label: "CTA Link", name: "cta_link", widget: "string", default: "contact/" }
+
+          - label: "Half Image Double"
+            name: "img_half_2"
+            widget: "object"
+            fields:
+              - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+              - { label: "AOS ON/OFF", name: "aos_select", widget: "boolean", required: false }
+              - { label: "AOS", name: "aos", widget: "string" }
+              - { label: "Image", name: "img", widget: "string", default: "DEV/boilerplate-bg_tRB-gJlPq.jpg" }
+              - { label: "Image Alt Text", name: "img_alt", widget: "string", default: "Please type in a description of the image" }
+              - { label: "Image2", name: "img2", widget: "string", default: "DEV/boilerplate-bg_tRB-gJlPq.jpg" }
+              - { label: "Image2 Alt Text", name: "img_alt2", widget: "string", default: "Please type in a description of the image" }
+
 
           - label: "Half Image Right"
             name: "img_half_right"

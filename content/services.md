@@ -1,27 +1,23 @@
 ---
-title: Custom Design
+title: Custom Jewelry Design
 description: "Condesa's custom jewelry creates a bridge between ideas and actual
   creation. We relish the opportunity to create something unique and new. "
 slug: custom-design
 components:
   - type: header_sub
     bg_color: primary
-    img: Condesa/03-Jacaranda-Textura_8Lrc2lvC5n.jpg
+    img: 0a521d70-7555-4865-0136-2cc491f88800
     title: Custom Design
   - type: divider
     bg_color: white
   - type: heading_full
     bg_color: white
     title_size: medium
-    title: Creating a Bridge Between Idea & Creation
+    title: A Bridge Between Idea & Creation
     desc_select: true
-    desc: >-
-      Whether you have a vague notion or a very detailed idea of the piece of
-      jewelry you want,
-
-      together we can refine the elements of design, metal and gemstones. Create a stunning and
-
-      unique custom piece with guidance from our experts.
+    desc: "Whether from a vague notion or a detailed desire, we can clarify the
+      design, help decide the metal and gemstones, and fabricate the stunning
+      and unique custom piece you deserve. "
     align: center
     id: none
   - type: divider_half
@@ -44,8 +40,7 @@ components:
         aos: fade-up
         icon: "#rings-wedding"
         title: Bridal & Commitment
-        desc: Let’s create together that personal, unique look that says “I love you”
-          for that special day.
+        desc: Let us help you express that unique feeling in brilliance and strength.
         cta_select: true
       - cta: Our Process
         cta_link: "#process"
@@ -69,87 +64,149 @@ components:
     desc_select: true
   - type: divider
     bg_color: white
-  - img: Condesa/Gallery_Page/Roxy_21_d8z847f6q.jpg
+  - img: e2162519-ada6-4d20-4d97-19b21623b100
     aos: fade-up
     cta_link: contact/
     bg_color: white
-    img_alt: Medallion of Roxy the dog
+    img_alt: Wave Rings
+    cta: Call To Action
+    desc: "Eitan and Eva are both artists who have always lived outside of the box.
+      When they decided to get married, they wanted their wedding ring and
+      engagement ring set to signify flow and unity.  Taking a cue from Art
+      Nouveau classics, we created a truly unique set of white gold and
+      diamond.  We couldn’t have been happier to make this happen for them.  "
+    aos_select: true
+    title: Wave Rings
+    type: img_third_left
+  - type: divider
+    bg_color: white
+  - img: 50b69cac-032c-4c08-6bbb-19122b0a9400
+    aos: fade-up
+    cta_link: contact/
+    bg_color: white
+    img_alt: Yellow Lilies
+    cta: Call To Action
+    desc: Monyca spotted a unique set of yellow sapphires in Tucson. She thought
+      they would be perfect for Lourdes. What could be more beautiful than
+      Mexican calla lilies?
+    aos_select: true
+    title: Yellow Lilies
+    type: img_third_left
+  - type: divider
+    bg_color: white
+  - img: 8fdab9a3-8e1d-499f-41c0-5cca035b6100
+    aos: fade-up
+    cta_link: contact/
+    bg_color: white
+    img_alt: St. Christopher
+    cta: Call To Action
+    desc: Jenna had an interesting request.  Create a gold locket with the image of
+      St. Christopher.  The result was this amazing one-of-a-kind piece that
+      opens to reveal a meaningful inscription.
+    aos_select: true
+    title: St. Christopher
+    type: img_third_left
+  - type: divider
+    bg_color: white
+  - img: d6790d49-418f-4504-ac2c-0e0593275600
+    aos: fade-up
+    cta_link: contact/
+    bg_color: white
+    img_alt: Aquamarine pendant
+    cta: Call To Action
+    desc: A lovely couple came in looking to create a unique pendant as a birthday
+      gift for her.  She wanted an aquamarine and gold setting that would
+      complement her favorite chain.   The floating setting allows the gemstone
+      to move and sparkle as the pendant flows along the chain.
+    aos_select: true
+    title: Aquamarine pendant
+    type: img_third_left
+  - type: divider
+    bg_color: white
+  - img: 37281862-409a-4ea0-a43e-6db2962ce400
+    aos: fade-up
+    cta_link: contact/
+    bg_color: white
+    img_alt: A unique bat mitzvah gift
+    cta: Call To Action
+    desc: I really wanted to make something special for Samantha’s bat mitzva
+      gift.  Taking inspiration from the classic mezuzah shape, the Hebrew name
+      pendant is white gold with black antiquing to highlight the letters and to
+      make it appear old in a nod to the significance of tradition.
+    aos_select: true
+    title: A unique bat mitzvah gift
+    type: img_third_left
+  - type: divider
+    bg_color: white
+  - img: 203516da-ede2-46ef-6af2-9fd7c2d58e00
+    aos: fade-up
+    cta_link: contact/
+    bg_color: white
+    img_alt: Fantastic Family Crest
     cta: Call To Action
     desc: >-
-      Sunny called up distraught and with a very specific request.<br><br>His
-      beloved dog Roxy had passed away and he wanted a precise representation of
-      her face on a gold pendant.  Not a mere engraved likeness but rather a
-      partial relief sculped bust.<br><br>
-
-      Several jewelers in his community had told him this was not possible.  Without knowing exactly how we would do this, I said yes.   He provided us with dozens of photos from which we were able to create a 3d model of his pet that was so close it left him speechless.  
+      
+      Tyler came in with an interesting project…create a silver pendant using his family’s wolf head crest. Getting the 3d details of the crest just right was particularly challenging but the result was amazing!
     aos_select: true
-    title: Roxy the dog
+    title: Fantastic Family Crest
     type: img_third_left
   - type: divider
     bg_color: white
-  - img: Condesa/Gallery_Page/humming_bird_render_PZkd3qPJk.jpeg
+  - img: 99c790bc-e9fb-448d-8eb1-e15d83e6a900
     aos: fade-up
     cta_link: contact/
     bg_color: white
-    img_alt: Hummingbird Engagement ring
+    img_alt: A gift for the future
     cta: Call To Action
-    desc: Steven explained that he wanted an engagement ring that would express
-      meaning with hummingbirds.<br><br>Adding fine blue sapphire accent stones
-      into white gold gave the center diamond a refined and ethereal
-      presence.  The meaning of the ring and its message were very well
-      received.
+    desc: Linda wanted to create a gift to give her grandson when he becomes and
+      adult.  She wants to wear it until then.  So, we crafted a stylized 14k
+      gold and diamond dog tag on a long chain to accessorize well on her and,
+      down the line, it will look great on him.
     aos_select: true
-    title: Hummingbird Engagement ring
+    title: A gift for the future
     type: img_third_left
   - type: divider
     bg_color: white
-  - img: Condesa/Gallery_Page/Multi-Gold_Gem__1__OEdbR2aSf.jpg
+  - img: d09925cb-12e2-4a07-d1e5-adc5ec02d200
     aos: fade-up
     cta_link: contact/
     bg_color: white
-    img_alt: Anniversary Bangles
+    img_alt: Organic Renovation
     cta: Call To Action
-    desc: "Janet wanted something special for her 30th anniversary.<br><br> She
-      couldn’t find anything off the shelf, so she approached us with her
-      specific request.  She wanted four large gold bangles with birthstones to
-      represent each of her children and one twisted gold bangle with a diamond
-      to represent her husband and herself.<br><br>We hand fabricated the set,
-      taking into account the size and weight she wanted so that the jingle
-      sound they made was the right tone. "
+    desc: A wonderful and interesting customer wanted her old gold jewelry and
+      diamonds made into a new organic piece that she would enjoy
+      wearing.  Taking a cue from natural coral formations, we created this
+      stunning 14k yellow gold and diamond organic style ring.
     aos_select: true
-    title: Anniversary Bangles
+    title: Organic Renovation
     type: img_third_left
   - type: divider
     bg_color: white
-  - img: Condesa/Gallery_Page/Wind_Demon__17__r0xmMu7wc.jpg
+  - img: 267fd9ee-a263-4b26-d8b8-44417b23fd00
     aos: fade-up
     cta_link: contact/
     bg_color: white
-    img_alt: Wind Demon
+    img_alt: Meaningful charms
     cta: Call To Action
-    desc: Tim is an avid motorcycle enthusiast with a heart of gold.<br><br>He
-      wanted to express both of those elements with a wind demon ring in gold
-      and gemstones.  Taking the cue from old map representations of wind, we
-      came up with something bold, yet refined and expertly crafted to withstand
-      the vibrations of the open road.
+    desc: Mia wanted to add several faith affirming charms to the bracelet she
+      always wears.  We are quite fond of this kind of project, and we love how
+      the project turned out.
     aos_select: true
-    title: Wind Demon
+    title: Meaningful charms
     type: img_third_left
   - type: divider
     bg_color: white
-  - img: Condesa/Gallery_Page/Moonstone___Ruby_Set__7__C18QQ-b_b3.jpg
+  - img: 29a75abb-1e60-42eb-70a4-d37631927900
     aos: fade-up
     cta_link: contact/
     bg_color: white
-    img_alt: A different set of wedding rings
+    img_alt: Jade Flower
     cta: Call To Action
-    desc: "Not all wedding rings are simple round gold bands.<br><br>Many couples
-      want the rings to contain special meaningful elements.  Oscar and Alicia
-      are this kind of couple.  She wanted white gold and moonstone to represent
-      the ethereal; he wanted jet black silver with a hidden ruby to represent
-      the earthly presence of divine energy.  "
+    desc: Andrew wanted a diamond surrounded by small round jade cabs sent
+      specifically from a friend in China.  Elegant, beautiful, and full of
+      meaning.
     aos_select: true
-    title: A different set of wedding rings
+    title: Jade Flower
     type: img_third_left
   - type: divider2x
     bg_color: white
@@ -178,7 +235,7 @@ components:
         cta_link: none
         cta_select: false
         cta: none
-        desc: "Tell us your vision. We're here to listen and make it happen. "
+        desc: Come, in Condesa we totally understand you.
         aos_select: true
         subtitle: "We're here to listen "
         title: "Step 1: TALK"
@@ -192,7 +249,7 @@ components:
         title_size: small
         cta_link: none
         cta: none
-        desc: Let's visualize your idea and sketch it out in detail.
+        desc: Visualize, sketch, and detail to perfection.
         aos_select: true
         subtitle: none
         title: "Step 2: DRAW"
@@ -205,7 +262,7 @@ components:
         title_size: small
         cta_link: none
         cta: None
-        desc: Not completely satisfied? We'll modify it until you are.
+        desc: Check and modify until you just love it!
         aos_select: true
         subtitle: Sub
         title: "Step 3: LOVE"
@@ -218,7 +275,7 @@ components:
         title_size: small
         cta_link: none
         cta: none
-        desc: With the details finalized, we then make your project a brilliant reality.
+        desc: "Witness your idea manifesting! "
         aos_select: true
         subtitle: None
         title: "Step 4: MAKE"
@@ -243,17 +300,23 @@ components:
       challenge! Turnaround is two weeks for simpler projects four weeks for
       more elaborate. "
     faqs:
+      - question: How long does a custom project take?
+        answer: 2 to 4 weeks depending on complexity, but challenge and promptness is
+          our middle name.
       - question: How much will a custom ring cost?
-        answer: "We adapt to your budget, but keep in mind that Your Brilliant Idea
-          deserves to be manifested expertly using quality precious metal and
-          beautiful ethically sourced gemstones.  "
-      - question: Can you use my gemstones in a custom ring?
-        answer: Absolutely. Your stones and your precious metal after all this is Your
-          Creation.
-      - question: Can I bring in my old jewelry and turn it into something new?
-        answer: Actually, we love that, it’s a great way to fix or to transform the
-          energy of an heirloom and its more ecologically sound, we encourage
-          this path!
+        answer: As much as you want, but keep in mind you deserve the best! We adapt and
+          we strive to keep the balance between the awesomeness of your dream,
+          and your pocket.
+      - question: Can you use gemstones I already have?
+        answer: Sure! We are adamant in caring for conservation and for your budget.
+      - question: Can you help me figure out what can be done with old jewelry?
+        answer: >-
+          Absolutely! It’s very interesting to see what new purpose and allure
+          we can produce, also it’s the most ecologically sound path, so we
+          encourage it happily. 
+
+
+          We love to dive into it with trained eyes and help you discover the magnificent treasures that oftentimes escape the tired scrutiny.
   - type: divider2x
     bg_color: white
   - type: heading_full

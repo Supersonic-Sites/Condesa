@@ -10,24 +10,26 @@
 
                 <div class="flex flex-col items-center">
 
-                    <img src="https://ik.imagekit.io/supersonicsites/tr:ar-4-3,w-1280,bl-30,q-50,/{{ .img }}"
+                    <img src="https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/{{ .img }}/600x400"
                         sizes="100vw"
                         data-srcset="
-                        https://ik.imagekit.io/supersonicsites/tr:ar-4-3,w-640,c_scale,f_auto,q_auto,dpr_auto,/{{ .img }} 640w,
-                        https://ik.imagekit.io/supersonicsites/tr:ar-4-3,w-768,c_scale,f_auto,q_auto,dpr_auto,/{{ .img }} 768w,
-                        https://ik.imagekit.io/supersonicsites/tr:ar-4-3,w-1280,c_scale,f_auto,q_auto,dpr_auto,/{{ .img }} 1280w"
-                        data-src="https://ik.imagekit.io/supersonicsites/tr:ar-4-3,w-768,c_scale,f_auto,q_auto,dpr_auto,/{{ .img }} 1536w"
-                        width="768px"
-                        height="576px"
-                        class="lazyload mb-6" alt="{{ .img_alt }}" />
+                        https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/{{ .img }}/600x400 640w,
+                        https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/{{ .img }}/600x400 768w,
+                        https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/{{ .img }}/600x400 1280w"
+                        data-src="https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/{{ .img }}/600x400 1536w"
+                        width="600px"
+                        height="400px"
+                        class="lazyload mb-6 w-full object-cover" style="min-height: 23rem; max-height: 23rem;" alt="{{ .img_alt }}" />
 
 
                     <h3 class="font-bold text-center text-3xl md:text-4xl text-black mb-6">
                         {{ .title }}
                     </h3>
+                    
                     <p class="text-center mb-6 md:mb-8 md:text-xl">
                         {{ .desc }}
                     </p>
+                    
                     {{ if .cta_select }}
                     <a href="{{ .Site.BaseURL}}{{ .cta_link }}"
                         class="transition duration-500 text-center w-full py-2 px-4 text-xl font-bold btn_primary">
