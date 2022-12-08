@@ -59,7 +59,7 @@ components:
         title: Vintage Restoration
       - img: 3fae728c-caf0-4b41-7692-2d69827f7e00
         aos: fade-up
-        cta_link: restoration/
+        cta_link: repair/
         cta_select: true
         img_alt: "Picture of a repaired and restored jewelry "
         cta: Learn More
