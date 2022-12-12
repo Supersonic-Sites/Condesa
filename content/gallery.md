@@ -24,7 +24,7 @@ components:
         img_alt: Condesa Jewelry Piece
       - img: a46fcbfa-0468-4dc8-e393-48b8afc82c00
         img_alt: Condesa Jewelry Piece
-      - img: e96b2ef3-5b0a-4f59-bda0-7ddd331da500
+      - img: fb458094-5d7d-4db0-2244-95715fd47000
         img_alt: Condesa Jewelry Piece
       - img: d1ed5b1f-547d-4ab1-bcbd-8aace238f500
         img_alt: Condesa Jewelry Piece
