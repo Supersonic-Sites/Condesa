@@ -122,7 +122,7 @@ components:
       manifestation: Beauty, Emotion and Grace made tangible.
     aos_select: true
     title: Monyca Bouras
-    type: img_third_right
+    type: img_third_left
   - type: divider
     bg_color: white
   - img: 81ab7ea8-5576-4eb0-7423-40e2a8a22a00
