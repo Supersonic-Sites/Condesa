@@ -49,9 +49,9 @@ p {
 }
 @media (min-width: 1024px) {
 .hero-background {
-  background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)), url('https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/700dd9e0-0a62-4ac5-4ce5-c955b9cec300/FullBackgroundDesktop');
+  background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)), url('https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/0e6dd426-7ac6-45d0-1ed6-fd7581aa2200/FullBackgroundDesktop');
   color: white !important;
-  background-position: 25% 80%;
+  background-position: bottom left;
 }
 }
 

@@ -70,38 +70,13 @@ components:
     type: img_third_left
   - type: divider
     bg_color: white
-  - img: 695a480a-9984-4ef9-30ef-d019b2d37200
-    aos: fade-up
-    cta_link: contact/
-    bg_color: white
-    img_alt: Maria Thompson-Malone
-    cta: Call To Action
-    desc: >+
-      <strong>General Manager</strong><br>
-
-      Originally from Ireland, Maria moved to Canada in 2014, alongside her husband Ivan.<br><br>
-
-
-      With an interesting background consisting of farming, ballroom dancing, art & design, and even time in the army! The world of jewelry has been a constant throughout her life. As a child she would create her own jewelry, taking pieces and elements from her environment, and developing a look that was unique at the time.<br><br>
-
-
-      Over the past 28 years, Maria has been working within the jewelry industry. Learning silversmithing, horology, body piercing, as well as jade carving and lapidary along the way. In 2017 she first met David and by 2018, she was welcomed into the Condesa Jewelry Expertise team as the stores General Manager. Since then, she has been working alongside David at CONDESA.<br><br>
-
-
-      “The time I have spent thus far in CONDESA has been crucial for my understanding of the industry, for David is always willing to clarify my endless curiosity, expanding my knowledge not only of the gemstones and precious metals that I love so much, but to all aspects of the trade”.
-
-    aos_select: true
-    title: Maria Thompson-Malone
-    type: img_third_right
-  - type: divider
-    bg_color: white
   - img: 35048caf-20f0-45e0-3df9-975266524d00
     aos: fade-up
     cta_link: contact/
     bg_color: white
     img_alt: Sadaf's picture
     cta: Call To Action
-    desc: >-
+    desc: >+
       Sadaf Aghabeygi has been in love with jewelry from childhood and active in
       it since 2015. Born in Iran, she studied Industrial Engineering at
       university, but seeking to refine her skills towards her passion,
@@ -116,9 +91,10 @@ components:
       <br>
 
       “I started working in Condesa as a jeweler in 2019, and I am grateful for being a part of this amazing team. I do the finishing of custom pieces and all kinds of repairs and renovations under the supervision of David, which is the greatest honor of my career”.
+
     aos_select: true
     title: Sadaf Aghabeygi
-    type: img_third_left
+    type: img_third_right
   - type: divider
     bg_color: white
   - img: 67df66ea-ad81-44a9-1e80-f636c9ef0c00

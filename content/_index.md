@@ -5,7 +5,7 @@ description: Condesa is where the ancient wisdom of the pieces and new knowledge
   restoration.
 components:
   - cta2: Contact Us
-    img: 700dd9e0-0a62-4ac5-4ce5-c955b9cec300
+    img: febc60b8-133b-4fa9-0a03-44f342d54800
     cta_link: https://calendly.com/condesajewelryexpertise
     cta: Schedule An Appointment
     desc: Whether designing custom jewelry or repairing a precious heirloom, Condesa
@@ -19,7 +19,7 @@ components:
     bg_color: white
   - type: img_full
     bg_color: white
-    img: 700dd9e0-0a62-4ac5-4ce5-c955b9cec300
+    img: 0e6dd426-7ac6-45d0-1ed6-fd7581aa2200
     img_alt: Image of the Condesa Jewelry Expertise Team in the office
     aos: fade
     hiding: hidden
