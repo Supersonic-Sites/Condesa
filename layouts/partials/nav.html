@@ -4,8 +4,8 @@
       <div class="flex items-center justify-between w-full lg:w-auto py-2 pl-2 md:pl-0">
         <a class="ml-4" href="{{ .Site.BaseURL | absURL }}">
           <img class="" 
-          width="250px"
-          height="125px" 
+          width="200px"
+          height="100px" 
           src="https://ik.imagekit.io/supersonicsites/tr:w-300,c_scale,f_auto,q_auto,dpr_auto,/Condesa/Condessa_Logo_Official_6oJAqxLeXE.png" alt="{{ .Site.Params.sitename }}">
         </a>
 
@@ -27,7 +27,7 @@
       <div class="hidden space-x-10 lg:flex lg:ml-10">
           <ul id="desktop_menu" class="flex">
               {{ range .Site.Menus.main -}}
-              <li class="py-12 px-4 font-sans transition duration-500 border-b-4 border-transparent hover:border-primary hover:text-primary active:text-primary">        
+              <li class="py-6 px-4 font-sans transition duration-500 border-b-4 border-transparent hover:border-primary hover:text-primary active:text-primary">        
               <a class="text-xl tracking-widest font-bold" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
             </li>
               {{ end }}

@@ -51,7 +51,7 @@ p {
 .hero-background {
   background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)), url('https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/0e6dd426-7ac6-45d0-1ed6-fd7581aa2200/FullBackgroundDesktop');
   color: white !important;
-  background-position: bottom left;
+  background-position: 25% 80%;
 }
 }
 
