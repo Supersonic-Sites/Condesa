@@ -12,6 +12,20 @@ components:
     bg_color: white
   - type: gallery_lightbox
     images:
+      - img: 4d9e7477-f39a-403c-ed5f-e05bc6b98a00
+        img_alt: Condesa Jewelry Piece
+      - img: d5b3ee14-7d3d-41e0-0132-f53a1b94c000
+        img_alt: Condesa Jewelry Piece
+      - img: 76be3bd4-130e-41c6-ac2e-d0261b325f00
+        img_alt: Condesa Jewelry Piece
+      - img: 6858f65c-5a83-477a-2b03-e88160353a00
+        img_alt: Condesa Jewelry Piece
+      - img: 249f0c40-0532-4286-97f3-318cb2fd7400
+        img_alt: Condesa Jewelry Piece
+      - img: 4133d5bc-94b9-4d30-f741-f03612731600
+        img_alt: Condesa Jewelry Piece
+      - img: 6f2aa0d7-0241-45f0-4627-8d76ef1ef300
+        img_alt: Condesa Jewelry Piece
       - img: 930128d2-0aca-4169-a37a-7cbd7196bc00
         img_alt: Condesa Jewelry Piece
       - img: 32b7e375-4db5-4a8a-99f6-496c6f550b00

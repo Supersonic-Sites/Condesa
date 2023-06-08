@@ -8,8 +8,7 @@ components:
     img: febc60b8-133b-4fa9-0a03-44f342d54800
     cta_link: https://calendly.com/condesajewelryexpertise
     cta: Schedule An Appointment
-    desc: Whether designing custom jewelry or repairing a precious heirloom, Condesa
-      delivers to you every single time.
+    desc: Custom • Repair • Renovation
     cta2_link: contact/
     title: In Awe of Beauty
     cta2_select: true

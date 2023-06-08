@@ -23,7 +23,7 @@ components:
     id: none
   - type: divider
     bg_color: white
-  - img: ee108645-05a0-46fe-cd7e-c29aae55c900
+  - img: 6058639a-6ade-4b98-2577-c5b066e1b500
     aos: fade-up
     cta_link: contact/
     bg_color: white
@@ -41,7 +41,7 @@ components:
       We take pride in being fully equipped and capable of servicing top-level clientele. Our workshop/store is a place where one on one connection sparks creativity, prompts trust and promotes the expression of the self. Without fail, the creations that result from this experience satisfy the need and very often exceed expectations. 
     aos_select: true
     title: Who We Are
-    type: img_half_right
+    type: img_third_right
   - type: divider
     bg_color: white
   - img: 2192049e-18ad-488d-6e9f-4ece23ed5800
@@ -147,7 +147,7 @@ components:
       “Every day at Condesa is an opportunity - to learn from David and the team and to learn the intricacies of each piece of jewelry we create or reimagine.”<br><br>
     aos_select: true
     title: Kevin McAllister
-    type: img_third_left
+    type: img_third_right
   - type: divider
     bg_color: white
   - type: cta
