@@ -12,6 +12,12 @@ components:
     bg_color: white
   - type: gallery_lightbox
     images:
+      - img: 9349b68c-5fd1-4938-e9f6-1e8f7fb7d200
+        img_alt: Condesa Jewelry Piece
+      - img: b2b26eb6-39e8-49a6-dd6a-f15a278eac00
+        img_alt: Condesa Jewelry Piece
+      - img: 660cf379-539f-4770-6d18-751ee8368d00
+        img_alt: Condesa Jewelry Piece
       - img: 4d9e7477-f39a-403c-ed5f-e05bc6b98a00
         img_alt: Condesa Jewelry Piece
       - img: d5b3ee14-7d3d-41e0-0132-f53a1b94c000
