@@ -18,7 +18,7 @@ components:
     bg_color: white
   - type: img_full
     bg_color: white
-    img: 0e6dd426-7ac6-45d0-1ed6-fd7581aa2200
+    img: dda1d241-30d7-40a4-9d9f-75a77cceb600
     img_alt: Image of the Condesa Jewelry Expertise Team in the office
     aos: fade
     hiding: hidden
