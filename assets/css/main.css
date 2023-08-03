@@ -49,7 +49,7 @@ p {
 }
 @media (min-width: 1024px) {
 .hero-background {
-  background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)), url('https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/0e6dd426-7ac6-45d0-1ed6-fd7581aa2200/FullBackgroundDesktop');
+  background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)), url('https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/58ca93ad-e2ef-479d-16ef-20db76bc7200/FullBackgroundDesktop');
   color: white !important;
   background-position: 25% 100%;
 }
