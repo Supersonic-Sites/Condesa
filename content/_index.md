@@ -80,28 +80,6 @@ components:
         title: Special Items
   - type: divider
     bg_color: white
-  - type: gallery
-    images:
-      - img: 397c6ec6-a534-4b89-0ef5-debc623f6f00
-        img_alt: Ring restoration by Condesa Jewelry
-      - img: 335540ce-259d-4823-80aa-b18abf3a8e00
-        img_alt: "Crow: Nature is our inspiration"
-      - img: 6719066d-4f92-46e2-5491-f21cdd491500
-        img_alt: Custom design jewelry made with Silver
-      - img: d56843a3-9d28-4153-3062-3bf79eacb600
-        img_alt: Tree in Vancouver, BC
-      - img: 25705275-fee4-4aca-ac06-723ad784cb00
-        img_alt: Gemstone collection for your custom ring design
-      - img: 1e60b2c8-3695-42a1-1e1e-c5e603a69400
-        img_alt: Lotus Flower
-      - img: 02a51383-4b6d-4dc6-85dd-c2e74e811f00
-        img_alt: Flower Design For Rings
-      - img: e4c58111-9f25-4f2e-b926-fd35470c8700
-        img_alt: Beautiful Bird
-      - img: 3ae1474c-c6a5-4ced-4b82-322f539ae700
-        img_alt: Custom Ring Design
-  - type: divider
-    bg_color: white
   - type: heading_full
     bg_color: white
     title_size: medium
