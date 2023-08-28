@@ -92,6 +92,80 @@ components:
         img_alt: Star of David gold necklace
       - img: 7c751303-45ec-4d50-da6f-aa062621a100
         img_alt: Clustered diamond ring
+      - img: 26b31cc7-2fdc-4585-4d63-f48b0d7aa000
+        img_alt: 
+      - img: be5cd2a8-f772-4fcf-c192-55cf718fa000
+        img_alt: 
+      - img: 4a127a7a-db8a-4c18-12b7-3ae27f74c800
+        img_alt: 
+      - img: 1fbf2700-07dc-4446-9585-81eba5766500
+        img_alt: 
+      - img: 09063f9b-201a-4bd8-61bb-a4ff56f65a00
+        img_alt: 
+      - img: 6c722a08-3f34-410e-6f8b-f7b46be29e00
+        img_alt: 
+      - img: 7f764878-ed24-42bc-ffd9-cc8a5279c300
+        img_alt: 
+      - img: f4cc5c49-8d05-45fa-cc5d-aefca6344800
+        img_alt: 
+      - img: 3176fac1-6428-4ff6-92f7-971643af9e00
+        img_alt: 
+      - img: 77a2a3cc-aa99-4945-7837-3f08efd29900
+        img_alt: 
+      - img: 8c1cfed5-4fe4-48da-fec2-83269b8f9c00
+        img_alt: 
+      - img: 5519c84c-63cf-4377-4c55-117c2afbf200
+        img_alt: 
+      - img: 42658b25-08ea-424e-3343-ec5fac4ac200
+        img_alt: 
+      - img: 0735b274-6293-4856-ab43-da969b2e8800
+        img_alt: 
+      - img: 2753eebb-1786-4b00-025d-746a3a885600
+        img_alt: 
+      - img: 21ef7a25-eaef-4936-4217-cfd59f2f0e00
+        img_alt: 
+      - img: 2fdb11c7-92f8-45b1-d4dc-df84cd51dc00
+        img_alt: 
+      - img: 61f28ee8-62b3-47c5-956e-6c0c7e358100
+        img_alt: 
+      - img: 470b8be4-794c-494c-87db-d1c5417d1b00
+        img_alt: 
+      - img: 51eaeff1-9df0-411b-ac6e-cdbb7a0c4800
+        img_alt: 
+      - img: 56b8dff3-95fa-4d3c-7951-1b916deaf400
+        img_alt: 
+      - img: 4019e0a7-bbbf-4ddc-4496-ff55f5f27100
+        img_alt: 
+      - img: f3da9086-3590-4395-6afc-c59bd37ae000
+        img_alt: 
+      - img: 4cee02e7-5e15-4cca-cf82-7356f3cb1c00
+        img_alt: 
+      - img: a0be769f-569f-48cd-5c40-b01185570d00
+        img_alt: 
+      - img: 18c4b4ed-7c04-4530-410d-d9ad4d190d00
+        img_alt: 
+      - img: c596e949-585b-43af-f6b2-b5903b95ea00
+        img_alt: 
+      - img: 2b0b6413-d2a1-4ff2-bc75-e3e6cddf0900
+        img_alt: 
+      - img: 2395123e-46dd-464e-2daf-1e8fed735e00
+        img_alt: 
+      - img: eb08bbb5-2607-4e6d-4437-b6dc5ee2ea00
+        img_alt: 
+      - img: fa4fa820-9834-4bdf-ca86-aa16090ddc00
+        img_alt: 
+      - img: 4a361a43-3e14-4c9f-b0db-894768f77100
+        img_alt: 
+      - img: 505f7b0e-478c-40fa-b157-1666a3538200
+        img_alt: 
+      - img: c613cc1c-dad1-49a4-a36f-3c7080ba7800
+        img_alt: 
+      - img: d7a763fb-49fd-40b6-2d4e-79b363c5a800
+        img_alt: 
+      - img: b313961f-c605-4a9c-03b2-5f646b2d0c00
+        img_alt: 
+      - img: 8a42ebec-a770-448e-0ace-2f930ef6b800
+        img_alt:               
   - type: divider
     bg_color: white
   - type: cta
