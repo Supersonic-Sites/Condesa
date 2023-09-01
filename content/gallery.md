@@ -12,6 +12,8 @@ components:
     bg_color: white
   - type: gallery_lightbox
     images:
+      - img: fd62c3d6-484d-433a-41cb-4682f6229000
+        img_alt: 
       - img: 26b31cc7-2fdc-4585-4d63-f48b0d7aa000
         img_alt: 
       - img: be5cd2a8-f772-4fcf-c192-55cf718fa000
