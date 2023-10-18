@@ -8,7 +8,7 @@
 
                     <div class="grid grid-cols-12 md:gap-6">
                         <!-- First Name Field -->
-                        <div class="field col-span-12 lg:col-span-3">
+                        <div class="field col-span-12 lg:col-span-6">
                             {{ if eq .form_bg_color "white" }}
                             <label for="form_first_name" class="font-bold text-white mb-3">First Name *</label>
                             {{ else }}
@@ -20,7 +20,7 @@
                         </div>
 
                         <!-- Last Name Field -->
-                        <div class="field col-span-12 lg:col-span-3">
+                        <div class="field col-span-12 lg:col-span-6">
                             {{ if eq .form_bg_color "white" }}
                             <label for="form_last_name" class="font-bold text-white mb-3">Last Name *</label>
                             {{ else }}
@@ -32,7 +32,7 @@
                         </div>
 
                         <!-- Email Field -->
-                        <div class="field col-span-12 lg:col-span-6">
+                        <div class="field col-span-12">
                             {{ if eq .form_bg_color "white" }}
                             <label class="font-bold mb-3 text-white" for="email">Email *</label>
                             {{ else }}
@@ -42,6 +42,7 @@
                                 <input id="email" name="email" class="border py-2 px-3 text-grey-darkest w-full" type="email" placeholder="e.g. alexsmith@gmail.com" required="required" data-error="Valid email is required." />
                             </div>
                         </div>
+
     
           <div class="field col-span-12 lg:col-span-6">
             {{ if eq .form_bg_color "white" }}
