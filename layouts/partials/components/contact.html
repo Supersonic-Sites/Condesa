@@ -60,35 +60,86 @@
         </h2>
         <p class="mb-6 text-{{ .align }} max-w-5xl mx-auto text-xl tracking-wider">{{ .desc }}</p>
         <form action="{{ .usebasin }}" method="POST" class="grid grid-cols-1 gap-y-6">
-          <div>
-            <label for="form_name" class="sr-only">Full name</label>
+          <div class="grid grid-cols-12 md:gap-6">
+                        <!-- First Name Field -->
+                        <div class="field col-span-12 lg:col-span-6">
+                            {{ if eq .form_bg_color "white" }}
+                            <label for="form_first_name" class="font-bold text-white mb-3">First Name *</label>
+                            {{ else }}
+                            <label for="form_first_name" class="font-bold text-black mb-3">First Name *</label>
+                            {{ end }}
+                            <div class="my-2">
+                                <input id="form_first_name" class="border py-2 px-3 text-grey-darkest w-full" placeholder="e.g Alex" type="text" name="first_name" required="required" data-error="First name is required." />
+                            </div>
+                        </div>
 
-            <input id="form_name" class="block w-full shadow-sm py-3 px-4 placeholder-black rounded-sm focus:border-white ring-primary" placeholder="Full Name" type="text" name="name"
-            required="required" data-error="Name is required." />
+                        <!-- Last Name Field -->
+                        <div class="field col-span-12 lg:col-span-6">
+                            {{ if eq .form_bg_color "white" }}
+                            <label for="form_last_name" class="font-bold text-white mb-3">Last Name *</label>
+                            {{ else }}
+                            <label for="form_last_name" class="font-bold text-black mb-3">Last Name *</label>
+                            {{ end }}
+                            <div class="my-2">
+                                <input id="form_last_name" class="border py-2 px-3 text-grey-darkest w-full" placeholder="e.g Smith" type="text" name="last_name" required="required" data-error="Last name is required." />
+                            </div>
+                        </div>
+
+                        <!-- Email Field -->
+                        <div class="field col-span-12">
+                            {{ if eq .form_bg_color "white" }}
+                            <label class="font-bold mb-3 text-white" for="email">Email *</label>
+                            {{ else }}
+                            <label class="font-bold mb-3 text-black" for="email">Email *</label>
+                            {{ end }}
+                            <div class="my-2">
+                                <input id="email" name="email" class="border py-2 px-3 text-grey-darkest w-full" type="email" placeholder="e.g. alexsmith@gmail.com" required="required" data-error="Valid email is required." />
+                            </div>
+                        </div>
+
+    
+          <div class="field col-span-12 lg:col-span-6">
+            {{ if eq .form_bg_color "white" }}
+            <label class="font-bold mb-3 text-white" for="phone">Phone Number</label>
+            {{ else }}
+            <label class="font-bold mb-3 text-black" for="phone">Phone Number</label>
+            {{ end }}
+            <div class="my-2">
+              <input id="phone" name="phone" class="border py-2 px-3 text-grey-darkest w-full" type="tel" placeholder="e.g. +1-234-567-7890" />
+            </div>
           </div>
-          <div>
-            <label for="email" class="sr-only">Email</label>
-            <input id="email" name="email" type="email" autocomplete="email"
-              class="block w-full shadow-sm py-3 px-4 placeholder-black rounded-sm focus:border-white ring-primary"
-              placeholder="Email">
+
+          <div class="field col-span-12 lg:col-span-6">
+            {{ if eq .form_bg_color "white" }}
+            <label class="font-bold mb-3 text-white" for="topic">Topic</label>
+            {{ else }}
+            <label class="font-bold mb-3 text-black" for="topic">Topic</label>
+            {{ end }}
+            <div class="my-2">
+              <select id="topic" name="Topic" class="w-full">
+                <option value="Custom Piece">Custom Design Piece</option>
+                <option value="Bridal">Bridal & Commitment</option>
+                <option value="Special Items">Vintage or Special Items</option>
+                <option value="Repair">Repair</option>
+                <option value="Other">Other</option>
+              </select>
+            </div>
           </div>
-          <div>
-            <label for="phone" class="sr-only">Phone</label>
-            <input type="text" name="phone" id="phone" autocomplete="tel"
-              class="block w-full shadow-sm py-3 px-4 placeholder-black rounded-sm focus:border-white ring-primary"
-              placeholder="Phone">
+
+          <div class="field col-span-12">
+            {{ if eq .form_bg_color "white" }}
+            <label for="form_message" class="font-bold mb-3 text-white">Message *</label>
+            {{ else }}
+            <label for="form_message" class="font-bold mb-3 text-black">Message *</label>
+            {{ end }}
+            <div class="my-2">
+            <textarea id="form_message" name="message" class="border py-2 px-3 text-grey-darkest w-full" rows="4" required
+              data-error="Please,leave us a message."></textarea>
+            </div>
           </div>
-          <div>
-            <label for="message" class="sr-only">Message</label>
-            <textarea id="message" name="message" rows="4"
-              class="block w-full shadow-sm py-3 px-4 placeholder-black rounded-sm focus:border-white ring-primary"
-              placeholder="Message"></textarea>
           </div>
-          <div>
-            <button type="submit"
-              class="inline-flex justify-center transition duration-500 py-3 px-6 border border-transparent shadow-2xl text-2xl tracking-widest font-medium rounded-sm text-white bg-primary hover:shadow-sm">
-              {{ .cta }}
-            </button>
+          <div class="flex justify-center items-center">
+            <input type="submit" class="cursor-pointer transition uppercase duration-500 w-auto mt-5 btn_primary text-base tracking-wider" value="{{ .cta }}">
           </div>
         </form>
       </div>
