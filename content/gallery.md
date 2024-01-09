@@ -54,8 +54,6 @@ components:
         img_alt: 
       - img: 51eaeff1-9df0-411b-ac6e-cdbb7a0c4800
         img_alt: 
-      - img: 56b8dff3-95fa-4d3c-7951-1b916deaf400
-        img_alt: 
       - img: 4019e0a7-bbbf-4ddc-4496-ff55f5f27100
         img_alt: 
       - img: f3da9086-3590-4395-6afc-c59bd37ae000
@@ -68,13 +66,9 @@ components:
         img_alt: 
       - img: c596e949-585b-43af-f6b2-b5903b95ea00
         img_alt: 
-      - img: 2b0b6413-d2a1-4ff2-bc75-e3e6cddf0900
-        img_alt: 
       - img: 2395123e-46dd-464e-2daf-1e8fed735e00
         img_alt: 
       - img: eb08bbb5-2607-4e6d-4437-b6dc5ee2ea00
-        img_alt: 
-      - img: fa4fa820-9834-4bdf-ca86-aa16090ddc00
         img_alt: 
       - img: 4a361a43-3e14-4c9f-b0db-894768f77100
         img_alt: 
@@ -82,14 +76,10 @@ components:
         img_alt: 
       - img: c613cc1c-dad1-49a4-a36f-3c7080ba7800
         img_alt: 
-      - img: d7a763fb-49fd-40b6-2d4e-79b363c5a800
-        img_alt: 
       - img: b313961f-c605-4a9c-03b2-5f646b2d0c00
         img_alt: 
       - img: 8a42ebec-a770-448e-0ace-2f930ef6b800
         img_alt:
-      - img: 9349b68c-5fd1-4938-e9f6-1e8f7fb7d200
-        img_alt: Condesa Jewelry Piece
       - img: b2b26eb6-39e8-49a6-dd6a-f15a278eac00
         img_alt: Condesa Jewelry Piece
       - img: 660cf379-539f-4770-6d18-751ee8368d00
@@ -100,15 +90,7 @@ components:
         img_alt: Condesa Jewelry Piece
       - img: 76be3bd4-130e-41c6-ac2e-d0261b325f00
         img_alt: Condesa Jewelry Piece
-      - img: 6858f65c-5a83-477a-2b03-e88160353a00
-        img_alt: Condesa Jewelry Piece
       - img: 249f0c40-0532-4286-97f3-318cb2fd7400
-        img_alt: Condesa Jewelry Piece
-      - img: 4133d5bc-94b9-4d30-f741-f03612731600
-        img_alt: Condesa Jewelry Piece
-      - img: 6f2aa0d7-0241-45f0-4627-8d76ef1ef300
-        img_alt: Condesa Jewelry Piece
-      - img: 930128d2-0aca-4169-a37a-7cbd7196bc00
         img_alt: Condesa Jewelry Piece
       - img: 32b7e375-4db5-4a8a-99f6-496c6f550b00
         img_alt: Condesa Jewelry Piece
@@ -117,8 +99,6 @@ components:
       - img: 86d6affd-6190-4623-d4a4-aa8fddb1e400
         img_alt: Condesa Jewelry Piece
       - img: 26d15d60-2d0f-4b56-d0d0-e98ea92bf200
-        img_alt: Condesa Jewelry Piece
-      - img: a46fcbfa-0468-4dc8-e393-48b8afc82c00
         img_alt: Condesa Jewelry Piece
       - img: fb458094-5d7d-4db0-2244-95715fd47000
         img_alt: Condesa Jewelry Piece
